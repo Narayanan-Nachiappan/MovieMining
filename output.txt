@@ -1,0 +1,4591 @@
+Total Movies 5060
+Total Genre 67
+Genre : 8734869884494354127, 33337
+Movie :Tammy (2014), 33337
+Movie :Neighbors (2014), 24881
+Movie :Neighbors , 11111
+Movie :Frozen (2013), 8178
+Movie :Sex Tape (2014), 6694
+Movie :10 Things I Hate About You (1999), 6449
+Movie :We&apos;re the Millers (2013), 6184
+Movie :Despicable Me 2 (2013), 6018
+Movie :Blended (2014), 5573
+Movie :A Million Ways to Die in the West (Unrated) (2014), 5371
+Movie :Men in Black 3 (2012), 5355
+Movie :The Other Woman (2014), 5321
+Movie :The LEGO Movie (2014), 5223
+Movie :The Grand Budapest Hotel (2014), 4708
+Movie :The Internship (2013), 4577
+Movie :Friends With Benefits (2011), 4439
+Movie :RED 2 (2013), 3958
+Movie :Bring It On (2000), 3915
+Movie :R.I.P.D. (2013), 3649
+Movie :The Holiday (2006), 3015
+Movie :Planes: Fire &amp; Rescue (2014), 2987
+Movie :Mrs. Doubtfire (1993), 2489
+Movie :Rio 2 (2014), 2476
+Movie :The Royal Tenenbaums (2001), 2230
+Movie :About Last Night (2014), 2091
+Movie :Superbad (2007), 2075
+Movie :Next Friday (2000), 2059
+Movie :Talladega Nights: The Ballad of Ricky Bobby (2006), 2047
+Movie :The Devil Wears Prada (2006), 2039
+Movie :We Bought a Zoo (2011), 2003
+Movie :Up in the Air (2009), 1984
+Movie :The Sisterhood of the Traveling Pants (2005), 1968
+Movie :Epic (2013), 1881
+Movie :My Big Fat Greek Wedding (2002), 1870
+Movie :Seeking a Friend for the End of the World (2012), 1844
+Movie :Cloudy with a Chance of Meatballs (2009), 1799
+Movie :The Other Guys (2010), 1701
+Movie :Pleasantville (1998), 1679
+Movie :Hotel Transylvania (2012), 1635
+Movie :Go Figure (2005), 1604
+Movie :Scooby-Doo (2002), 1586
+Movie :For Richer or Poorer (1997), 1510
+Movie :Think Like a Man Too (2014), 1475
+Movie :This Is the End (2013), 1424
+Movie :American Hustle (2013), 1409
+Movie :Battle: Los Angeles (2011), 1353
+Movie :Secretary (2002), 1326
+Movie :Moonrise Kingdom (2012), 1289
+Movie :That Awkward Moment (2014), 1262
+Movie :Little Miss Sunshine (2006), 1253
+Movie :Meet the Parents (2000), 1185
+Movie :The Good Witch&apos;s Family (2011), 1173
+Movie :Scooby-Doo 2: Monsters Unleashed (2004), 1148
+Movie :Everyone Else (2009), 1116
+Movie :Just Friends (2005), 1106
+Movie :Superbad (2007), 1030
+Movie :Ride Along (2014), 1011
+Movie :Bad Words (2013), 1004
+Movie :Swordfish (2001), 1003
+Movie :Lost in Translation (2003), 997
+Movie :Robots (2005), 982
+Movie :Garfield: A Tail of Two Kitties (2006), 962
+Movie :The Darjeeling Limited (2007), 958
+Movie :Good Fences (2003), 927
+Movie :Over the Hedge (2006), 901
+Movie :Admission (2013), 888
+Movie :After Sex (2007), 876
+Movie :American Idiots (2013), 841
+Movie :Midnight in Paris (2011), 838
+Movie :When Harry Met Sally... (1989), 831
+Movie :Ice Age: The Meltdown (2006), 812
+Movie :The Sitter (2011), 808
+Movie :Men in Black (1997), 788
+Movie :King Kelly (2012), 787
+Movie :Aquamarine (2006), 785
+Movie :Grudge Match (2013), 778
+Movie :Dos m&#225;s dos (2013), 773
+Movie :Delivery Man (2013), 761
+Movie :Moms&apos; Night Out (2014), 739
+Movie :American Psycho (2000), 699
+Movie :Monster House (2006), 673
+Movie :Pride &amp; Prejudice (2005), 661
+Movie :Chicken Little (2005), 659
+Movie :Idiocracy (2006), 646
+Movie :28 Days (2000), 634
+Movie :Waiting to Exhale (1995), 619
+Movie :The Hitchhiker&apos;s Guide to the Galaxy (2005), 616
+Movie :Le Divorce (2003), 608
+Movie :Gettin&apos; It (2005), 601
+Movie :Curious George (2006), 584
+Movie :It&apos;s a Boy Girl Thing (2006), 579
+Movie :Teeth (2008), 570
+Movie :Ice Age: Continental Drift (2012), 567
+Movie :The Break-Up (2006), 564
+Movie :Are You Here (2013), 562
+Movie :Good Burger (1997), 537
+Movie :Lucky in Love (2014), 523
+Movie :Puss in Boots (2011), 520
+Movie :Legally Blonde (2001), 511
+Movie :How High (2001), 501
+Movie :Before Midnight (2013), 499
+Movie :Point Break (1991), 495
+Movie :RV (2006), 492
+Movie :Maverick (1994), 488
+Movie :My Cousin Vinny (1992), 485
+Movie :Pretty in Pink (1986), 474
+Movie :9 to 5 (1980), 472
+Movie :A Knight&apos;s Tale (2001), 451
+Movie :Visioneers (2008), 443
+Movie :Sky High (2005), 440
+Movie :Flushed Away (2006), 433
+Movie :Meatballs 4 (1992), 415
+Movie :Monsters vs. Aliens (2009), 414
+Movie :My Best Friend&apos;s Wedding (1997), 413
+Movie :Rango (2011), 410
+Movie :2 Guns (2013), 406
+Movie :Open Season (2006), 397
+Movie :Wet Hot American Summer (2001), 396
+Movie :The Life Aquatic with Steve Zissou (2004), 387
+Movie :Eternal Sunshine of the Spotless Mind (2004), 386
+Movie :Bridget Jones&apos;s Diary (2001), 380
+Movie :Enough Said (2013), 379
+Movie :Chocolat (2000), 376
+Movie :The Adventures of Elmo in Grouchland (1999), 375
+Movie :She Hate Me (2004), 374
+Movie :Beyond Sherwood Forest (2009), 370
+Movie :Please Kill Mr. Know It All (2013), 367
+Movie :The Blackout (2013), 365
+Movie :Stuart Little (1999), 362
+Movie :Beverly Hills Ninja (1997), 355
+Movie :Ice Age: Dawn of the Dinosaurs (2009), 353
+Movie :Planet 51 (2009), 345
+Movie :Doogal (2006), 338
+Movie :Fast and Furious (2009), 334
+Movie :Blue Jasmine (2013), 332
+Movie :Muppets Most Wanted (2014), 331
+Movie :The Fifth Element (1997), 330
+Movie :Everyone&apos;s Hero (2006), 328
+Movie :Religulous (2008), 327
+Movie :Afternoon Delight (2013), 322
+Movie :As Good as It Gets (1997), 319
+Movie :The Sweeter Side of Life (2013), 315
+Movie :Are We Done Yet? (2007), 314
+Movie :Austenland (2013), 310
+Movie :Used Cars (1980), 309
+Movie :Overboard (1987), 306
+Movie :Home Alone 3 (1997), 300
+Movie :The Cutting Edge (1992), 297
+Movie :Ghost World (2001), 290
+Movie :Nanny McPhee (2005), 286
+Movie :Sexy Evil Genius (2013), 283
+Movie :Legally Blondes (2008), 281
+Movie :The Hangover Part III (2013), 280
+Movie :Only You (1992), 279
+Movie :Don&apos;t Tell Mom the Babysitter&apos;s Dead (1991), 278
+Movie :The Chaperone (2011), 275
+Movie :The Jerk (1979), 274
+Movie :Perfect Romance (2004), 271
+Movie :Her Best Move (2007), 269
+Movie :What&apos;s the Worst That Could Happen? (2001), 264
+Movie :That&apos;s My Boy (2012), 263
+Movie :A.C.O.D. (2013), 260
+Movie :Small Soldiers (1998), 255
+Movie :Meatballs (1979), 254
+Movie :Miracle Beach (1992), 252
+Movie :Rush Hour (1998), 250
+Movie :The Man (2005), 248
+Movie :The Players Club (1998), 247
+Movie :My Tutor (1983), 246
+Movie :That Gal...Who Was in That Thing: That Guy 2 (2015), 241
+Movie :A Fish Called Wanda (1988), 237
+Movie :Smooch (2011), 236
+Movie :Becoming Jane (2007), 233
+Movie :Last Holiday (2006), 230
+Movie :August: Osage County (2013), 229
+Movie :First Kid (1996), 228
+Movie :Dennis the Menace (1993), 226
+Movie :One for the Money (2012), 225
+Movie :The Kid (2000), 223
+Movie :Tales from the Crypt Presents: Demon Knight (1995), 222
+Movie :7 Things to Do Before I&apos;m 30 (2008), 220
+Movie :Private Parts (1997), 219
+Movie :Agent Cody Banks (2003), 217
+Movie :Merlin and the Book of Beasts (2009), 216
+Movie :My Faraway Bride (2006), 215
+Movie :Among Ravens (2014), 211
+Movie :The Thomas Crown Affair (1999), 210
+Movie :Kick-Ass 2 (2013), 208
+Movie :Cheerleaders&apos; Beach Party (1978), 206
+Movie :Boomerang (1992), 205
+Movie :American Joyride (2011), 204
+Movie :Robin Hood: Men in Tights (1993), 203
+Movie :Frequently Asked Questions About Time Travel (2009), 202
+Movie :Choke (2008), 197
+Movie :Bubble Boy (2001), 195
+Movie :Land Ho! (2014), 193
+Movie :Singles (1992), 192
+Movie :Foul Play (1978), 190
+Movie :Grandma&apos;s Boy (Unrated) (2006), 189
+Movie :Curly Sue (1991), 187
+Movie :Annie (1982), 186
+Movie :Mr. Popper&apos;s Penguins (2011), 184
+Movie :The Forbidden Kingdom (2008), 183
+Movie :Brown Sugar (2002), 182
+Movie :The Truman Show (1998), 181
+Movie :St. Elmo&apos;s Fire (1985), 177
+Movie :The Mystery of Happiness (2014), 176
+Movie :Some Like It Hot (1959), 175
+Movie :Coyote Ugly (2000), 174
+Movie :Jumpin&apos; Jack Flash (1986), 173
+Movie :Bad Johnson (2014), 172
+Movie :Nina Takes a Lover (1995), 169
+Movie :Men at Work (1990), 166
+Movie :Wild Women (2013), 165
+Movie :Casper: A Spirited Beginning (1998), 163
+Movie :Baby Boom (1987), 162
+Movie :The Last Kiss (2001), 161
+Movie :One Fine Day (1996), 160
+Movie :Herbie: Fully Loaded (2005), 159
+Movie :Charlie Bartlett (2007), 158
+Movie :Killing Them Softly (2012), 155
+Movie :All the Days Before Tomorrow (2007), 153
+Movie :Sexy Beast (2000), 151
+Movie :Dirty Love (2005), 149
+Movie :Baby Geniuses (1999), 147
+Movie :Dasepo Naughty Girls (2006), 145
+Movie :The First Wives Club (1996), 144
+Movie :Hello, Dolly! (1969), 143
+Movie :Hitch (2005), 141
+Movie :A Good Year (2006), 138
+Movie :The Heat (2013), 136
+Movie :Best in Show (2000), 135
+Movie :Serial Mom (1994), 134
+Movie :The Object of My Affection (1998), 132
+Movie :Keeping the Faith (2000), 130
+Movie :Goodbye, Mr. Chips (1939), 129
+Movie :Problem Child (1990), 128
+Movie :Dead Like Me: Life After Death (2009), 127
+Movie :Inspector Gadget (1999), 126
+Movie :Finding Joy (2013), 125
+Movie :Armed and Dangerous (1986), 124
+Movie :Phat Girlz (2006), 123
+Movie :Clear History (2013), 122
+Movie :Big Trouble in Little China (1986), 121
+Movie :The Change-Up (2011), 120
+Movie :Broken Flowers (2005), 116
+Movie :Heatstroke (2014), 115
+Movie :Victor/Victoria (1982), 114
+Movie :All About the Benjamins (2002), 113
+Movie :Beaches (1988), 112
+Movie :South Park: Bigger, Longer &amp; Uncut (1999), 111
+Movie :Revenge of the Nerds (1984), 110
+Movie :Problem Child 2 (1991), 108
+Movie :Dom Hemingway (2014), 107
+Movie :Austin Powers: International Man of Mystery (1997), 106
+Movie :Love Wedding Marriage (2011), 105
+Movie :Bad Meat (2011), 104
+Movie :3 Ninjas Kick Back (1994), 103
+Movie :Jackhammer (2014), 102
+Movie :The Cable Guy (1996), 100
+Movie :Bio-Dome (1995), 99
+Movie :Homecoming (2013), 98
+Movie :A Very Harold &amp; Kumar Christmas (2011), 96
+Movie :Mystery Team (2009), 95
+Movie :The Almost Perfect Bank Robbery (1999), 94
+Movie :Beethoven (1992), 93
+Movie :Poseidon (2006), 92
+Movie :The Prime of Miss Jean Brodie (1969), 91
+Movie :The World&apos;s End (2013), 90
+Movie :The Best Man Holiday (2013), 89
+Movie :A Simple Wish (1997), 88
+Movie :Good Dick (2007), 87
+Movie :Dr. Dolittle 2 (2001), 86
+Movie :The Rocky Horror Picture Show (1975), 85
+Movie :Always Woodstock (2014), 84
+Movie :200 Pounds Beauty (2006), 83
+Movie :10 Years Later (2011), 82
+Movie :The Black Belle (2010), 81
+Movie :The Big Year (2011), 79
+Movie :The Bachelor (1999), 78
+Movie :Bull Durham (1988), 77
+Movie :A Case of You (2013), 76
+Movie :Big Fish (2003), 75
+Movie :The Lunchbox (2013), 74
+Movie :Breakin&apos; All the Rules (2004), 73
+Movie :Going Down in LA-LA Land (2011), 72
+Movie :Whipped (1999), 71
+Movie :Love&apos;s Kitchen (2011), 70
+Movie :Annie: A Royal Adventure (1995), 69
+Movie :Coraz&#243;n de le&#243;n (2013), 68
+Movie :The Guard (2011), 67
+Movie :A Perfect Man (2013), 66
+Movie :The Iron Petticoat (1956), 65
+Movie :Brightest Star (2013), 64
+Movie :The Brothers Solomon (2007), 63
+Movie :Almost Heaven (2006), 62
+Movie :Evil Bong (2006), 61
+Movie :16-Love (2012), 60
+Movie :Mannequin 2: On the Move (1991), 59
+Movie :The Adventures of Buckaroo Banzai Across the 8th Dimension! (1984), 58
+Movie :200 Cartas (2013), 57
+Movie :A Town Called Panic (2009), 56
+Movie :8 Heads in a Duffel Bag (1997), 55
+Movie :Big (1988), 54
+Movie :100 Girls (2000), 53
+Movie :Bedazzled (2000), 52
+Movie :30 Years to Life (2001), 51
+Movie :The Atomic Hotel Erotica (2014), 50
+Movie :A Glimpse Inside the Mind of Charles Swan III (2013), 49
+Movie :Contest (2013), 48
+Movie :Fun with Dick and Jane (1977), 47
+Movie :All Is Bright (2013), 46
+Movie :Bean (1997), 45
+Movie :Bad Boys II (2003), 44
+Movie :All of Me (1984), 43
+Movie :The Adventures of Rocky and Bullwinkle (2000), 42
+Movie :Leave It to Beaver (1997), 41
+Movie :A Fork in the Road (2009), 40
+Movie :Cocktail (1988), 39
+Movie :Dear God (1996), 38
+Movie :A Very Brady Christmas (1988), 37
+Movie :A Birder&apos;s Guide to Everything (2013), 36
+Movie :Blackballed: The Bobby Dukes Story (2005), 35
+Movie :At Middleton (2013), 34
+Movie :Orgazmo (1997), 33
+Movie :42nd Street (1933), 32
+Movie :Dance of the Dead (2008), 31
+Movie :$5 a Day (2008), 30
+Movie :All Babe Network (2013), 29
+Movie :The Best of Times (1986), 28
+Movie :3 Geezers! (2013), 27
+Movie :200 Motels (1971), 26
+Movie :Bandidas (2006), 25
+Movie :Almost Perfect (2011), 24
+Movie :A Shock to the System (1990), 23
+Movie :Anything Goes (1956), 22
+Movie :A Night in Casablanca (1946), 21
+Movie :A Pig&apos;s Tale (Summer Camp) (1995), 20
+Movie :An Oversimplification of Her Beauty (2011), 19
+Movie :Bailey&apos;s Billions (2005), 18
+Movie :Bachelor Party Vegas (2006), 17
+Movie :Being Flynn (2012), 16
+Movie :Blue Hawaii (1961), 15
+Movie :A Tale of Legendary Libido (2012), 14
+Movie :3 Blind Saints (2011), 13
+Movie :16 to Life (2010), 12
+Movie :Africa Screams (1949), 11
+Movie :Beer for My Horses (2008), 10
+Movie :12 Dogs of Christmas: Great Puppy Rescue (2012), 9
+Movie :A Christmas Too Many (2005), 8
+Movie :Bigger Than the Sky (2005), 7
+Movie :A Good Woman (2004), 6
+Movie :A Buddy Story (2012), 5
+Movie :Abbott and Costello: The Christmas Show (1952), 4
+Movie :36 China Town (2006), 3
+Movie :Adult World (2013), 2
+Movie :3 Idiots (2009), 1
+
+Genre : 6597449446839632118, 24881
+Movie :Neighbors (2014), 24881
+Movie :Divergent (2014), 17796
+Movie :Fifty Shades of Grey (2015), 15230
+Movie :Neighbors , 11111
+Movie :Frozen (2013), 8178
+Movie :Sex Tape (2014), 6694
+Movie :10 Things I Hate About You (1999), 6449
+Movie :Endless Love (2014), 6060
+Movie :Step Up All In (2014), 5815
+Movie :Blended (2014), 5573
+Movie :A Million Ways to Die in the West (Unrated) (2014), 5371
+Movie :The Other Woman (2014), 5321
+Movie :The Grand Budapest Hotel (2014), 4708
+Movie :Friends With Benefits (2011), 4439
+Movie :Recipe for Love (2014), 4073
+Movie :The Holiday (2006), 3015
+Movie :Belle (2014), 2989
+Movie :Wild Camp (2005), 2972
+Movie :Blade Runner (1982), 2734
+Movie :Batman Begins (2005), 2698
+Movie :Third Person (2013), 2641
+Movie :The Intimate (2005), 2635
+Movie :Atonement (2007), 2268
+Movie :About Last Night (2014), 2091
+Movie :Superbad (2007), 2075
+Movie :The Great Gatsby (2013), 2067
+Movie :Up in the Air (2009), 1984
+Movie :The Sisterhood of the Traveling Pants (2005), 1968
+Movie :My Big Fat Greek Wedding (2002), 1870
+Movie :Seeking a Friend for the End of the World (2012), 1844
+Movie :Pleasantville (1998), 1679
+Movie :Hotel Transylvania (2012), 1635
+Movie :For Richer or Poorer (1997), 1510
+Movie :Think Like a Man Too (2014), 1475
+Movie :For Better or for Worse (2014), 1449
+Movie :Center Stage (2000), 1424
+Movie :The Amazing Spider-Man 2 (2014), 1404
+Movie :Secretary (2002), 1326
+Movie :Moonrise Kingdom (2012), 1289
+Movie :In Time (2011), 1273
+Movie :That Awkward Moment (2014), 1262
+Movie :The Mortal Instruments: City of Bones (2013), 1186
+Movie :Meet the Parents (2000), 1185
+Movie :My Boyfriends&apos; Dogs (2014), 1179
+Movie :Dreamgirls (2006), 1154
+Movie :Elysium (2013), 1147
+Movie :Everyone Else (2009), 1116
+Movie :Just Friends (2005), 1106
+Movie :Blue Crush (2002), 1046
+Movie :Superbad (2007), 1030
+Movie :Lost in Translation (2003), 997
+Movie :A Teacher (2013), 940
+Movie :Admission (2013), 888
+Movie :After Sex (2007), 876
+Movie :American Idiots (2013), 841
+Movie :Midnight in Paris (2011), 838
+Movie :When Harry Met Sally... (1989), 831
+Movie :Aquamarine (2006), 785
+Movie :Dos m&#225;s dos (2013), 773
+Movie :Rob Roy (1995), 745
+Movie :Pride &amp; Prejudice (2005), 661
+Movie :Pompeii (2014), 651
+Movie :28 Days (2000), 634
+Movie :A Ring by Spring (2014), 629
+Movie :Waiting to Exhale (1995), 619
+Movie :Fatal Desire (2006), 610
+Movie :Le Divorce (2003), 608
+Movie :Closer (2004), 602
+Movie :Gettin&apos; It (2005), 601
+Movie :Snow White and the Huntsman (2012), 591
+Movie :The Constant Gardener (2005), 579
+Movie :Teeth (2008), 570
+Movie :Vamp U (2013), 567
+Movie :The Break-Up (2006), 564
+Movie :Vanity Fair (2004), 550
+Movie :A Walk in the Clouds (1995), 547
+Movie :Good Burger (1997), 537
+Movie :Lucky in Love (2014), 523
+Movie :Legally Blonde (2001), 511
+Movie :Sex and the Single Mom (2003), 509
+Movie :Legend (1985), 506
+Movie :From Russia with Love (1963), 501
+Movie :Before Midnight (2013), 499
+Movie :Charlie St. Cloud (2010), 495
+Movie :My Cousin Vinny (1992), 485
+Movie :Pretty in Pink (1986), 474
+Movie :A Knight&apos;s Tale (2001), 451
+Movie :Secret Lives of Second Wives (2007), 444
+Movie :Sky High (2005), 440
+Movie :Stranded in Paradise (2014), 437
+Movie :Flushed Away (2006), 433
+Movie :La mujer de mi hermano (2005), 432
+Movie :When Sparks Fly (2014), 415
+Movie :My Best Friend&apos;s Wedding (1997), 413
+Movie :Reasonable Doubt (2014), 402
+Movie :Wet Hot American Summer (2001), 396
+Movie :The Life Aquatic with Steve Zissou (2004), 387
+Movie :Eternal Sunshine of the Spotless Mind (2004), 386
+Movie :Four Lovers (2010), 383
+Movie :Bridget Jones&apos;s Diary (2001), 380
+Movie :Enough Said (2013), 379
+Movie :Chocolat (2000), 376
+Movie :Green Chair (2003), 375
+Movie :She Hate Me (2004), 374
+Movie :Bad Guy (2001), 369
+Movie :Please Kill Mr. Know It All (2013), 367
+Movie :Wuthering Heights (2011), 355
+Movie :Ice Age: Dawn of the Dinosaurs (2009), 353
+Movie :The Memory Book (2014), 343
+Movie :First Knight (1995), 328
+Movie :Afternoon Delight (2013), 322
+Movie :As Good as It Gets (1997), 319
+Movie :The Blue Lagoon (1980), 315
+Movie :Austenland (2013), 310
+Movie :Overboard (1987), 306
+Movie :The Cutting Edge (1992), 297
+Movie :Wild Orchid (1990), 292
+Movie :Sexy Evil Genius (2013), 283
+Movie :Only You (1992), 279
+Movie :A Wife&apos;s Secret (2014), 278
+Movie :The Jerk (1979), 274
+Movie :The Wolverine (2013), 273
+Movie :Perfect Romance (2004), 271
+Movie :Her Best Move (2007), 269
+Movie :Dark City (1998), 266
+Movie :Frida (2002), 264
+Movie :The Mask of Zorro (1998), 262
+Movie :Meatballs (1979), 254
+Movie :Miracle Beach (1992), 252
+Movie :Flicka (2006), 249
+Movie :My Girl (1991), 248
+Movie :My Tutor (1983), 246
+Movie :The Hypnotized (2004), 245
+Movie :Chino (1973), 244
+Movie :A Fish Called Wanda (1988), 237
+Movie :Smooch (2011), 236
+Movie :37: A Final Promise (2014), 235
+Movie :Becoming Jane (2007), 233
+Movie :Ray (2004), 231
+Movie :Last Holiday (2006), 230
+Movie :Sweet Sex and Love (2003), 227
+Movie :One for the Money (2012), 225
+Movie :Baby Boy (2001), 221
+Movie :7 Things to Do Before I&apos;m 30 (2008), 220
+Movie :La vida precoz y breve de Sabina Rivas (2012), 218
+Movie :Agent Cody Banks (2003), 217
+Movie :My Faraway Bride (2006), 215
+Movie :Against All Odds (1984), 213
+Movie :The Thomas Crown Affair (1999), 210
+Movie :Meddling Mom (2013), 208
+Movie :Female Perversions (1996), 206
+Movie :Boomerang (1992), 205
+Movie :Jamie Marks Is Dead (2014), 204
+Movie :Robin Hood: Men in Tights (1993), 203
+Movie :Not Cool (2014), 197
+Movie :Bubble Boy (2001), 195
+Movie :Awaken (2012), 192
+Movie :Foul Play (1978), 190
+Movie :Sleeping with the Enemy (1991), 187
+Movie :Annie (1982), 186
+Movie :Brown Sugar (2002), 182
+Movie :St. Elmo&apos;s Fire (1985), 177
+Movie :The Mystery of Happiness (2014), 176
+Movie :Some Like It Hot (1959), 175
+Movie :Coyote Ugly (2000), 174
+Movie :Frequencies (2013), 169
+Movie :Baby Boom (1987), 162
+Movie :The Last Kiss (2001), 161
+Movie :One Fine Day (1996), 160
+Movie :In the Land of Women (2007), 159
+Movie :Charlie Bartlett (2007), 158
+Movie :Rob the Mob (2014), 157
+Movie :Secret Things (2002), 155
+Movie :Only Lovers Left Alive (2013), 154
+Movie :All the Days Before Tomorrow (2007), 153
+Movie :North Sea Texas (2011), 150
+Movie :Dirty Love (2005), 149
+Movie :112 Weddings (2014), 148
+Movie :Dasepo Naughty Girls (2006), 145
+Movie :The First Wives Club (1996), 144
+Movie :Hello, Dolly! (1969), 143
+Movie :Hitch (2005), 141
+Movie :Cleopatra (1963), 139
+Movie :A Good Year (2006), 138
+Movie :&apos;Til Lies Do Us Part (2007), 135
+Movie :The Object of My Affection (1998), 132
+Movie :Cinderella (1994), 131
+Movie :Keeping the Faith (2000), 130
+Movie :Goodbye, Mr. Chips (1939), 129
+Movie :Finding Joy (2013), 125
+Movie :Phat Girlz (2006), 123
+Movie :Winter&apos;s Tale (2014), 122
+Movie :Armageddon (1998), 121
+Movie :The Change-Up (2011), 120
+Movie :On Her Majesty&apos;s Secret Service (1969), 118
+Movie :Quicksilver (1986), 117
+Movie :The Waterboy (1998), 116
+Movie :Derailed (2005), 115
+Movie :Victor/Victoria (1982), 114
+Movie :The Five Heartbeats (1991), 113
+Movie :Beaches (1988), 112
+Movie :Another 9 1/2 Weeks (1997), 111
+Movie :Problem Child 2 (1991), 108
+Movie :In Good Company (2004), 107
+Movie :Eyes Wide Shut (1999), 106
+Movie :Love Wedding Marriage (2011), 105
+Movie :Fair Game (1995), 104
+Movie :Dude, Where&apos;s My Car? (2000), 103
+Movie :The Majestic (2001), 102
+Movie :Secret Love (2010), 100
+Movie :Goin&apos; South (1978), 99
+Movie :Homecoming (2013), 98
+Movie :Moulin Rouge (2001), 95
+Movie :Casanova (2005), 94
+Movie :Attenberg (2010), 93
+Movie :The Prime of Miss Jean Brodie (1969), 91
+Movie :1984 (1984), 89
+Movie :A Simple Wish (1997), 88
+Movie :Good Dick (2007), 87
+Movie :The Other Boleyn Girl (2008), 86
+Movie :Boy Culture (2007), 85
+Movie :Always Woodstock (2014), 84
+Movie :200 Pounds Beauty (2006), 83
+Movie :Garden Party (2008), 82
+Movie :Hanging Up (2000), 81
+Movie :The Citadel (1938), 79
+Movie :Antares (2004), 78
+Movie :Bull Durham (1988), 77
+Movie :A Case of You (2013), 76
+Movie :Big Fish (2003), 75
+Movie :The Lunchbox (2013), 74
+Movie :Breakin&apos; All the Rules (2004), 73
+Movie :Going Down in LA-LA Land (2011), 72
+Movie :The Border (1982), 71
+Movie :Love&apos;s Kitchen (2011), 70
+Movie :A Promise (2013), 69
+Movie :Blood Simple (1984), 68
+Movie :A Good Day to Be Black &amp; Sexy (2008), 67
+Movie :A Perfect Man (2013), 66
+Movie :The Iron Petticoat (1956), 65
+Movie :Brightest Star (2013), 64
+Movie :Before Sunset (2004), 63
+Movie :Ain&apos;t Them Bodies Saints (2013), 62
+Movie :Foxy Festival (2010), 61
+Movie :16-Love (2012), 60
+Movie :Higher Learning (1995), 59
+Movie :Mr. Deeds (2002), 58
+Movie :200 Cartas (2013), 57
+Movie :A Town Called Panic (2009), 56
+Movie :A Room With a View (1985), 55
+Movie :Big (1988), 54
+Movie :100 Girls (2000), 53
+Movie :A Wife Alone (2013), 52
+Movie :30 Years to Life (2001), 51
+Movie :Coffee Town (2012), 50
+Movie :A Glimpse Inside the Mind of Charles Swan III (2013), 49
+Movie :The Last Time (2007), 48
+Movie :Fun with Dick and Jane (1977), 47
+Movie :Gilda (1946), 45
+Movie :A Cool, Dry Place (1999), 44
+Movie :All of Me (1984), 43
+Movie :All the Real Girls (2003), 42
+Movie :Permanent Midnight (1998), 41
+Movie :A Fork in the Road (2009), 40
+Movie :An Officer and a Gentleman (1982), 39
+Movie :Another Life (2001), 38
+Movie :Bagdad Cafe (1988), 37
+Movie :Benny &amp; Joon (1993), 36
+Movie :Children of a Lesser God (1986), 35
+Movie :American Gigolo (1980), 34
+Movie :The Call of the Wild (1972), 33
+Movie :42nd Street (1933), 32
+Movie :Dear Frankie (2004), 31
+Movie :The Adventures of Priscilla, Queen of the Desert (1994), 30
+Movie :Alacr&#225;n enamorado (2013), 29
+Movie :A Beautiful Life (2011), 28
+Movie :Helpless (2011), 27
+Movie :Graffiti Bridge (1990), 26
+Movie :Amour (2012), 25
+Movie :Almost Perfect (2011), 24
+Movie :Bewitched (2005), 23
+Movie :The Dead (1987), 22
+Movie :Cloud 9 (2008), 21
+Movie :A Pig&apos;s Tale (Summer Camp) (1995), 20
+Movie :An Oversimplification of Her Beauty (2011), 19
+Movie :The Brothers (2001), 18
+Movie :Al sur de la inocencia (2014), 17
+Movie :Betrayed (1988), 16
+Movie :Amores Perros (2000), 15
+Movie :Bad Girls (1994), 14
+Movie :A Jihad for Love (2007), 13
+Movie :16 to Life (2010), 12
+Movie :The Age of Innocence (1993), 11
+Movie :A Warrior&apos;s Heart (2011), 10
+Movie :A Rage to Live (1965), 9
+Movie :A Lovers Call (2012), 8
+Movie :Betty Blue (1986), 7
+Movie :A Good Woman (2004), 6
+Movie :A Buddy Story (2012), 5
+Movie :Alice (1990), 4
+Movie :A Farewell to Arms (1932), 3
+Movie :Aa Dekhen Zara (2009), 2
+Movie :3 Idiots (2009), 1
+
+Genre : 5182327145133088127, 17796
+Movie :Divergent (2014), 17796
+Movie :Live Die Repeat: Edge of Tomorrow (2014), 11894
+Movie :The Divergent Series: Insurgent (2015), 11021
+Movie :Eragon (2006), 10731
+Movie :Maleficent (2014), 8306
+Movie :Frozen (2013), 8178
+Movie :Fast &amp; Furious 6 (2013), 7386
+Movie :The Purge: Anarchy (2014), 7202
+Movie :Men in Black 3 (2012), 5355
+Movie :Captain America: The Winter Soldier (2014), 5081
+Movie :Sunshine (2007), 3922
+Movie :Oblivion (2013), 3906
+Movie :The Hobbit: The Desolation of Smaug (2013), 3698
+Movie :R.I.P.D. (2013), 3649
+Movie :Thor: The Dark World (2013), 3295
+Movie :The Signal (2014), 3018
+Movie :Iron Man (2008), 2961
+Movie :300: Rise of an Empire (2014), 2817
+Movie :The Hobbit: An Unexpected Journey (2012), 2791
+Movie :Percy Jackson: Sea of Monsters (2013), 2764
+Movie :Blade Runner (1982), 2734
+Movie :Batman Begins (2005), 2698
+Movie :28 Days Later (2002), 2285
+Movie :Epic (2013), 1881
+Movie :X2 (2003), 1807
+Movie :Cloudy with a Chance of Meatballs (2009), 1799
+Movie :Pleasantville (1998), 1679
+Movie :Hotel Transylvania (2012), 1635
+Movie :Scooby-Doo (2002), 1586
+Movie :Hulk (2003), 1454
+Movie :This Is the End (2013), 1424
+Movie :The Amazing Spider-Man 2 (2014), 1404
+Movie :Battle: Los Angeles (2011), 1353
+Movie :The League of Extraordinary Gentlemen (2003), 1313
+Movie :In Time (2011), 1273
+Movie :After Earth (2013), 1227
+Movie :Resident Evil: Apocalypse (2004), 1218
+Movie :Lost Time (2014), 1208
+Movie :Godzilla (2014), 1195
+Movie :The Mortal Instruments: City of Bones (2013), 1186
+Movie :The Good Witch&apos;s Family (2011), 1173
+Movie :Elysium (2013), 1147
+Movie :Aliens (1986), 1063
+Movie :Robots (2005), 982
+Movie :The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005), 952
+Movie :Halo 4: Forward Unto Dawn (2012), 939
+Movie :Blade (1998), 897
+Movie :2012 (2012), 850
+Movie :Future World: City of Mass Destruction (2012), 824
+Movie :Ice Age: The Meltdown (2006), 812
+Movie :Men in Black (1997), 788
+Movie :Aquamarine (2006), 785
+Movie :Alien (1979), 721
+Movie :The Good Witch&apos;s Garden (2009), 706
+Movie :Sleepy Hollow (1999), 705
+Movie :X-Men: The Last Stand (2006), 684
+Movie :Demolition Man (1993), 674
+Movie :Abraham Lincoln: Vampire Hunter (2012), 667
+Movie :Resident Evil (2002), 655
+Movie :Harry Potter and the Goblet of Fire (2005), 647
+Movie :Idiocracy (2006), 646
+Movie :Her (2013), 634
+Movie :The Hitchhiker&apos;s Guide to the Galaxy (2005), 616
+Movie :Snow White and the Huntsman (2012), 591
+Movie :Epoch (2000), 590
+Movie :Curious George (2006), 584
+Movie :It&apos;s a Boy Girl Thing (2006), 579
+Movie :Lucky in Love (2014), 523
+Movie :Puss in Boots (2011), 520
+Movie :Transcendence (2014), 518
+Movie :Legend (1985), 506
+Movie :Charlie St. Cloud (2010), 495
+Movie :City of Ember (2008), 476
+Movie :Alien Resurrection (1997), 473
+Movie :Push (2009), 461
+Movie :Pulse (2006), 447
+Movie :Visioneers (2008), 443
+Movie :The Man From Earth (2007), 440
+Movie :Monsters vs. Aliens (2009), 414
+Movie :WarGames: The Dead Code (2008), 406
+Movie :The Life Aquatic with Steve Zissou (2004), 387
+Movie :Eternal Sunshine of the Spotless Mind (2004), 386
+Movie :The Adventures of Elmo in Grouchland (1999), 375
+Movie :Beyond Sherwood Forest (2009), 370
+Movie :Stuart Little (1999), 362
+Movie :Primer (2004), 361
+Movie :Ice Age: Dawn of the Dinosaurs (2009), 353
+Movie :The Legend of Hercules (2014), 346
+Movie :Planet 51 (2009), 345
+Movie :Survival Code (2013), 344
+Movie :Doogal (2006), 338
+Movie :The Fifth Element (1997), 330
+Movie :Silent Hill (2006), 320
+Movie :The Witches (1990), 316
+Movie :The Abyss (1989), 314
+Movie :Alien 3 (1992), 304
+Movie :Vexille (2007), 292
+Movie :Gravity (2013), 291
+Movie :Nanny McPhee (2005), 286
+Movie :Sexy Evil Genius (2013), 283
+Movie :Child&apos;s Play (1988), 281
+Movie :The Cell (2000), 279
+Movie :The Colony (2013), 273
+Movie :Moonraker (1979), 272
+Movie :Dark City (1998), 266
+Movie :Starship Troopers (1997), 257
+Movie :Small Soldiers (1998), 255
+Movie :Miracle Beach (1992), 252
+Movie :Chronicle (2012), 247
+Movie :21 (2008), 243
+Movie :Smooch (2011), 236
+Movie :The Secret of Kells (2009), 235
+Movie :The Kid (2000), 223
+Movie :LEGO: The Adventures of Clutch Powers (2010), 222
+Movie :A Little Princess (1995), 219
+Movie :Merlin and the Book of Beasts (2009), 216
+Movie :Contact (1997), 208
+Movie :Lost in Space (1998), 204
+Movie :Frequently Asked Questions About Time Travel (2009), 202
+Movie :The Vanguard (2008), 196
+Movie :The Legend of Bagger Vance (2000), 195
+Movie :Christine (1983), 191
+Movie :Superman/Batman: Public Enemies (2009), 190
+Movie :Hook (1991), 187
+Movie :Escape Plan (2013), 185
+Movie :The Forbidden Kingdom (2008), 183
+Movie :The Truman Show (1998), 181
+Movie :White Wall (2010), 180
+Movie :Species (1995), 178
+Movie :Care Bears: A Belly Badge for Wonderheart (2013), 177
+Movie :King of Thorn (2010), 176
+Movie :The Collapsed (2011), 174
+Movie :Love (2011), 173
+Movie :Battle for Terra (2009), 170
+Movie :Frequencies (2013), 169
+Movie :Highlander 2: The Quickening (1991), 162
+Movie :Herbie: Fully Loaded (2005), 159
+Movie :Day Watch (2006), 142
+Movie :Jumanji (1995), 139
+Movie :The Chronicles of Riddick: Dark Fury (2004), 137
+Movie :The Day (2011), 135
+Movie :The Mothman Prophecies (2002), 134
+Movie :Cinderella (1994), 131
+Movie :Honey, I Shrunk the Kids (1989), 129
+Movie :Dead Like Me: Life After Death (2009), 127
+Movie :Inspector Gadget (1999), 126
+Movie :Winter&apos;s Tale (2014), 122
+Movie :Armageddon (1998), 121
+Movie :Species II (1998), 120
+Movie :Tron (1982), 118
+Movie :Against the Dark (2009), 117
+Movie :The Princess and the Goblin (1992), 115
+Movie :Rollerball (2002), 114
+Movie :Stuart Little 3: Call of the Wild (2005), 112
+Movie :Aeon Flux (2005), 109
+Movie :Dragon Wars (2007), 105
+Movie :Batteries Not Included (1987), 104
+Movie :Dude, Where&apos;s My Car? (2000), 103
+Movie :Alice&apos;s Adventures in Wonderland (1972), 101
+Movie :Poltergeist II: The Other Side (1986), 100
+Movie :Conspiracy Theory (1997), 99
+Movie :Ghost Rider: Spirit of Vengeance (2012), 98
+Movie :Jacob&apos;s Ladder (1990), 94
+Movie :Jade Warrior (2006), 93
+Movie :Omen IV: The Awakening (1991), 91
+Movie :Cyborg Soldier (2008), 90
+Movie :1984 (1984), 89
+Movie :A Simple Wish (1997), 88
+Movie :The Divide (2011), 84
+Movie :Dead Space: Downfall (2008), 83
+Movie :Zerophilia (2006), 82
+Movie :Hellboy: Blood and Iron (2007), 79
+Movie :Care Bears: The Care-A-Thon Games (2014), 77
+Movie :Ballad of a Gunfighter (1998), 76
+Movie :Big Fish (2003), 75
+Movie :The Adventures of Sharkboy and Lavagirl (2005), 73
+Movie :Inspector Gadget&apos;s Biggest Caper Ever (2005), 72
+Movie :Dark Floors (2008), 70
+Movie :Aladdin (1992), 69
+Movie :Son of the Mask (2005), 68
+Movie :Care Bears: Big Wish Movie (2005), 67
+Movie :The New Adventures of Peter Rabbit (1998), 65
+Movie :A Clockwork Orange (1971), 64
+Movie :The Chronicles of Riddick (2004), 63
+Movie :The Phantom (1996), 62
+Movie :Adventures of a Teenage Dragonslayer (2010), 60
+Movie :Lion of Oz (2000), 59
+Movie :The Adventures of Buckaroo Banzai Across the 8th Dimension! (1984), 58
+Movie :Five Star Day (2010), 57
+Movie :A Town Called Panic (2009), 56
+Movie :The Cyclops (1957), 55
+Movie :Big (1988), 54
+Movie :Care Bears: Journey to Joke-a-Lot (2004), 53
+Movie :Bedazzled (2000), 52
+Movie :Babe: Pig in the City (1998), 51
+Movie :Back to the Sea (2011), 50
+Movie :Anacondas: The Hunt for the Blood Orchid (2004), 48
+Movie :King Kong (2005), 46
+Movie :47 Ronin (2013), 45
+Movie :All of Me (1984), 43
+Movie :Little Shop of Horrors (1986), 42
+Movie :Fall Time (1995), 41
+Movie :Cemetery Gates (2006), 40
+Movie :The Blob (1988), 39
+Movie :The Ghost Goes West (1935), 38
+Movie :Earth Girls Are Easy (1988), 37
+Movie :The Final Cut (2004), 36
+Movie :I Married a Witch (1942), 35
+Movie :GodKiller (2010), 34
+Movie :Alien Nation (1988), 33
+Movie :Gammera the Invincible (1965), 32
+Movie :Heartless (2009), 31
+Movie :Final Fantasy: The Spirits Within (2001), 30
+Movie :Atomic Brain Invasion (2012), 29
+Movie :The Brood (1979), 28
+Movie :The Fallen Ones (2005), 27
+Movie :200 Motels (1971), 26
+Movie :Alien Opponent (2011), 25
+Movie :The Magic Sword (1962), 24
+Movie :Bewitched (2005), 23
+Movie :Aladdin and His Magic Lamp (1967), 22
+Movie :Camel Spiders (2011), 21
+Movie :A Little Princess (1996), 20
+Movie :Berkeley Square (1933), 19
+Movie :Godzilla vs. Gigan (1972), 18
+Movie :Date with an Angel (1987), 17
+Movie :Evil Alien Conquerors (2002), 16
+Movie :A Number (2008), 15
+Movie :Ghost Warrior (1984), 14
+Movie :The American Astronaut (2001), 13
+Movie :Barbara the Fair With the Silken Hair (1969), 12
+Movie :Animals (2012), 11
+Movie :The Jungle King (1997), 10
+Movie :The Fly (1958), 9
+Movie :The Boy and the Pirates (1960), 8
+Movie :Care Bears Movie II: A New Generation (1986), 7
+Movie :1888: The Extraordinary Voyage of the Santa Isabel (2005), 6
+Movie :A Very Barry Christmas (2004), 5
+Movie :Alice (1990), 4
+Movie :Chandu on the Magic Island (1934), 3
+Movie :Aa Dekhen Zara (2009), 2
+Movie :Action Replayy (2010), 1
+Movie :Talking to Heaven , 1
+
+Genre : 6988172973376731127, 17796
+Movie :Divergent (2014), 17796
+Movie :Live Die Repeat: Edge of Tomorrow (2014), 11894
+Movie :The Divergent Series: Insurgent (2015), 11021
+Movie :Eragon (2006), 10731
+Movie :Maleficent (2014), 8306
+Movie :Frozen (2013), 8178
+Movie :Fast &amp; Furious 6 (2013), 7386
+Movie :We&apos;re the Millers (2013), 6184
+Movie :Despicable Me 2 (2013), 6018
+Movie :Men in Black 3 (2012), 5355
+Movie :The LEGO Movie (2014), 5223
+Movie :Captain America: The Winter Soldier (2014), 5081
+Movie :Inside Man (2006), 4239
+Movie :RED 2 (2013), 3958
+Movie :Sunshine (2007), 3922
+Movie :Oblivion (2013), 3906
+Movie :The Hobbit: The Desolation of Smaug (2013), 3698
+Movie :R.I.P.D. (2013), 3649
+Movie :Thor: The Dark World (2013), 3295
+Movie :The Signal (2014), 3018
+Movie :The Fast and the Furious: Tokyo Drift (2006), 3014
+Movie :Planes: Fire &amp; Rescue (2014), 2987
+Movie :Non-Stop (2014), 2978
+Movie :Iron Man (2008), 2961
+Movie :300: Rise of an Empire (2014), 2817
+Movie :The Hobbit: An Unexpected Journey (2012), 2791
+Movie :Percy Jackson: Sea of Monsters (2013), 2764
+Movie :Blade Runner (1982), 2734
+Movie :Batman Begins (2005), 2698
+Movie :Rio 2 (2014), 2476
+Movie :Tigerland (2000), 2424
+Movie :Deliver Us From Evil (2014), 2351
+Movie :The Monuments Men (2014), 2136
+Movie :Next Friday (2000), 2059
+Movie :Talladega Nights: The Ballad of Ricky Bobby (2006), 2047
+Movie :Heat (1995), 1926
+Movie :Epic (2013), 1881
+Movie :X2 (2003), 1807
+Movie :Furious 7 (2015), 1780
+Movie :The Other Guys (2010), 1701
+Movie :Scooby-Doo (2002), 1586
+Movie :Unstoppable (2004), 1581
+Movie :Salt (2010), 1548
+Movie :Hulk (2003), 1454
+Movie :This Is the End (2013), 1424
+Movie :The Amazing Spider-Man 2 (2014), 1404
+Movie :The Da Vinci Code (2006), 1392
+Movie :Battle: Los Angeles (2011), 1353
+Movie :The Patriot (2000), 1315
+Movie :The League of Extraordinary Gentlemen (2003), 1313
+Movie :In Time (2011), 1273
+Movie :Little Miss Sunshine (2006), 1253
+Movie :After Earth (2013), 1227
+Movie :Resident Evil: Apocalypse (2004), 1218
+Movie :Godzilla (2014), 1195
+Movie :The Mortal Instruments: City of Bones (2013), 1186
+Movie :The Way Back (2010), 1166
+Movie :Scooby-Doo 2: Monsters Unleashed (2004), 1148
+Movie :Elysium (2013), 1147
+Movie :The Good, the Bad and the Ugly (1966), 1109
+Movie :Aliens (1986), 1063
+Movie :Rain Man (1988), 1052
+Movie :Blue Crush (2002), 1046
+Movie :Gridiron Gang (2006), 1031
+Movie :The Last Light (2014), 1023
+Movie :A History of Violence (2005), 1012
+Movie :Ride Along (2014), 1011
+Movie :Swordfish (2001), 1003
+Movie :Robots (2005), 982
+Movie :Man on a Ledge (2012), 977
+Movie :Dead Drop (2013), 973
+Movie :Garfield: A Tail of Two Kitties (2006), 962
+Movie :King of New York (1990), 961
+Movie :The Darjeeling Limited (2007), 958
+Movie :The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005), 952
+Movie :Over the Hedge (2006), 901
+Movie :Blade (1998), 897
+Movie :2012 (2012), 850
+Movie :Die Another Day (2002), 824
+Movie :The Raid 2 (2014), 821
+Movie :Ice Age: The Meltdown (2006), 812
+Movie :The Sitter (2011), 808
+Movie :In the Line of Fire (1993), 790
+Movie :Men in Black (1997), 788
+Movie :Aquamarine (2006), 785
+Movie :The Karate Kid (2010), 765
+Movie :The Cloth (2013), 754
+Movie :Rob Roy (1995), 745
+Movie :GoldenEye (1995), 743
+Movie :Alien (1979), 721
+Movie :X-Men: The Last Stand (2006), 684
+Movie :Absolute Power (1997), 676
+Movie :Demolition Man (1993), 674
+Movie :Monster House (2006), 673
+Movie :Abraham Lincoln: Vampire Hunter (2012), 667
+Movie :Chicken Little (2005), 659
+Movie :Resident Evil (2002), 655
+Movie :Dances With Wolves (1990), 653
+Movie :Pompeii (2014), 651
+Movie :Harry Potter and the Goblet of Fire (2005), 647
+Movie :Idiocracy (2006), 646
+Movie :The Hitchhiker&apos;s Guide to the Galaxy (2005), 616
+Movie :Le Divorce (2003), 608
+Movie :Dolphin Tale (2011), 607
+Movie :The Covenant (2006), 606
+Movie :Snow White and the Huntsman (2012), 591
+Movie :Epoch (2000), 590
+Movie :Dr. No (1962), 587
+Movie :Curious George (2006), 584
+Movie :The Ouija Experiment (2011), 572
+Movie :Master And Commander (2003), 568
+Movie :Ice Age: Continental Drift (2012), 567
+Movie :A Fistful of Dollars (1964), 560
+Movie :Rush (2013), 542
+Movie :Born to Race (2011), 534
+Movie :Puss in Boots (2011), 520
+Movie :Into the Blue (2005), 519
+Movie :Transcendence (2014), 518
+Movie :Legend (1985), 506
+Movie :Die Hard With a Vengeance (1995), 501
+Movie :Point Break (1991), 495
+Movie :Maverick (1994), 488
+Movie :City of Ember (2008), 476
+Movie :Alien Resurrection (1997), 473
+Movie :9 to 5 (1980), 472
+Movie :Gone in 60 Seconds (2000), 469
+Movie :Push (2009), 461
+Movie :Captain Phillips (2013), 460
+Movie :A Viking Saga: The Darkest Day (2012), 452
+Movie :A Knight&apos;s Tale (2001), 451
+Movie :Sky High (2005), 440
+Movie :Flushed Away (2006), 433
+Movie :Safe House (2012), 430
+Movie :S.W.A.T. (2003), 425
+Movie :Die Hard (1988), 423
+Movie :Amazonia (2013), 422
+Movie :Platoon (1986), 416
+Movie :Monsters vs. Aliens (2009), 414
+Movie :Rango (2011), 410
+Movie :2 Guns (2013), 406
+Movie :Windtalkers (2002), 402
+Movie :The Life Aquatic with Steve Zissou (2004), 387
+Movie :Warrior Assassin (2013), 382
+Movie :The Next Three Days (2010), 380
+Movie :The Adventures of Elmo in Grouchland (1999), 375
+Movie :Please Kill Mr. Know It All (2013), 367
+Movie :The Blackout (2013), 365
+Movie :Stuart Little (1999), 362
+Movie :Contraband (2012), 358
+Movie :Getaway (2013), 357
+Movie :Beverly Hills Ninja (1997), 355
+Movie :Ice Age: Dawn of the Dinosaurs (2009), 353
+Movie :Thunderball (1965), 350
+Movie :The Girl With the Dragon Tattoo (2011), 349
+Movie :Cold in July (2014), 346
+Movie :Line in the Sand (2009), 344
+Movie :Doogal (2006), 338
+Movie :Now You See Me (2013), 336
+Movie :Fast and Furious (2009), 334
+Movie :Belly 2: Millionaire Boyz Club (2008), 332
+Movie :The Fifth Element (1997), 330
+Movie :Everyone&apos;s Hero (2006), 328
+Movie :Goldfinger (1964), 322
+Movie :The Witches (1990), 316
+Movie :The Blue Lagoon (1980), 315
+Movie :The Abyss (1989), 314
+Movie :Hang &apos;em High (1968), 309
+Movie :Alien 3 (1992), 304
+Movie :Home Alone 3 (1997), 300
+Movie :Diamonds Are Forever (1971), 294
+Movie :Vexille (2007), 292
+Movie :Gravity (2013), 291
+Movie :Nanny McPhee (2005), 286
+Movie :The Great Raid (2005), 285
+Movie :Fatal Instinct (2014), 282
+Movie :Land of the Dead (2005), 281
+Movie :The Chaperone (2011), 275
+Movie :The Colony (2013), 273
+Movie :Moonraker (1979), 272
+Movie :Ironclad (2011), 270
+Movie :Basic (2003), 263
+Movie :The Mask of Zorro (1998), 262
+Movie :Starship Troopers (1997), 257
+Movie :Small Soldiers (1998), 255
+Movie :Meatballs (1979), 254
+Movie :Rush Hour (1998), 250
+Movie :The Man (2005), 248
+Movie :Chronicle (2012), 247
+Movie :20 Ft Below: The Darkness Descending (2014), 246
+Movie :21 (2008), 243
+Movie :The Man with the Golden Gun (1974), 241
+Movie :The Way of the Gun (2000), 240
+Movie :Octopussy (1983), 236
+Movie :Underworld: Awakening (2012), 235
+Movie :Last Holiday (2006), 230
+Movie :One for the Money (2012), 225
+Movie :Ronin (1998), 224
+Movie :LEGO: The Adventures of Clutch Powers (2010), 222
+Movie :For Your Eyes Only (1981), 219
+Movie :Agent Cody Banks (2003), 217
+Movie :Merlin and the Book of Beasts (2009), 216
+Movie :Unstoppable (2010), 214
+Movie :Against All Odds (1984), 213
+Movie :The Thomas Crown Affair (1999), 210
+Movie :Contact (1997), 208
+Movie :Anacondas: Trail of Blood (2009), 205
+Movie :American Joyride (2011), 204
+Movie :Robin Hood: Men in Tights (1993), 203
+Movie :Catch Hell (2014), 197
+Movie :The Vanguard (2008), 196
+Movie :Bubble Boy (2001), 195
+Movie :Land Ho! (2014), 193
+Movie :Superman/Batman: Public Enemies (2009), 190
+Movie :Grandma&apos;s Boy (Unrated) (2006), 189
+Movie :The Spy Who Loved Me (1977), 188
+Movie :Hook (1991), 187
+Movie :In the Blood (2014), 186
+Movie :Escape Plan (2013), 185
+Movie :Tapped Out (2014), 184
+Movie :The Forbidden Kingdom (2008), 183
+Movie :Street Fighter: The New Challengers (2011), 182
+Movie :White Lion (2009), 181
+Movie :White Wall (2010), 180
+Movie :Evidence (2013), 179
+Movie :Species (1995), 178
+Movie :Care Bears: A Belly Badge for Wonderheart (2013), 177
+Movie :King of Thorn (2010), 176
+Movie :Some Like It Hot (1959), 175
+Movie :Jumpin&apos; Jack Flash (1986), 173
+Movie :Blood Shed (2014), 171
+Movie :Battle for Terra (2009), 170
+Movie :Hoodlum (1997), 167
+Movie :A Family Lost (2007), 166
+Movie :The Professional (1994), 164
+Movie :Highlander 2: The Quickening (1991), 162
+Movie :Nipples &amp; Palm Trees (2011), 161
+Movie :Herbie: Fully Loaded (2005), 159
+Movie :Rob the Mob (2014), 157
+Movie :A View to a Kill (1985), 151
+Movie :Baby Geniuses (1999), 147
+Movie :High Plains Drifter (1973), 146
+Movie :Behind Enemy Lines II: Axis of Evil (2006), 144
+Movie :Quigley Down Under (1990), 143
+Movie :Day Watch (2006), 142
+Movie :The Art of War II: Betrayal (2008), 139
+Movie :Rocky IV (1985), 138
+Movie :The Chronicles of Riddick: Dark Fury (2004), 137
+Movie :The Heat (2013), 136
+Movie :The Day (2011), 135
+Movie :Stan Lee Presents: Mosaic (2004), 134
+Movie :Fractured (2013), 132
+Movie :Licence to Kill (1989), 131
+Movie :Honey, I Shrunk the Kids (1989), 129
+Movie :Inspector Gadget (1999), 126
+Movie :Finding Joy (2013), 125
+Movie :Armed and Dangerous (1986), 124
+Movie :Assassins Run (2013), 122
+Movie :A Bridge Too Far (1977), 121
+Movie :Hart&apos;s War (2002), 120
+Movie :On Her Majesty&apos;s Secret Service (1969), 118
+Movie :Against the Dark (2009), 117
+Movie :Never Say Never Again (1983), 116
+Movie :Heatstroke (2014), 115
+Movie :The Quick and the Dead (1995), 114
+Movie :All About the Benjamins (2002), 113
+Movie :Rocky II (1979), 112
+Movie :Aeon Flux (2005), 109
+Movie :Hostage (2005), 108
+Movie :Breaking Point (2009), 107
+Movie :Austin Powers: International Man of Mystery (1997), 106
+Movie :Dragon Wars (2007), 105
+Movie :Fair Game (1995), 104
+Movie :3 Ninjas Kick Back (1994), 103
+Movie :Jackhammer (2014), 102
+Movie :Alice&apos;s Adventures in Wonderland (1972), 101
+Movie :Conspiracy Theory (1997), 99
+Movie :Dawn of the Dead (2004), 98
+Movie :Hard Rain (1998), 93
+Movie :Beyond the Law (1992), 92
+Movie :The Magnificent Seven (1960), 91
+Movie :Cyborg Soldier (2008), 90
+Movie :Bigfoot: The Lost Coast Tapes (2012), 89
+Movie :Silverado (1985), 88
+Movie :Closed Circuit (2013), 87
+Movie :Gun the Man Down (1957), 86
+Movie :Cristo Rey (2013), 85
+Movie :Jarhead (2005), 84
+Movie :Concrete Blondes (2012), 81
+Movie :Crossover (2006), 80
+Movie :The Big Year (2011), 79
+Movie :Gun (2010), 77
+Movie :The Count of Monte Cristo (1934), 76
+Movie :Monkeybone (2001), 75
+Movie :The Adventures of Sharkboy and Lavagirl (2005), 73
+Movie :Inspector Gadget&apos;s Biggest Caper Ever (2005), 72
+Movie :Duma (2005), 70
+Movie :Annie: A Royal Adventure (1995), 69
+Movie :Blood Rush (2012), 68
+Movie :Cahill: U.S. Marshal (1973), 67
+Movie :Wushu (2009), 66
+Movie :Return of the Seven (1966), 65
+Movie :Cocoon (1985), 64
+Movie :Before Sunset (2004), 63
+Movie :Ain&apos;t Them Bodies Saints (2013), 62
+Movie :The Cold Light of Day (2012), 61
+Movie :Adventures of a Teenage Dragonslayer (2010), 60
+Movie :Commando (1985), 59
+Movie :The Adventures of Buckaroo Banzai Across the 8th Dimension! (1984), 58
+Movie :Abner the Invisible Dog (2013), 57
+Movie :A Town Called Panic (2009), 56
+Movie :The Power of Few (2013), 55
+Movie :Best of the Best (1989), 54
+Movie :Bank Roll (2013), 53
+Movie :My Side of the Mountain (1969), 52
+Movie :Down and Dangerous (2013), 51
+Movie :Back to the Sea (2011), 50
+Movie :A Glimpse Inside the Mind of Charles Swan III (2013), 49
+Movie :Anacondas: The Hunt for the Blood Orchid (2004), 48
+Movie :The Gate (1987), 46
+Movie :47 Ronin (2013), 45
+Movie :Bad Boys II (2003), 44
+Movie :Apache Territory (1958), 43
+Movie :The Adventures of Rocky and Bullwinkle (2000), 42
+Movie :Fall Time (1995), 41
+Movie :2012 NBA Championship: Miami Heat (2012), 40
+Movie :The Doom Generation (1995), 39
+Movie :Big Miracle (2012), 38
+Movie :Black Mama, White Mama (1973), 37
+Movie :Far From Home: The Adventures of Yellow Dog (1994), 36
+Movie :The Fastest Gun Alive (1956), 35
+Movie :633 Squadron (1964), 34
+Movie :3 Ninjas Knuckle Up (1995), 33
+Movie :186 Dollars to Freedom (2012), 32
+Movie :16 Blocks (2006), 31
+Movie :Charlie&apos;s Angels: Full Throttle (2003), 30
+Movie :American Ninja 4: The Annihilation (1991), 29
+Movie :Bloody Ties (2006), 28
+Movie :Ass Backwards (2013), 27
+Movie :The Animated Adventures of Tom Sawyer (1996), 26
+Movie :Alien Opponent (2011), 25
+Movie :Kermit&apos;s Swamp Years (2002), 24
+Movie :Ben Hur (2002), 23
+Movie :Aladdin and His Magic Lamp (1967), 22
+Movie :Existenz (1998), 21
+Movie :D.E.B.S. (2004), 20
+Movie :Fox (2009), 19
+Movie :Bailey&apos;s Billions (2005), 18
+Movie :Al sur de la inocencia (2014), 17
+Movie :Arlington Road (1999), 16
+Movie :At the Edge of the World (2009), 15
+Movie :Bad Girls (1994), 14
+Movie :The Amorous Adventures of Moll Flanders (1965), 13
+Movie :Circle of Iron (1978), 12
+Movie :Africa Screams (1949), 11
+Movie :At the Sinatra Club (2010), 10
+Movie :7 cajas (2012), 9
+Movie :Airport &apos;79 Concorde (1979), 8
+Movie :Burning Man: Beyond Black Rock (2005), 7
+Movie :1888: The Extraordinary Voyage of the Santa Isabel (2005), 6
+Movie :Action Jackson (2014), 5
+Movie :All the Best (2009), 4
+Movie :7 Kilos (2007), 3
+Movie :The Adventures of Gerard (1970), 2
+Movie :666: Kreepy Kerry (2014), 1
+Movie :Solo , 1
+
+
+Genre : 7457315684437338127, 15230
+Movie :Fifty Shades of Grey (2015), 15230
+Movie :Maleficent (2014), 8306
+Movie :Endless Love (2014), 6060
+Movie :Step Up All In (2014), 5815
+Movie :The Other Woman (2014), 5321
+Movie :The Grand Budapest Hotel (2014), 4708
+Movie :Inside Man (2006), 4239
+Movie :Recipe for Love (2014), 4073
+Movie :The Hobbit: The Desolation of Smaug (2013), 3698
+Movie :Casino (1995), 3127
+Movie :The Holiday (2006), 3015
+Movie :The Fast and the Furious: Tokyo Drift (2006), 3014
+Movie :Belle (2014), 2989
+Movie :Wild Camp (2005), 2972
+Movie :300: Rise of an Empire (2014), 2817
+Movie :Blade Runner (1982), 2734
+Movie :Batman Begins (2005), 2698
+Movie :Third Person (2013), 2641
+Movie :The Intimate (2005), 2635
+Movie :Mrs. Doubtfire (1993), 2489
+Movie :Tigerland (2000), 2424
+Movie :Prisoners (2013), 2376
+Movie :Deliver Us From Evil (2014), 2351
+Movie :Atonement (2007), 2268
+Movie :The Royal Tenenbaums (2001), 2230
+Movie :The Monuments Men (2014), 2136
+Movie :About Last Night (2014), 2091
+Movie :The Great Gatsby (2013), 2067
+Movie :The Book Thief (2014), 2065
+Movie :The Devil Wears Prada (2006), 2039
+Movie :We Bought a Zoo (2011), 2003
+Movie :Key (2011), 2000
+Movie :Up in the Air (2009), 1984
+Movie :The Sisterhood of the Traveling Pants (2005), 1968
+Movie :Heat (1995), 1926
+Movie :Seeking a Friend for the End of the World (2012), 1844
+Movie :Glory Road (2006), 1742
+Movie :Pleasantville (1998), 1679
+Movie :Unstoppable (2004), 1581
+Movie :Salt (2010), 1548
+Movie :Hulk (2003), 1454
+Movie :Center Stage (2000), 1424
+Movie :American Hustle (2013), 1409
+Movie :The Da Vinci Code (2006), 1392
+Movie :Battle: Los Angeles (2011), 1353
+Movie :Secretary (2002), 1326
+Movie :The Patriot (2000), 1315
+Movie :The League of Extraordinary Gentlemen (2003), 1313
+Movie :Draft Day (2014), 1301
+Movie :John Grisham&apos;s &apos;The Rainmaker&apos; (1997), 1295
+Movie :Moonrise Kingdom (2012), 1289
+Movie :Little Miss Sunshine (2006), 1253
+Movie :Million Dollar Arm (2014), 1248
+Movie :After Earth (2013), 1227
+Movie :The Mortal Instruments: City of Bones (2013), 1186
+Movie :My Boyfriends&apos; Dogs (2014), 1179
+Movie :The Good Witch&apos;s Family (2011), 1173
+Movie :Poison Ivy: The Secret Society (2008), 1171
+Movie :The Way Back (2010), 1166
+Movie :Dreamgirls (2006), 1154
+Movie :Elysium (2013), 1147
+Movie :Everyone Else (2009), 1116
+Movie :The Good, the Bad and the Ugly (1966), 1109
+Movie :Lions for Lambs (2007), 1077
+Movie :Rain Man (1988), 1052
+Movie :Blue Crush (2002), 1046
+Movie :Gridiron Gang (2006), 1031
+Movie :The Last Light (2014), 1023
+Movie :A History of Violence (2005), 1012
+Movie :Swordfish (2001), 1003
+Movie :Lost in Translation (2003), 997
+Movie :Man on a Ledge (2012), 977
+Movie :Dead Drop (2013), 973
+Movie :The Darjeeling Limited (2007), 958
+Movie :A Teacher (2013), 940
+Movie :Good Fences (2003), 927
+Movie :Munich (2005), 914
+Movie :Arbitrage (2012), 904
+Movie :The Quiet (2005), 873
+Movie :The Calling (2014), 854
+Movie :2012 (2012), 850
+Movie :The Raid 2 (2014), 821
+Movie :Lone Survivor (2013), 812
+Movie :In the Line of Fire (1993), 790
+Movie :Cyber Seduction: His Secret Life (2005), 778
+Movie :The Karate Kid (2010), 765
+Movie :Delivery Man (2013), 761
+Movie :Rob Roy (1995), 745
+Movie :Moms&apos; Night Out (2014), 739
+Movie :Alien (1979), 721
+Movie :The Good Witch&apos;s Garden (2009), 706
+Movie :Sleepy Hollow (1999), 705
+Movie :The Purge (2013), 700
+Movie :American Psycho (2000), 699
+Movie :L.A. Confidential (1997), 695
+Movie :Wuthering High School (2014), 687
+Movie :Absolute Power (1997), 676
+Movie :Abraham Lincoln: Vampire Hunter (2012), 667
+Movie :Pride &amp; Prejudice (2005), 661
+Movie :Dances With Wolves (1990), 653
+Movie :Pompeii (2014), 651
+Movie :28 Days (2000), 634
+Movie :A Ring by Spring (2014), 629
+Movie :Waiting to Exhale (1995), 619
+Movie :Fatal Desire (2006), 610
+Movie :Le Divorce (2003), 608
+Movie :Dolphin Tale (2011), 607
+Movie :Closer (2004), 602
+Movie :Snow White and the Huntsman (2012), 591
+Movie :Dr. No (1962), 587
+Movie :Valkyrie (2008), 585
+Movie :The Constant Gardener (2005), 579
+Movie :Master And Commander (2003), 568
+Movie :The Break-Up (2006), 564
+Movie :Are You Here (2013), 562
+Movie :A Fistful of Dollars (1964), 560
+Movie :Vanity Fair (2004), 550
+Movie :A Walk in the Clouds (1995), 547
+Movie :Rush (2013), 542
+Movie :Battle of the Year (2013), 539
+Movie :Easy Money: Life Deluxe (2013), 536
+Movie :My Heart Beats (2010), 534
+Movie :A Film Unfinished (2010), 527
+Movie :Lucky in Love (2014), 523
+Movie :Transcendence (2014), 518
+Movie :Legally Blonde (2001), 511
+Movie :Sex and the Single Mom (2003), 509
+Movie :Legend (1985), 506
+Movie :Die Hard With a Vengeance (1995), 501
+Movie :Before Midnight (2013), 499
+Movie :Charlie St. Cloud (2010), 495
+Movie :Heaven Is for Real (2014), 486
+Movie :The Greatest Game Ever Played (2005), 484
+Movie :Pretty in Pink (1986), 474
+Movie :Alien Resurrection (1997), 473
+Movie :ATL (2006), 472
+Movie :Captain Phillips (2013), 460
+Movie :A Knight&apos;s Tale (2001), 451
+Movie :9 Ball (2012), 447
+Movie :Secret Lives of Second Wives (2007), 444
+Movie :Stranded in Paradise (2014), 437
+Movie :Remember the Titans (2000), 436
+Movie :La mujer de mi hermano (2005), 432
+Movie :Safe House (2012), 430
+Movie :S.W.A.T. (2003), 425
+Movie :JFK (1991), 421
+Movie :Platoon (1986), 416
+Movie :Meatballs 4 (1992), 415
+Movie :2 Guns (2013), 406
+Movie :Reasonable Doubt (2014), 402
+Movie :Two for the Money (2005), 401
+Movie :Alien Paranormal: Bigfoot, UFOs and the Men in Black (2013), 394
+Movie :Don&apos;t Blink (2014), 392
+Movie :Something&apos;s Gotta Give (2003), 387
+Movie :Eternal Sunshine of the Spotless Mind (2004), 386
+Movie :Four Lovers (2010), 383
+Movie :The Skin I Live In (2011), 382
+Movie :Bridget Jones&apos;s Diary (2001), 380
+Movie :Enough Said (2013), 379
+Movie :Chocolat (2000), 376
+Movie :Green Chair (2003), 375
+Movie :She Hate Me (2004), 374
+Movie :Beyond Sherwood Forest (2009), 370
+Movie :Bad Guy (2001), 369
+Movie :Primer (2004), 361
+Movie :Contraband (2012), 358
+Movie :The Substitute (1996), 357
+Movie :Wuthering Heights (2011), 355
+Movie :Disconnect (2012), 353
+Movie :Darkest Night (2013), 350
+Movie :The Girl With the Dragon Tattoo (2011), 349
+Movie :Thunderheart (1992), 348
+Movie :Cold in July (2014), 346
+Movie :Line in the Sand (2009), 344
+Movie :Now You See Me (2013), 336
+Movie :Fast and Furious (2009), 334
+Movie :Legacy of Fear (2006), 333
+Movie :Belly 2: Millionaire Boyz Club (2008), 332
+Movie :Housewife&apos;s Afternoon Delight (2010), 329
+Movie :Everyone&apos;s Hero (2006), 328
+Movie :Afternoon Delight (2013), 322
+Movie :Silent Hill (2006), 320
+Movie :As Good as It Gets (1997), 319
+Movie :The Blue Lagoon (1980), 315
+Movie :The Abyss (1989), 314
+Movie :Hang &apos;em High (1968), 309
+Movie :Season of Miracles (2013), 301
+Movie :The Rock (1996), 300
+Movie :Leap Year (2011), 299
+Movie :The Cutting Edge (1992), 297
+Movie :Wild Orchid (1990), 292
+Movie :Gravity (2013), 291
+Movie :Ghost World (2001), 290
+Movie :The Great Raid (2005), 285
+Movie :Sexy Evil Genius (2013), 283
+Movie :Fatal Instinct (2014), 282
+Movie :Child&apos;s Play (1988), 281
+Movie :The Cell (2000), 279
+Movie :A Wife&apos;s Secret (2014), 278
+Movie :June in January (2014), 274
+Movie :Moonraker (1979), 272
+Movie :Perfect Romance (2004), 271
+Movie :Her Best Move (2007), 269
+Movie :Dark City (1998), 266
+Movie :Hard Candy (2005), 265
+Movie :Frida (2002), 264
+Movie :Basic (2003), 263
+Movie :Copycat (1995), 262
+Movie :Wild Things (1998), 257
+Movie :Miracle Beach (1992), 252
+Movie :Flicka (2006), 249
+Movie :My Girl (1991), 248
+Movie :Chronicle (2012), 247
+Movie :My Tutor (1983), 246
+Movie :Chino (1973), 244
+Movie :21 (2008), 243
+Movie :That Gal...Who Was in That Thing: That Guy 2 (2015), 241
+Movie :The Way of the Gun (2000), 240
+Movie :Octopussy (1983), 236
+Movie :37: A Final Promise (2014), 235
+Movie :Becoming Jane (2007), 233
+Movie :Grey Gardens (2009), 232
+Movie :Ray (2004), 231
+Movie :Last Holiday (2006), 230
+Movie :August: Osage County (2013), 229
+Movie :Sweet Sex and Love (2003), 227
+Movie :Muted (2014), 226
+Movie :One for the Money (2012), 225
+Movie :Baby Boy (2001), 221
+Movie :7 Things to Do Before I&apos;m 30 (2008), 220
+Movie :A Little Princess (1995), 219
+Movie :La vida precoz y breve de Sabina Rivas (2012), 218
+Movie :High Fidelity (2000), 217
+Movie :Smart Cookies (2012), 215
+Movie :Unstoppable (2010), 214
+Movie :Against All Odds (1984), 213
+Movie :Among Ravens (2014), 211
+Movie :The Thomas Crown Affair (1999), 210
+Movie :Contact (1997), 208
+Movie :Cheerleaders&apos; Beach Party (1978), 206
+Movie :El Dorado (1967), 205
+Movie :American Joyride (2011), 204
+Movie :Mom&apos;s Day Away (2014), 201
+Movie :Devil&apos;s Diary (2007), 199
+Movie :The Mountie (2011), 198
+Movie :Catch Hell (2014), 197
+Movie :Devil&apos;s Due (2014), 196
+Movie :The Legend of Bagger Vance (2000), 195
+Movie :Belly (1998), 194
+Movie :Family in Hiding (2006), 193
+Movie :Awaken (2012), 192
+Movie :Christine (1983), 191
+Movie :Curly Sue (1991), 187
+Movie :Infidelity (2004), 186
+Movie :Escape Plan (2013), 185
+Movie :Tapped Out (2014), 184
+Movie :The Forbidden Kingdom (2008), 183
+Movie :Dirty Rotten Scoundrels (1988), 182
+Movie :Madrid, 1987 (2011), 181
+Movie :Species (1995), 178
+Movie :Farewell, My Queen (2012), 177
+Movie :King of Thorn (2010), 176
+Movie :To Catch a Thief (1955), 175
+Movie :Coyote Ugly (2000), 174
+Movie :The Blair Witch Project (1999), 173
+Movie :Citizen X (1995), 169
+Movie :Hoodlum (1997), 167
+Movie :A Family Lost (2007), 166
+Movie :The Professional (1994), 164
+Movie :The Last Kiss (2001), 161
+Movie :25th Hour (2002), 160
+Movie :Alpha Alert (2014), 159
+Movie :Charlie Bartlett (2007), 158
+Movie :Path to War (2002), 157
+Movie :Stepmom (1998), 156
+Movie :Killing Them Softly (2012), 155
+Movie :Only Lovers Left Alive (2013), 154
+Movie :All the Days Before Tomorrow (2007), 153
+Movie :Primal Fear (1996), 152
+Movie :A View to a Kill (1985), 151
+Movie :42 (2013), 150
+Movie :Civil Love (2012), 148
+Movie :High Plains Drifter (1973), 146
+Movie :Veronica Mars (2014), 145
+Movie :Ninja Assassin (2009), 144
+Movie :Quigley Down Under (1990), 143
+Movie :Hitch (2005), 141
+Movie :Slaughter (2009), 140
+Movie :Cleopatra (1963), 139
+Movie :A Good Year (2006), 138
+Movie :Chaplin (1992), 137
+Movie :&apos;Til Lies Do Us Part (2007), 135
+Movie :The Mothman Prophecies (2002), 134
+Movie :Fractured (2013), 132
+Movie :8 Mile (2002), 131
+Movie :Goodbye, Mr. Chips (1939), 129
+Movie :The Fighter (2010), 128
+Movie :Hoosiers (1986), 126
+Movie :A Deadly Encounter (2004), 123
+Movie :The Counselor (2013), 122
+Movie :A Bridge Too Far (1977), 121
+Movie :Hart&apos;s War (2002), 120
+Movie :On Her Majesty&apos;s Secret Service (1969), 118
+Movie :Quicksilver (1986), 117
+Movie :Black &amp; White &amp; Sex (2012), 116
+Movie :Derailed (2005), 115
+Movie :Rollerball (2002), 114
+Movie :All About the Benjamins (2002), 113
+Movie :Beaches (1988), 112
+Movie :Another 9 1/2 Weeks (1997), 111
+Movie :Eve&apos;s Secret (2014), 110
+Movie :Girl, Interrupted (1999), 109
+Movie :The Last King of Scotland (2006), 108
+Movie :Breaking Point (2009), 107
+Movie :Eyes Wide Shut (1999), 106
+Movie :Dragon Wars (2007), 105
+Movie :Fair Game (1995), 104
+Movie :Don&apos;t Cry Now (2007), 102
+Movie :Do Not Disturb (2013), 101
+Movie :The Cable Guy (1996), 100
+Movie :Conspiracy Theory (1997), 99
+Movie :Dawn of the Dead (2004), 98
+Movie :Picture Mommy Dead (1966), 97
+Movie :Death of a President (2006), 96
+Movie :Moulin Rouge (2001), 95
+Movie :Jacob&apos;s Ladder (1990), 94
+Movie :Attenberg (2010), 93
+Movie :Beyond the Law (1992), 92
+Movie :The Magnificent Seven (1960), 91
+Movie :Broken Hill (2009), 90
+Movie :1984 (1984), 89
+Movie :A Simple Wish (1997), 88
+Movie :Closed Circuit (2013), 87
+Movie :Book of Shadows: Blair Witch 2 (2000), 86
+Movie :Boy Culture (2007), 85
+Movie :Deeply (2000), 84
+Movie :10 Years Later (2011), 82
+Movie :A Single Shot (2013), 81
+Movie :Crossover (2006), 80
+Movie :The Citadel (1938), 79
+Movie :Antares (2004), 78
+Movie :From Beyond (1986), 77
+Movie :Red Eye (2005), 76
+Movie :Big Fish (2003), 75
+Movie :Blow Out (1981), 74
+Movie :Leviathan (1989), 73
+Movie :Beats, Rhymes &amp; Life: The Travels of A Tribe Called Quest (2011), 72
+Movie :The Border (1982), 71
+Movie :Affliction (1998), 70
+Movie :A Promise (2013), 69
+Movie :Blood Simple (1984), 68
+Movie :A Good Day to Be Black &amp; Sexy (2008), 67
+Movie :A Perfect Man (2013), 66
+Movie :Awakenings (1990), 65
+Movie :1 Mountain (2013), 64
+Movie :Before Sunset (2004), 63
+Movie :Ain&apos;t Them Bodies Saints (2013), 62
+Movie :The Things Between Us , 62
+Movie :The Elephant Man (1980), 61
+Movie :The African Queen (1951), 60
+Movie :Black Widow (1987), 59
+Movie :Basic Instinct 2 (2006), 58
+Movie :Five Star Day (2010), 57
+Movie :Before the Rains (2007), 56
+Movie :8 Heads in a Duffel Bag (1997), 55
+Movie :Best of the Best (1989), 54
+Movie :Bank Roll (2013), 53
+Movie :A Wife Alone (2013), 52
+Movie :30 Years to Life (2001), 51
+Movie :Detour (2013), 50
+Movie :The Best Offer (2013), 49
+Movie :Contest (2013), 48
+Movie :8MM (1999), 47
+Movie :All Is Bright (2013), 46
+Movie :Bean (1997), 45
+Movie :A Cool, Dry Place (1999), 44
+Movie :All of Me (1984), 43
+Movie :All the Real Girls (2003), 42
+Movie :Ballast (2008), 41
+Movie :And the Band Played On (1993), 40
+Movie :An Officer and a Gentleman (1982), 39
+Movie :Another Life (2001), 38
+Movie :A Woman Rebels (1936), 37
+Movie :Benny &amp; Joon (1993), 36
+Movie :Children of a Lesser God (1986), 35
+Movie :633 Squadron (1964), 34
+Movie :Alien Nation (1988), 33
+Movie :186 Dollars to Freedom (2012), 32
+Movie :16 Blocks (2006), 31
+Movie :$5 a Day (2008), 30
+Movie :9th Company (2005), 29
+Movie :A Beautiful Life (2011), 28
+Movie :Helpless (2011), 27
+Movie :200 Motels (1971), 26
+Movie :@urFRENZ (2010), 25
+Movie :Almost Perfect (2011), 24
+Movie :A Shock to the System (1990), 23
+Movie :Bookies (2003), 22
+Movie :Article 99 (1992), 21
+Movie :About a Boy (2002), 20
+Movie :A River of Waste: The Hazardous Truth About Factory Farms (2008), 19
+Movie :Amnesia (2004), 18
+Movie :A Deeper Shade of Blue (2011), 17
+Movie :Along Recovery (2012), 16
+Movie :A Christmas Wish (2011), 15
+Movie :33 Postcards (2011), 14
+Movie :21 Hours at Munich (1976), 13
+Movie :A Town Without Christmas (2001), 12
+Movie :The Age of Innocence (1993), 11
+Movie :Sue&#241;os de pasi&#243;n: Infidelidad mortal , 11
+Movie :A Warrior&apos;s Heart (2011), 10
+Movie :7 Grandmasters (1977), 9
+Movie :A Lovers Call (2012), 8
+Movie :The Adventures of Tartu (1943), 7
+Movie :1888: The Extraordinary Voyage of the Santa Isabel (2005), 6
+Movie :A Buddy Story (2012), 5
+Movie :6 Thugs (2006), 4
+Movie :36 China Town (2006), 3
+Movie :8:46 (2011), 2
+Movie :Mama Flora&apos;s Family, Night 2 , 2
+Movie :The 11th Hour (2006), 1
+Movie :The Battle , 1
+Movie :Talking to Heaven , 1
+Movie :Ten Stories Tall , 1
+
+
+
+
+Genre : 9017007331275060148, 11111
+Movie :Neighbors , 11111
+Movie :Only You (1992), 279
+Movie :Reality Bites (1994), 105
+Movie :How to Frame a Figg (1971), 63
+Movie :Booty Call (1997), 56
+Movie :Go (1999), 48
+Movie :Blue Streak (1999), 37
+Movie :My Mom&apos;s New Boyfriend (2008), 29
+Movie :The Best of Times (1986), 28
+Movie :Crackers (1984), 26
+Movie :Look Who&apos;s Talking Now (1993), 25
+Movie :The Brothers (2001), 18
+Movie :Class Act (1992), 16
+Movie :Once Around (1991), 14
+Movie :Car Wash (1976), 12
+Movie :Look Who&apos;s Talking Too (1990), 11
+Movie :The Pirates of Penzance (1983), 10
+Movie :The Inspector General (1949), 8
+Movie :Coldblooded (1995), 7
+Movie :Radioland Murders (1994), 6
+Movie :Black and White (1999), 1
+Genre : 5628801549346379127, 10731
+Movie :Eragon (2006), 10731
+Movie :Maleficent (2014), 8306
+Movie :Frozen (2013), 8178
+Movie :Despicable Me 2 (2013), 6018
+Movie :The LEGO Movie (2014), 5223
+Movie :Planes: Fire &amp; Rescue (2014), 2987
+Movie :Percy Jackson: Sea of Monsters (2013), 2764
+Movie :Rio 2 (2014), 2476
+Movie :We Bought a Zoo (2011), 2003
+Movie :Epic (2013), 1881
+Movie :Cloudy with a Chance of Meatballs (2009), 1799
+Movie :Hotel Transylvania (2012), 1635
+Movie :Go Figure (2005), 1604
+Movie :Scooby-Doo (2002), 1586
+Movie :Million Dollar Arm (2014), 1248
+Movie :Scooby-Doo 2: Monsters Unleashed (2004), 1148
+Movie :Robots (2005), 982
+Movie :Man on a Ledge (2012), 977
+Movie :Garfield: A Tail of Two Kitties (2006), 962
+Movie :The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005), 952
+Movie :Over the Hedge (2006), 901
+Movie :Ice Age: The Meltdown (2006), 812
+Movie :Bears (2014), 806
+Movie :Aquamarine (2006), 785
+Movie :The Karate Kid (2010), 765
+Movie :Monster House (2006), 673
+Movie :Chicken Little (2005), 659
+Movie :Harry Potter and the Goblet of Fire (2005), 647
+Movie :Dolphin Tale (2011), 607
+Movie :Curious George (2006), 584
+Movie :Ice Age: Continental Drift (2012), 567
+Movie :Good Burger (1997), 537
+Movie :Puss in Boots (2011), 520
+Movie :RV (2006), 492
+Movie :City of Ember (2008), 476
+Movie :Sky High (2005), 440
+Movie :Flushed Away (2006), 433
+Movie :Monsters vs. Aliens (2009), 414
+Movie :Rango (2011), 410
+Movie :Open Season (2006), 397
+Movie :The Adventures of Elmo in Grouchland (1999), 375
+Movie :The Pacifier (2005), 365
+Movie :Stuart Little (1999), 362
+Movie :Ice Age: Dawn of the Dinosaurs (2009), 353
+Movie :Planet 51 (2009), 345
+Movie :Doogal (2006), 338
+Movie :Muppets Most Wanted (2014), 331
+Movie :Everyone&apos;s Hero (2006), 328
+Movie :The Witches (1990), 316
+Movie :Are We Done Yet? (2007), 314
+Movie :Season of Miracles (2013), 301
+Movie :Home Alone 3 (1997), 300
+Movie :Nanny McPhee (2005), 286
+Movie :Flicka (2006), 249
+Movie :My Girl (1991), 248
+Movie :The Secret of Kells (2009), 235
+Movie :First Kid (1996), 228
+Movie :Dennis the Menace (1993), 226
+Movie :The Kid (2000), 223
+Movie :LEGO: The Adventures of Clutch Powers (2010), 222
+Movie :A Little Princess (1995), 219
+Movie :Agent Cody Banks (2003), 217
+Movie :The Secret of NIMH 2: Timmy to the Rescue (1998), 193
+Movie :Tooth Fairy (2010), 190
+Movie :Curly Sue (1991), 187
+Movie :Annie (1982), 186
+Movie :Mr. Popper&apos;s Penguins (2011), 184
+Movie :Street Fighter: The New Challengers (2011), 182
+Movie :Zathura: A Space Adventure (2005), 180
+Movie :Care Bears: A Belly Badge for Wonderheart (2013), 177
+Movie :Battle for Terra (2009), 170
+Movie :Cirque du Soleil: Delirium (2008), 168
+Movie :Casper: A Spirited Beginning (1998), 163
+Movie :Herbie: Fully Loaded (2005), 159
+Movie :Hannah Montana: The Movie (2009), 153
+Movie :Baby Geniuses (1999), 147
+Movie :Jumanji (1995), 139
+Movie :Falcon Song (2014), 137
+Movie :Cinderella (1994), 131
+Movie :Honey, I Shrunk the Kids (1989), 129
+Movie :Problem Child (1990), 128
+Movie :Inspector Gadget (1999), 126
+Movie :Firehouse Dog (2007), 122
+Movie :Tron (1982), 118
+Movie :The Princess and the Goblin (1992), 115
+Movie :Stuart Little 3: Call of the Wild (2005), 112
+Movie :Problem Child 2 (1991), 108
+Movie :Batteries Not Included (1987), 104
+Movie :3 Ninjas Kick Back (1994), 103
+Movie :Alice&apos;s Adventures in Wonderland (1972), 101
+Movie :Beethoven (1992), 93
+Movie :Snow White (1997), 91
+Movie :A Simple Wish (1997), 88
+Movie :Pocahontas: The Legend (1995), 87
+Movie :Dr. Dolittle 2 (2001), 86
+Movie :Care Bears: The Care-A-Thon Games (2014), 77
+Movie :The Blue Umbrella (2013), 76
+Movie :The Adventures of Sharkboy and Lavagirl (2005), 73
+Movie :Inspector Gadget&apos;s Biggest Caper Ever (2005), 72
+Movie :Children of Invention (2008), 71
+Movie :Duma (2005), 70
+Movie :Aladdin (1992), 69
+Movie :Care Bears: Big Wish Movie (2005), 67
+Movie :The New Adventures of Peter Rabbit (1998), 65
+Movie :Care Bears: Totally Sweet Adventures (2013), 64
+Movie :How to Frame a Figg (1971), 63
+Movie :Dog Gone (2008), 62
+Movie :Adventures of a Teenage Dragonslayer (2010), 60
+Movie :Lion of Oz (2000), 59
+Movie :Abner the Invisible Dog (2013), 57
+Movie :A Town Called Panic (2009), 56
+Movie :Big (1988), 54
+Movie :Beethoven&apos;s 2nd (1993), 53
+Movie :My Side of the Mountain (1969), 52
+Movie :Babe: Pig in the City (1998), 51
+Movie :Back to the Sea (2011), 50
+Movie :Kingdom Come (2001), 49
+Movie :Contest (2013), 48
+Movie :Mandie and the Secret Tunnel (2008), 46
+Movie :The Velveteen Rabbit (2009), 45
+Movie :Getting Even With Dad (1994), 43
+Movie :The Adventures of Rocky and Bullwinkle (2000), 42
+Movie :Leave It to Beaver (1997), 41
+Movie :Little Secrets (2001), 39
+Movie :Big Miracle (2012), 38
+Movie :A Very Brady Christmas (1988), 37
+Movie :Far From Home: The Adventures of Yellow Dog (1994), 36
+Movie :Spooky House (2000), 34
+Movie :3 Ninjas Knuckle Up (1995), 33
+Movie :Dennis the Menace (1987), 32
+Movie :The Gold Retrievers (2009), 30
+Movie :The Family Jewels (1965), 29
+Movie :The Legend of the Sky Kingdom (2004), 28
+Movie :The Legend of Tillamook&apos;s Gold (2006), 27
+Movie :The Animated Adventures of Tom Sawyer (1996), 26
+Movie :Lassie (2005), 25
+Movie :Kermit&apos;s Swamp Years (2002), 24
+Movie :Ben Hur (2002), 23
+Movie :Aladdin and His Magic Lamp (1967), 22
+Movie :Pinocchio (1985), 21
+Movie :A Little Princess (1996), 20
+Movie :Jungle Emperor Leo (1997), 19
+Movie :Bailey&apos;s Billions (2005), 18
+Movie :Cirque du Soleil: Flow (2010), 17
+Movie :Hercules (1998), 16
+Movie :A Christmas Wish (2011), 15
+Movie :The Other Side of the Mountain (1975), 14
+Movie :Angel Dog (2011), 13
+Movie :Barbara the Fair With the Silken Hair (1969), 12
+Movie :Father Frost (1965), 11
+Movie :The Jungle King (1997), 10
+Movie :The Nutcracker , 10
+Movie :12 Dogs of Christmas: Great Puppy Rescue (2012), 9
+Movie :A Christmas Carol (1994), 8
+Movie :A Magic Cartoon Christmas (2004), 7
+Movie :The Deep End of the Ocean (1999), 6
+Movie :Balloon Farm (1999), 5
+Movie :Christmas in Wonderland (2007), 4
+Movie :Santa and Pete (1999), 3
+Movie :Santa Claus Conquers the Martians (1964), 2
+Movie :Bands on the Run (2011), 1
+
+Genre : 5310344589161660127, 10731
+Movie :Eragon (2006), 10731
+Movie :Inside Man (2006), 4239
+Movie :Sunshine (2007), 3922
+Movie :The Signal (2014), 3018
+Movie :Non-Stop (2014), 2978
+Movie :Wild Camp (2005), 2972
+Movie :Blade Runner (1982), 2734
+Movie :Prisoners (2013), 2376
+Movie :Deliver Us From Evil (2014), 2351
+Movie :28 Days Later (2002), 2285
+Movie :The Monuments Men (2014), 2136
+Movie :Key (2011), 2000
+Movie :Heat (1995), 1926
+Movie :Scooby-Doo (2002), 1586
+Movie :Unstoppable (2004), 1581
+Movie :Salt (2010), 1548
+Movie :The Da Vinci Code (2006), 1392
+Movie :In Time (2011), 1273
+Movie :The Mortal Instruments: City of Bones (2013), 1186
+Movie :Scooby-Doo 2: Monsters Unleashed (2004), 1148
+Movie :2:13 (2009), 1114
+Movie :The Last Light (2014), 1023
+Movie :A History of Violence (2005), 1012
+Movie :Swordfish (2001), 1003
+Movie :Man on a Ledge (2012), 977
+Movie :Dead Drop (2013), 973
+Movie :King of New York (1990), 961
+Movie :The Quiet (2005), 873
+Movie :The Calling (2014), 854
+Movie :The Raid 2 (2014), 821
+Movie :In the Line of Fire (1993), 790
+Movie :The Cloth (2013), 754
+Movie :Alien (1979), 721
+Movie :Sleepy Hollow (1999), 705
+Movie :The Purge (2013), 700
+Movie :American Psycho (2000), 699
+Movie :L.A. Confidential (1997), 695
+Movie :Absolute Power (1997), 676
+Movie :Monster House (2006), 673
+Movie :Fatal Desire (2006), 610
+Movie :The Covenant (2006), 606
+Movie :Valkyrie (2008), 585
+Movie :The Constant Gardener (2005), 579
+Movie :The Ouija Experiment (2011), 572
+Movie :Master And Commander (2003), 568
+Movie :YellowBrickRoad (2010), 564
+Movie :The Watch (2008), 523
+Movie :Into the Blue (2005), 519
+Movie :Point Break (1991), 495
+Movie :Alien Resurrection (1997), 473
+Movie :Push (2009), 461
+Movie :Captain Phillips (2013), 460
+Movie :A Viking Saga: The Darkest Day (2012), 452
+Movie :Safe House (2012), 430
+Movie :JFK (1991), 421
+Movie :WarGames: The Dead Code (2008), 406
+Movie :Reasonable Doubt (2014), 402
+Movie :Don&apos;t Blink (2014), 392
+Movie :The Skin I Live In (2011), 382
+Movie :Primer (2004), 361
+Movie :Contraband (2012), 358
+Movie :The Substitute (1996), 357
+Movie :Disconnect (2012), 353
+Movie :The Girl With the Dragon Tattoo (2011), 349
+Movie :Thunderheart (1992), 348
+Movie :Cold in July (2014), 346
+Movie :Tomorrow Never Dies (1997), 344
+Movie :Now You See Me (2013), 336
+Movie :Legacy of Fear (2006), 333
+Movie :Silent Hill (2006), 320
+Movie :Alien 3 (1992), 304
+Movie :The Rock (1996), 300
+Movie :The Cell (2000), 279
+Movie :The Colony (2013), 273
+Movie :Dark City (1998), 266
+Movie :Hard Candy (2005), 265
+Movie :Basic (2003), 263
+Movie :Copycat (1995), 262
+Movie :Wild Things (1998), 257
+Movie :20 Ft Below: The Darkness Descending (2014), 246
+Movie :The Hypnotized (2004), 245
+Movie :37: A Final Promise (2014), 235
+Movie :Mississippi Burning (1988), 230
+Movie :Ronin (1998), 224
+Movie :Tales from the Crypt Presents: Demon Knight (1995), 222
+Movie :Obituary (2006), 221
+Movie :Chloe (2009), 219
+Movie :To Live and Die in L.A. (1985), 217
+Movie :Against All Odds (1984), 213
+Movie :The Thomas Crown Affair (1999), 210
+Movie :Lost in Space (1998), 204
+Movie :Catch Hell (2014), 197
+Movie :Devil&apos;s Due (2014), 196
+Movie :Christine (1983), 191
+Movie :Foul Play (1978), 190
+Movie :Fargo (1996), 187
+Movie :In the Blood (2014), 186
+Movie :Escape Plan (2013), 185
+Movie :Evidence (2013), 179
+Movie :To Catch a Thief (1955), 175
+Movie :Wrecked (2013), 174
+Movie :The Blair Witch Project (1999), 173
+Movie :Blood Shed (2014), 171
+Movie :Citizen X (1995), 169
+Movie :The Professional (1994), 164
+Movie :Alpha Alert (2014), 159
+Movie :Primal Fear (1996), 152
+Movie :Sexy Beast (2000), 151
+Movie :Elevator (2012), 147
+Movie :No Way Out (1986), 146
+Movie :Veronica Mars (2014), 145
+Movie :Nothing Left to Fear (2013), 142
+Movie :The Art of War II: Betrayal (2008), 139
+Movie :The Day (2011), 135
+Movie :The Mothman Prophecies (2002), 134
+Movie :Fractured (2013), 132
+Movie :I Still Know What You Did Last Summer (1998), 131
+Movie :Next (2007), 129
+Movie :Mulholland Falls (1996), 126
+Movie :The New Daughter (2009), 125
+Movie :Cursed (2005), 124
+Movie :A Deadly Encounter (2004), 123
+Movie :The Counselor (2013), 122
+Movie :Hart&apos;s War (2002), 120
+Movie :Broken Flowers (2005), 116
+Movie :Derailed (2005), 115
+Movie :Witchboard (1987), 112
+Movie :Another 9 1/2 Weeks (1997), 111
+Movie :Hostage (2005), 108
+Movie :Breaking Point (2009), 107
+Movie :Eyes Wide Shut (1999), 106
+Movie :Fair Game (1995), 104
+Movie :Do Not Disturb (2013), 101
+Movie :Poltergeist II: The Other Side (1986), 100
+Movie :Conspiracy Theory (1997), 99
+Movie :Ghost Rider: Spirit of Vengeance (2012), 98
+Movie :Death of a President (2006), 96
+Movie :Mystery Team (2009), 95
+Movie :Jacob&apos;s Ladder (1990), 94
+Movie :Omen IV: The Awakening (1991), 91
+Movie :Captive Hearts (2005), 90
+Movie :Bigfoot: The Lost Coast Tapes (2012), 89
+Movie :Closed Circuit (2013), 87
+Movie :Book of Shadows: Blair Witch 2 (2000), 86
+Movie :Hustle (1975), 85
+Movie :Deeply (2000), 84
+Movie :A Single Shot (2013), 81
+Movie :Red Corner (1997), 80
+Movie :The Secret of Hidden Lake (2006), 79
+Movie :Blue Seduction (2009), 78
+Movie :Hazmat (2013), 76
+Movie :Damien: Omen II (1978), 75
+Movie :Blow Out (1981), 74
+Movie :Grosse Pointe Blank (1997), 73
+Movie :V for Vendetta (2006), 72
+Movie :Affliction (1998), 70
+Movie :Strange Invaders (1983), 69
+Movie :Blood Rush (2012), 68
+Movie :The Guard (2011), 67
+Movie :Catacombs (2007), 66
+Movie :The Company You Keep (2012), 65
+Movie :Deadfall (2012), 64
+Movie :Dose of Reality (2013), 63
+Movie :Angel Heart (1987), 62
+Movie :The Cold Light of Day (2012), 61
+Movie :The Hills Have Eyes (2006), 60
+Movie :Black Widow (1987), 59
+Movie :Twilight Zone: The Movie (1983), 58
+Movie :The Big Hit (1998), 57
+Movie :The Devil&apos;s Own (1997), 56
+Movie :The Art of Murder (1999), 55
+Movie :Dressed to Kill (1980), 54
+Movie :Bank Roll (2013), 53
+Movie :The Devil&apos;s Advocate (1997), 52
+Movie :Miami Blues (1990), 51
+Movie :Detour (2013), 50
+Movie :The Best Offer (2013), 49
+Movie :Eagle Eye (2008), 48
+Movie :8MM (1999), 47
+Movie :Found (2004), 46
+Movie :Deliver Us From Evil (2006), 45
+Movie :Darkness (2002), 44
+Movie :The Andromeda Strain (1971), 43
+Movie :Amber Alert (2012), 42
+Movie :Bad Behavior (2013), 41
+Movie :Autopsy (2008), 40
+Movie :Control (2004), 39
+Movie :Born Killers (2005), 38
+Movie :Chain Letter (2010), 37
+Movie :The Creepy Doll (2011), 36
+Movie :Desperately Seeking Susan (1985), 35
+Movie :A Civil Action (1998), 34
+Movie :Devil&apos;s Pond (2003), 33
+Movie :The Last House in the Woods (2006), 32
+Movie :16 Blocks (2006), 31
+Movie :Favor (2013), 30
+Movie :Below (2002), 29
+Movie :The Brood (1979), 28
+Movie :Deep Cover (1992), 27
+Movie :Attack of the Puppet People (1958), 26
+Movie :Dark Skies (2013), 25
+Movie :Girls Against Boys (2012), 24
+Movie :Changeling (2008), 23
+Movie :Head Above Water (1996), 22
+Movie :Five Fingers (2006), 21
+Movie :The Condemned (2013), 20
+Movie :Columbus Circle (2012), 19
+Movie :The Body (El cuerpo) (2012), 18
+Movie :Bad Influence (1990), 17
+Movie :Arlington Road (1999), 16
+Movie :The Car (1977), 15
+Movie :Broken Arrow (1996), 14
+Movie :Ausente (2011), 13
+Movie :Answers to Nothing (2011), 12
+Movie :American Dragons (1997), 11
+Movie :Curse of the Pink Panther (1983), 10
+Movie :7 cajas (2012), 9
+Movie :After Midnight (1989), 8
+Movie :The Adventures of Tartu (1943), 7
+Movie :Committed (1991), 6
+Movie :Apart (2011), 5
+Movie :1 Hour to Die 2 (2012), 4
+Movie :21 Eyes (2003), 3
+Movie :Aa Dekhen Zara (2009), 2
+Movie :Nightscape: Dark Reign of Thanatos , 2
+Movie :666: Kreepy Kerry (2014), 1
+
+Genre : 6616584436088343127, 8306
+Movie :Maleficent (2014), 8306
+Movie :Frozen (2013), 8178
+Movie :Despicable Me 2 (2013), 6018
+Movie :The LEGO Movie (2014), 5223
+Movie :Planes: Fire &amp; Rescue (2014), 2987
+Movie :Rio 2 (2014), 2476
+Movie :Epic (2013), 1881
+Movie :Cloudy with a Chance of Meatballs (2009), 1799
+Movie :Hotel Transylvania (2012), 1635
+Movie :Scooby-Doo 2: Monsters Unleashed (2004), 1148
+Movie :Robots (2005), 982
+Movie :Over the Hedge (2006), 901
+Movie :Ice Age: The Meltdown (2006), 812
+Movie :Monster House (2006), 673
+Movie :Chicken Little (2005), 659
+Movie :Curious George (2006), 584
+Movie :Ice Age: Continental Drift (2012), 567
+Movie :Puss in Boots (2011), 520
+Movie :Flushed Away (2006), 433
+Movie :Monsters vs. Aliens (2009), 414
+Movie :Rango (2011), 410
+Movie :Open Season (2006), 397
+Movie :Stuart Little (1999), 362
+Movie :Ice Age: Dawn of the Dinosaurs (2009), 353
+Movie :Planet 51 (2009), 345
+Movie :Doogal (2006), 338
+Movie :Everyone&apos;s Hero (2006), 328
+Movie :Vexille (2007), 292
+Movie :The Secret of Kells (2009), 235
+Movie :LEGO: The Adventures of Clutch Powers (2010), 222
+Movie :The Secret of NIMH 2: Timmy to the Rescue (1998), 193
+Movie :Superman/Batman: Public Enemies (2009), 190
+Movie :Street Fighter: The New Challengers (2011), 182
+Movie :Care Bears: A Belly Badge for Wonderheart (2013), 177
+Movie :King of Thorn (2010), 176
+Movie :Battle for Terra (2009), 170
+Movie :The Chronicles of Riddick: Dark Fury (2004), 137
+Movie :Stan Lee Presents: Mosaic (2004), 134
+Movie :Cinderella (1994), 131
+Movie :The Princess and the Goblin (1992), 115
+Movie :Superman/Batman: Apocalypse (2010), 114
+Movie :Stuart Little 3: Call of the Wild (2005), 112
+Movie :South Park: Bigger, Longer &amp; Uncut (1999), 111
+Movie :Blue Gender: The Warrior (2004), 109
+Movie :Hellboy: Sword of Storms (2006), 104
+Movie :Snow White (1997), 91
+Movie :Stan Lee Presents: The Condor (2007), 89
+Movie :Dead Space: Downfall (2008), 83
+Movie :Hellboy: Blood and Iron (2007), 79
+Movie :Care Bears: The Care-A-Thon Games (2014), 77
+Movie :The Blue Umbrella (2013), 76
+Movie :Monkeybone (2001), 75
+Movie :Fate/Stay Night: Unlimited Blade Works (2012), 73
+Movie :Inspector Gadget&apos;s Biggest Caper Ever (2005), 72
+Movie :Aladdin (1992), 69
+Movie :Care Bears: Big Wish Movie (2005), 67
+Movie :The New Adventures of Peter Rabbit (1998), 65
+Movie :Care Bears: Totally Sweet Adventures (2013), 64
+Movie :Adventures of a Teenage Dragonslayer (2010), 60
+Movie :Lion of Oz (2000), 59
+Movie :Street Fighter: Round One - Fight! (2009), 57
+Movie :A Town Called Panic (2009), 56
+Movie :Care Bears: Journey to Joke-a-Lot (2004), 53
+Movie :Tales of the Rat Fink (2006), 52
+Movie :Back to the Sea (2011), 50
+Movie :The Velveteen Rabbit (2009), 45
+Movie :Stuart Little 3: Un Rat&#243;n en la Familia (2005), 43
+Movie :Renaissance (2006), 42
+Movie :Doodle Baby (2010), 38
+Movie :Stuart Little 2 (2002), 36
+Movie :GodKiller (2010), 34
+Movie :Tarzan of the Apes (1998), 33
+Movie :Panda! Go Panda! (1972), 32
+Movie :Final Fantasy: The Spirits Within (2001), 30
+Movie :The Swan Princess and the Secret of the Castle (1997), 29
+Movie :The Legend of the Sky Kingdom (2004), 28
+Movie :The Animated Adventures of Tom Sawyer (1996), 26
+Movie :Gintama: The Movie (2013), 25
+Movie :Ben Hur (2002), 23
+Movie :Aladdin and His Magic Lamp (1967), 22
+Movie :Pinocchio (1985), 21
+Movie :A Little Princess (1996), 20
+Movie :An Oversimplification of Her Beauty (2011), 19
+Movie :The Swan Princess: A Royal Family Tale (2014), 18
+Movie :Hercules (1998), 16
+Movie :The Flying Machine (2011), 15
+Movie :Sita Sings the Blues (2008), 14
+Movie :Pocahontas (1996), 13
+Movie :Pablo (2012), 12
+Movie :The Swan Princess: Mystery of the Enchanted Treasure (1998), 11
+Movie :The Best Red vs. Blue. Ever. Of All Time (2012), 10
+Movie :The Nutcracker , 10
+Movie :The Chosen One (2006), 9
+Movie :A Christmas Carol (1994), 8
+Movie :A Magic Cartoon Christmas (2004), 7
+Movie :The Hunchback of Notre Dame (1998), 6
+Movie :A Very Barry Christmas (2004), 5
+Movie :Toward the Terra (1980), 4
+Movie :First Squad (2012), 3
+Movie :All Together (1942), 1
+
+Genre : 7968272137004036127, 7386
+Movie :Fast &amp; Furious 6 (2013), 7386
+Movie :The Purge: Anarchy (2014), 7202
+Movie :Inside Man (2006), 4239
+Movie :RED 2 (2013), 3958
+Movie :R.I.P.D. (2013), 3649
+Movie :Casino (1995), 3127
+Movie :The Fast and the Furious: Tokyo Drift (2006), 3014
+Movie :Non-Stop (2014), 2978
+Movie :Batman Begins (2005), 2698
+Movie :Prisoners (2013), 2376
+Movie :Deliver Us From Evil (2014), 2351
+Movie :The Monuments Men (2014), 2136
+Movie :Heat (1995), 1926
+Movie :Furious 7 (2015), 1780
+Movie :The Other Guys (2010), 1701
+Movie :Salt (2010), 1548
+Movie :American Hustle (2013), 1409
+Movie :The Amazing Spider-Man 2 (2014), 1404
+Movie :Gridiron Gang (2006), 1031
+Movie :A History of Violence (2005), 1012
+Movie :Swordfish (2001), 1003
+Movie :Man on a Ledge (2012), 977
+Movie :Dead Drop (2013), 973
+Movie :King of New York (1990), 961
+Movie :The Calling (2014), 854
+Movie :The Raid 2 (2014), 821
+Movie :The Sitter (2011), 808
+Movie :King Kelly (2012), 787
+Movie :L.A. Confidential (1997), 695
+Movie :Absolute Power (1997), 676
+Movie :Demolition Man (1993), 674
+Movie :Fatal Desire (2006), 610
+Movie :Easy Money: Life Deluxe (2013), 536
+Movie :Die Hard With a Vengeance (1995), 501
+Movie :Point Break (1991), 495
+Movie :My Cousin Vinny (1992), 485
+Movie :Gone in 60 Seconds (2000), 469
+Movie :Captain Phillips (2013), 460
+Movie :Captivated: The Trials of Pamela Smart (2014), 441
+Movie :Safe House (2012), 430
+Movie :S.W.A.T. (2003), 425
+Movie :Die Hard (1988), 423
+Movie :JFK (1991), 421
+Movie :2 Guns (2013), 406
+Movie :Reasonable Doubt (2014), 402
+Movie :Two for the Money (2005), 401
+Movie :The Next Three Days (2010), 380
+Movie :Contraband (2012), 358
+Movie :Getaway (2013), 357
+Movie :Thunderheart (1992), 348
+Movie :Cold in July (2014), 346
+Movie :Tomorrow Never Dies (1997), 344
+Movie :Fast and Furious (2009), 334
+Movie :Belly 2: Millionaire Boyz Club (2008), 332
+Movie :Muppets Most Wanted (2014), 331
+Movie :Sexy Evil Genius (2013), 283
+Movie :What&apos;s the Worst That Could Happen? (2001), 264
+Movie :Basic (2003), 263
+Movie :Copycat (1995), 262
+Movie :Wild Things (1998), 257
+Movie :The Man (2005), 248
+Movie :The Way of the Gun (2000), 240
+Movie :A Fish Called Wanda (1988), 237
+Movie :Mississippi Burning (1988), 230
+Movie :One for the Money (2012), 225
+Movie :Ronin (1998), 224
+Movie :Obituary (2006), 221
+Movie :To Live and Die in L.A. (1985), 217
+Movie :Against All Odds (1984), 213
+Movie :The Thomas Crown Affair (1999), 210
+Movie :Kick-Ass 2 (2013), 208
+Movie :American Joyride (2011), 204
+Movie :The Mountie (2011), 198
+Movie :Catch Hell (2014), 197
+Movie :Belly (1998), 194
+Movie :Family in Hiding (2006), 193
+Movie :Fargo (1996), 187
+Movie :In the Blood (2014), 186
+Movie :Dirty Rotten Scoundrels (1988), 182
+Movie :The Cheshire Murders (2013), 181
+Movie :To Catch a Thief (1955), 175
+Movie :Rapid Fire (1992), 173
+Movie :Blood Shed (2014), 171
+Movie :Citizen X (1995), 169
+Movie :Hoodlum (1997), 167
+Movie :A Family Lost (2007), 166
+Movie :The Professional (1994), 164
+Movie :25th Hour (2002), 160
+Movie :Ricochet (1991), 159
+Movie :Rob the Mob (2014), 157
+Movie :Killing Them Softly (2012), 155
+Movie :Hit by Lightning (2014), 153
+Movie :Sexy Beast (2000), 151
+Movie :High Plains Drifter (1973), 146
+Movie :Veronica Mars (2014), 145
+Movie :Paradise Lost 3: Purgatory (2011), 143
+Movie :The Reunion (2011), 137
+Movie :&apos;Til Lies Do Us Part (2007), 135
+Movie :Serial Mom (1994), 134
+Movie :Fractured (2013), 132
+Movie :Mo&apos; Money (1992), 129
+Movie :Mulholland Falls (1996), 126
+Movie :Armed and Dangerous (1986), 124
+Movie :Assassins Run (2013), 122
+Movie :Rising Sun (1993), 116
+Movie :Derailed (2005), 115
+Movie :Goodnight for Justice (2011), 109
+Movie :Hostage (2005), 108
+Movie :Breaking Point (2009), 107
+Movie :Waist Deep (2006), 106
+Movie :Feeling Minnesota (1996), 104
+Movie :Don&apos;t Cry Now (2007), 102
+Movie :Bowling for Columbine (2002), 99
+Movie :Death of a President (2006), 96
+Movie :Mystery Team (2009), 95
+Movie :The Almost Perfect Bank Robbery (1999), 94
+Movie :Hard Rain (1998), 93
+Movie :Beyond the Law (1992), 92
+Movie :The French Connection (1971), 89
+Movie :Undercover Blues (1993), 88
+Movie :Closed Circuit (2013), 87
+Movie :Runner Runner (2013), 86
+Movie :Hustle (1975), 85
+Movie :A Single Shot (2013), 81
+Movie :Red Corner (1997), 80
+Movie :Crips and Bloods: Made in America (2008), 79
+Movie :Gun (2010), 77
+Movie :Thunderbolt and Lightfoot (1974), 75
+Movie :Blow Out (1981), 74
+Movie :Grosse Pointe Blank (1997), 73
+Movie :The Border (1982), 71
+Movie :Affliction (1998), 70
+Movie :Blood Simple (1984), 68
+Movie :Cahill: U.S. Marshal (1973), 67
+Movie :Havana 57 (2012), 66
+Movie :Deadfall (2012), 64
+Movie :Dose of Reality (2013), 63
+Movie :Ain&apos;t Them Bodies Saints (2013), 62
+Movie :Black Widow (1987), 59
+Movie :Basic Instinct 2 (2006), 58
+Movie :44 Inch Chest (2009), 57
+Movie :Bonnie and Clyde vs. Dracula (2008), 56
+Movie :8 Heads in a Duffel Bag (1997), 55
+Movie :Dressed to Kill (1980), 54
+Movie :Bank Roll (2013), 53
+Movie :The Life of David Gale (2003), 52
+Movie :A Kiss to Die For (1993), 51
+Movie :Coffee Town (2012), 50
+Movie :The Best Offer (2013), 49
+Movie :Eagle Eye (2008), 48
+Movie :8MM (1999), 47
+Movie :All Is Bright (2013), 46
+Movie :Deliver Us From Evil (2006), 45
+Movie :Bad Boys II (2003), 44
+Movie :The Cotton Club (1984), 43
+Movie :American Buffalo (1996), 42
+Movie :Fall Time (1995), 41
+Movie :A Fork in the Road (2009), 40
+Movie :Criminal (2004), 39
+Movie :Another Life (2001), 38
+Movie :Black Mama, White Mama (1973), 37
+Movie :The Man Who Would Be Polka King (2009), 36
+Movie :Crimes and Misdemeanors (1989), 35
+Movie :American Gigolo (1980), 34
+Movie :Tomorrow You&apos;re Gone (2012), 33
+Movie :The Matador (2005), 32
+Movie :16 Blocks (2006), 31
+Movie :Double Team (1997), 30
+Movie :My Mom&apos;s New Boyfriend (2008), 29
+Movie :Bloody Ties (2006), 28
+Movie :Deep Cover (1992), 27
+Movie :Crackers (1984), 26
+Movie :Confidence (2003), 25
+Movie :A Shock to the System (1990), 23
+Movie :Bookies (2003), 22
+Movie :Next of Kin (1989), 21
+Movie :Bottle Rocket (1996), 20
+Movie :Columbus Circle (2012), 19
+Movie :Amnesia (2004), 18
+Movie :Beautiful Creatures (2000), 17
+Movie :Arlington Road (1999), 16
+Movie :Amores Perros (2000), 15
+Movie :Drop Dead Sexy (2006), 14
+Movie :Bloody Mama (1970), 13
+Movie :Boys of Ghost Town (2008), 12
+Movie :Best Men (1997), 11
+Movie :At the Sinatra Club (2010), 10
+Movie :A Line in the Sand (2008), 9
+Movie :Burning Daylight (2010), 8
+Movie :Arthur Hailey&apos;s Detective (2005), 7
+Movie :Baseline (2009), 6
+Movie :American Heart (1992), 5
+Movie :6 Thugs (2006), 4
+Movie :Aakrosh (2010), 3
+Movie :Collision Course (1990), 2
+Movie :A True Mob Story (1998), 1
+Movie :Talking to Heaven , 1
+
+Genre : 7874513333641979127, 7202
+Movie :The Purge: Anarchy (2014), 7202
+Movie :Deliver Us From Evil (2014), 2351
+Movie :28 Days Later (2002), 2285
+Movie :Key (2011), 2000
+Movie :Pretty Dead (2013), 1455
+Movie :Resident Evil: Apocalypse (2004), 1218
+Movie :Lost Time (2014), 1208
+Movie :The Mortal Instruments: City of Bones (2013), 1186
+Movie :2:13 (2009), 1114
+Movie :Aliens (1986), 1063
+Movie :The Last Light (2014), 1023
+Movie :Blade (1998), 897
+Movie :The Calling (2014), 854
+Movie :The Cloth (2013), 754
+Movie :Alien (1979), 721
+Movie :Sleepy Hollow (1999), 705
+Movie :The Purge (2013), 700
+Movie :American Psycho (2000), 699
+Movie :Monster House (2006), 673
+Movie :Abraham Lincoln: Vampire Hunter (2012), 667
+Movie :Resident Evil (2002), 655
+Movie :The Covenant (2006), 606
+Movie :The Ouija Experiment (2011), 572
+Movie :Teeth (2008), 570
+Movie :Vamp U (2013), 567
+Movie :YellowBrickRoad (2010), 564
+Movie :I Spit on Your Grave (1978), 563
+Movie :Alien Resurrection (1997), 473
+Movie :Pulse (2006), 447
+Movie :Spirit in the Woods (2014), 404
+Movie :Don&apos;t Blink (2014), 392
+Movie :The Skin I Live In (2011), 382
+Movie :Beyond Sherwood Forest (2009), 370
+Movie :Documenting the Grey Man (2012), 354
+Movie :Darkest Night (2013), 350
+Movie :Silent Hill (2006), 320
+Movie :The Witches (1990), 316
+Movie :Alien 3 (1992), 304
+Movie :Child&apos;s Play (1988), 281
+Movie :The Cell (2000), 279
+Movie :The Colony (2013), 273
+Movie :Hard Candy (2005), 265
+Movie :Chronicle (2012), 247
+Movie :20 Ft Below: The Darkness Descending (2014), 246
+Movie :Underworld: Awakening (2012), 235
+Movie :Uninhabited (2010), 230
+Movie :Tales from the Crypt Presents: Demon Knight (1995), 222
+Movie :Merlin and the Book of Beasts (2009), 216
+Movie :Apartment 1303 (2007), 215
+Movie :Anacondas: Trail of Blood (2009), 205
+Movie :Jamie Marks Is Dead (2014), 204
+Movie :Devil&apos;s Diary (2007), 199
+Movie :Devil&apos;s Due (2014), 196
+Movie :Christine (1983), 191
+Movie :An American Ghost Story (2013), 187
+Movie :Evidence (2013), 179
+Movie :Species (1995), 178
+Movie :King of Thorn (2010), 176
+Movie :The Collapsed (2011), 174
+Movie :The Blair Witch Project (1999), 173
+Movie :Blood Shed (2014), 171
+Movie :Scary Movie 4 (2006), 160
+Movie :The Amityville Haunting (2011), 159
+Movie :Only Lovers Left Alive (2013), 154
+Movie :Train (2009), 151
+Movie :Elevator (2012), 147
+Movie :Separation (2013), 143
+Movie :Day Watch (2006), 142
+Movie :Slaughter (2009), 140
+Movie :The Terror Experiment (2010), 136
+Movie :The Day (2011), 135
+Movie :The Mothman Prophecies (2002), 134
+Movie :I Still Know What You Did Last Summer (1998), 131
+Movie :The New Daughter (2009), 125
+Movie :Cursed (2005), 124
+Movie :Big Trouble in Little China (1986), 121
+Movie :Species II (1998), 120
+Movie :Against the Dark (2009), 117
+Movie :Exit Humanity (2011), 116
+Movie :Heatstroke (2014), 115
+Movie :Witchboard (1987), 112
+Movie :1, 2, 3...Scream (2011), 110
+Movie :Blue Gender: The Warrior (2004), 109
+Movie :Stalled (2013), 108
+Movie :Bled (2009), 107
+Movie :Bad Meat (2011), 104
+Movie :Do Not Disturb (2013), 101
+Movie :Poltergeist II: The Other Side (1986), 100
+Movie :InAlienable (2009), 99
+Movie :Dawn of the Dead (2004), 98
+Movie :Picture Mommy Dead (1966), 97
+Movie :House of Wax (2005), 96
+Movie :Jacob&apos;s Ladder (1990), 94
+Movie :Jug Face (2013), 93
+Movie :Happy Camp (2014), 92
+Movie :Omen IV: The Awakening (1991), 91
+Movie :Bigfoot: The Lost Coast Tapes (2012), 89
+Movie :Red Dragon (2002), 87
+Movie :Book of Shadows: Blair Witch 2 (2000), 86
+Movie :The Rocky Horror Picture Show (1975), 85
+Movie :The Divide (2011), 84
+Movie :Dead Space: Downfall (2008), 83
+Movie :After.Life (2009), 81
+Movie :Hellboy: Blood and Iron (2007), 79
+Movie :From Beyond (1986), 77
+Movie :Hazmat (2013), 76
+Movie :Damien: Omen II (1978), 75
+Movie :The Grudge 2 (2006), 74
+Movie :6 Degrees of Hell (2012), 73
+Movie :Dark Floors (2008), 70
+Movie :Blood Rush (2012), 68
+Movie :Occupant (2010), 67
+Movie :Catacombs (2007), 66
+Movie :Slink (2013), 65
+Movie :Doom (2005), 64
+Movie :First Born (2007), 63
+Movie :Angel Heart (1987), 62
+Movie :Evil Bong (2006), 61
+Movie :The Hills Have Eyes (2006), 60
+Movie :MirrorMask (2005), 59
+Movie :Twilight Zone: The Movie (1983), 58
+Movie :Ghost of Goodnight Lane (2013), 57
+Movie :Bonnie and Clyde vs. Dracula (2008), 56
+Movie :The Cyclops (1957), 55
+Movie :Carrie (2002), 54
+Movie :Invasion of the Body Snatchers (1978), 53
+Movie :The Devil&apos;s Advocate (1997), 52
+Movie :The Butterfly Effect 3: Revelations (2009), 51
+Movie :Single White Female 2: The Psycho (2005), 50
+Movie :Crawlspace (2013), 49
+Movie :Anacondas: The Hunt for the Blood Orchid (2004), 48
+Movie :The Devil&apos;s Rock (2010), 47
+Movie :The Gate (1987), 46
+Movie :Darkness (2002), 44
+Movie :The Astronaut&apos;s Wife (1999), 43
+Movie :Cold Fish (2010), 42
+Movie :Bad Behavior (2013), 41
+Movie :Aaah! Zombies!! (2007), 40
+Movie :The Blob (1988), 39
+Movie :Bram Stoker&apos;s Dracula (1992), 38
+Movie :Chain Letter (2010), 37
+Movie :Crash Site (2011), 36
+Movie :I Am a Ghost (2012), 35
+Movie :Evidence of a Haunting (2011), 34
+Movie :Devil&apos;s Pond (2003), 33
+Movie :186 Dollars to Freedom (2012), 32
+Movie :Dance of the Dead (2008), 31
+Movie :Favor (2013), 30
+Movie :Atomic Brain Invasion (2012), 29
+Movie :The Brood (1979), 28
+Movie :The Face of Fu Manchu (1965), 27
+Movie :Attack of the Puppet People (1958), 26
+Movie :Dark Skies (2013), 25
+Movie :Blood Runs Cold (2011), 24
+Movie :The Cook (2007), 23
+Movie :The Brotherhood III: Young Demons (2002), 22
+Movie :Barricade (2012), 21
+Movie :Cold Prey (2006), 20
+Movie :Columbus Circle (2012), 19
+Movie :Gallery of Fear (2013), 18
+Movie :Chop (2011), 17
+Movie :Chastity Bites (2013), 16
+Movie :The Car (1977), 15
+Movie :Bad Girls from Valley High (2005), 14
+Movie :The Child&apos;s Eye (2010), 13
+Movie :Blacula (1972), 12
+Movie :Blood Reunion (2012), 11
+Movie :Detention of the Dead (2012), 10
+Movie :Nun of That , 10
+Movie :Creature from the Haunted Sea (1961), 9
+Movie :After Midnight (1989), 8
+Movie :Blood Night: The Legend of Mary Hatchet (2007), 7
+Movie :The Devil Bat (1941), 6
+Movie :Bestseller (2010), 5
+Movie :1 Hour to Die 2 (2012), 4
+Movie :A Bucket of Blood (1959), 3
+Movie :Aa Dekhen Zara (2009), 2
+Movie :1313: Giant Killer Bees! (2010), 1
+
+Genre : 6616584436088343127, 6018
+Movie :Maleficent (2014), 8306
+Movie :Frozen (2013), 8178
+Movie :Despicable Me 2 (2013), 6018
+Movie :The LEGO Movie (2014), 5223
+Movie :Planes: Fire &amp; Rescue (2014), 2987
+Movie :Rio 2 (2014), 2476
+Movie :Epic (2013), 1881
+Movie :Cloudy with a Chance of Meatballs (2009), 1799
+Movie :Hotel Transylvania (2012), 1635
+Movie :Scooby-Doo 2: Monsters Unleashed (2004), 1148
+Movie :Robots (2005), 982
+Movie :Over the Hedge (2006), 901
+Movie :Ice Age: The Meltdown (2006), 812
+Movie :Monster House (2006), 673
+Movie :Chicken Little (2005), 659
+Movie :Curious George (2006), 584
+Movie :Ice Age: Continental Drift (2012), 567
+Movie :Puss in Boots (2011), 520
+Movie :Flushed Away (2006), 433
+Movie :Monsters vs. Aliens (2009), 414
+Movie :Rango (2011), 410
+Movie :Open Season (2006), 397
+Movie :Stuart Little (1999), 362
+Movie :Ice Age: Dawn of the Dinosaurs (2009), 353
+Movie :Planet 51 (2009), 345
+Movie :Doogal (2006), 338
+Movie :Everyone&apos;s Hero (2006), 328
+Movie :Vexille (2007), 292
+Movie :The Secret of Kells (2009), 235
+Movie :LEGO: The Adventures of Clutch Powers (2010), 222
+Movie :The Secret of NIMH 2: Timmy to the Rescue (1998), 193
+Movie :Superman/Batman: Public Enemies (2009), 190
+Movie :Street Fighter: The New Challengers (2011), 182
+Movie :Care Bears: A Belly Badge for Wonderheart (2013), 177
+Movie :King of Thorn (2010), 176
+Movie :Battle for Terra (2009), 170
+Movie :The Chronicles of Riddick: Dark Fury (2004), 137
+Movie :Stan Lee Presents: Mosaic (2004), 134
+Movie :Cinderella (1994), 131
+Movie :The Princess and the Goblin (1992), 115
+Movie :Superman/Batman: Apocalypse (2010), 114
+Movie :Stuart Little 3: Call of the Wild (2005), 112
+Movie :South Park: Bigger, Longer &amp; Uncut (1999), 111
+Movie :Blue Gender: The Warrior (2004), 109
+Movie :Hellboy: Sword of Storms (2006), 104
+Movie :Snow White (1997), 91
+Movie :Stan Lee Presents: The Condor (2007), 89
+Movie :Dead Space: Downfall (2008), 83
+Movie :Hellboy: Blood and Iron (2007), 79
+Movie :Care Bears: The Care-A-Thon Games (2014), 77
+Movie :The Blue Umbrella (2013), 76
+Movie :Monkeybone (2001), 75
+Movie :Fate/Stay Night: Unlimited Blade Works (2012), 73
+Movie :Inspector Gadget&apos;s Biggest Caper Ever (2005), 72
+Movie :Aladdin (1992), 69
+Movie :Care Bears: Big Wish Movie (2005), 67
+Movie :The New Adventures of Peter Rabbit (1998), 65
+Movie :Care Bears: Totally Sweet Adventures (2013), 64
+Movie :Adventures of a Teenage Dragonslayer (2010), 60
+Movie :Lion of Oz (2000), 59
+Movie :Street Fighter: Round One - Fight! (2009), 57
+Movie :A Town Called Panic (2009), 56
+Movie :Care Bears: Journey to Joke-a-Lot (2004), 53
+Movie :Tales of the Rat Fink (2006), 52
+Movie :Back to the Sea (2011), 50
+Movie :The Velveteen Rabbit (2009), 45
+Movie :Stuart Little 3: Un Rat&#243;n en la Familia (2005), 43
+Movie :Renaissance (2006), 42
+Movie :Doodle Baby (2010), 38
+Movie :Stuart Little 2 (2002), 36
+Movie :GodKiller (2010), 34
+Movie :Tarzan of the Apes (1998), 33
+Movie :Panda! Go Panda! (1972), 32
+Movie :Final Fantasy: The Spirits Within (2001), 30
+Movie :The Swan Princess and the Secret of the Castle (1997), 29
+Movie :The Legend of the Sky Kingdom (2004), 28
+Movie :The Animated Adventures of Tom Sawyer (1996), 26
+Movie :Gintama: The Movie (2013), 25
+Movie :Ben Hur (2002), 23
+Movie :Aladdin and His Magic Lamp (1967), 22
+Movie :Pinocchio (1985), 21
+Movie :A Little Princess (1996), 20
+Movie :An Oversimplification of Her Beauty (2011), 19
+Movie :The Swan Princess: A Royal Family Tale (2014), 18
+Movie :Hercules (1998), 16
+Movie :The Flying Machine (2011), 15
+Movie :Sita Sings the Blues (2008), 14
+Movie :Pocahontas (1996), 13
+Movie :Pablo (2012), 12
+Movie :The Swan Princess: Mystery of the Enchanted Treasure (1998), 11
+Movie :The Best Red vs. Blue. Ever. Of All Time (2012), 10
+Movie :The Nutcracker , 10
+Movie :The Chosen One (2006), 9
+Movie :A Christmas Carol (1994), 8
+Movie :A Magic Cartoon Christmas (2004), 7
+Movie :The Hunchback of Notre Dame (1998), 6
+Movie :A Very Barry Christmas (2004), 5
+Movie :Toward the Terra (1980), 4
+Movie :First Squad (2012), 3
+Movie :All Together (1942), 1
+
+Genre : 6988172973376731127, 6018
+Movie :Divergent (2014), 17796
+Movie :Live Die Repeat: Edge of Tomorrow (2014), 11894
+Movie :The Divergent Series: Insurgent (2015), 11021
+Movie :Eragon (2006), 10731
+Movie :Maleficent (2014), 8306
+Movie :Frozen (2013), 8178
+Movie :Fast &amp; Furious 6 (2013), 7386
+Movie :We&apos;re the Millers (2013), 6184
+Movie :Despicable Me 2 (2013), 6018
+Movie :Men in Black 3 (2012), 5355
+Movie :The LEGO Movie (2014), 5223
+Movie :Captain America: The Winter Soldier (2014), 5081
+Movie :Inside Man (2006), 4239
+Movie :RED 2 (2013), 3958
+Movie :Sunshine (2007), 3922
+Movie :Oblivion (2013), 3906
+Movie :The Hobbit: The Desolation of Smaug (2013), 3698
+Movie :R.I.P.D. (2013), 3649
+Movie :Thor: The Dark World (2013), 3295
+Movie :The Signal (2014), 3018
+Movie :The Fast and the Furious: Tokyo Drift (2006), 3014
+Movie :Planes: Fire &amp; Rescue (2014), 2987
+Movie :Non-Stop (2014), 2978
+Movie :Iron Man (2008), 2961
+Movie :300: Rise of an Empire (2014), 2817
+Movie :The Hobbit: An Unexpected Journey (2012), 2791
+Movie :Percy Jackson: Sea of Monsters (2013), 2764
+Movie :Blade Runner (1982), 2734
+Movie :Batman Begins (2005), 2698
+Movie :Rio 2 (2014), 2476
+Movie :Tigerland (2000), 2424
+Movie :Deliver Us From Evil (2014), 2351
+Movie :The Monuments Men (2014), 2136
+Movie :Next Friday (2000), 2059
+Movie :Talladega Nights: The Ballad of Ricky Bobby (2006), 2047
+Movie :Heat (1995), 1926
+Movie :Epic (2013), 1881
+Movie :X2 (2003), 1807
+Movie :Furious 7 (2015), 1780
+Movie :The Other Guys (2010), 1701
+Movie :Scooby-Doo (2002), 1586
+Movie :Unstoppable (2004), 1581
+Movie :Salt (2010), 1548
+Movie :Hulk (2003), 1454
+Movie :This Is the End (2013), 1424
+Movie :The Amazing Spider-Man 2 (2014), 1404
+Movie :The Da Vinci Code (2006), 1392
+Movie :Battle: Los Angeles (2011), 1353
+Movie :The Patriot (2000), 1315
+Movie :The League of Extraordinary Gentlemen (2003), 1313
+Movie :In Time (2011), 1273
+Movie :Little Miss Sunshine (2006), 1253
+Movie :After Earth (2013), 1227
+Movie :Resident Evil: Apocalypse (2004), 1218
+Movie :Godzilla (2014), 1195
+Movie :The Mortal Instruments: City of Bones (2013), 1186
+Movie :The Way Back (2010), 1166
+Movie :Scooby-Doo 2: Monsters Unleashed (2004), 1148
+Movie :Elysium (2013), 1147
+Movie :The Good, the Bad and the Ugly (1966), 1109
+Movie :Aliens (1986), 1063
+Movie :Rain Man (1988), 1052
+Movie :Blue Crush (2002), 1046
+Movie :Gridiron Gang (2006), 1031
+Movie :The Last Light (2014), 1023
+Movie :A History of Violence (2005), 1012
+Movie :Ride Along (2014), 1011
+Movie :Swordfish (2001), 1003
+Movie :Robots (2005), 982
+Movie :Man on a Ledge (2012), 977
+Movie :Dead Drop (2013), 973
+Movie :Garfield: A Tail of Two Kitties (2006), 962
+Movie :King of New York (1990), 961
+Movie :The Darjeeling Limited (2007), 958
+Movie :The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005), 952
+Movie :Over the Hedge (2006), 901
+Movie :Blade (1998), 897
+Movie :2012 (2012), 850
+Movie :Die Another Day (2002), 824
+Movie :The Raid 2 (2014), 821
+Movie :Ice Age: The Meltdown (2006), 812
+Movie :The Sitter (2011), 808
+Movie :In the Line of Fire (1993), 790
+Movie :Men in Black (1997), 788
+Movie :Aquamarine (2006), 785
+Movie :The Karate Kid (2010), 765
+Movie :The Cloth (2013), 754
+Movie :Rob Roy (1995), 745
+Movie :GoldenEye (1995), 743
+Movie :Alien (1979), 721
+Movie :X-Men: The Last Stand (2006), 684
+Movie :Absolute Power (1997), 676
+Movie :Demolition Man (1993), 674
+Movie :Monster House (2006), 673
+Movie :Abraham Lincoln: Vampire Hunter (2012), 667
+Movie :Chicken Little (2005), 659
+Movie :Resident Evil (2002), 655
+Movie :Dances With Wolves (1990), 653
+Movie :Pompeii (2014), 651
+Movie :Harry Potter and the Goblet of Fire (2005), 647
+Movie :Idiocracy (2006), 646
+Movie :The Hitchhiker&apos;s Guide to the Galaxy (2005), 616
+Movie :Le Divorce (2003), 608
+Movie :Dolphin Tale (2011), 607
+Movie :The Covenant (2006), 606
+Movie :Snow White and the Huntsman (2012), 591
+Movie :Epoch (2000), 590
+Movie :Dr. No (1962), 587
+Movie :Curious George (2006), 584
+Movie :The Ouija Experiment (2011), 572
+Movie :Master And Commander (2003), 568
+Movie :Ice Age: Continental Drift (2012), 567
+Movie :A Fistful of Dollars (1964), 560
+Movie :Rush (2013), 542
+Movie :Born to Race (2011), 534
+Movie :Puss in Boots (2011), 520
+Movie :Into the Blue (2005), 519
+Movie :Transcendence (2014), 518
+Movie :Legend (1985), 506
+Movie :Die Hard With a Vengeance (1995), 501
+Movie :Point Break (1991), 495
+Movie :Maverick (1994), 488
+Movie :City of Ember (2008), 476
+Movie :Alien Resurrection (1997), 473
+Movie :9 to 5 (1980), 472
+Movie :Gone in 60 Seconds (2000), 469
+Movie :Push (2009), 461
+Movie :Captain Phillips (2013), 460
+Movie :A Viking Saga: The Darkest Day (2012), 452
+Movie :A Knight&apos;s Tale (2001), 451
+Movie :Sky High (2005), 440
+Movie :Flushed Away (2006), 433
+Movie :Safe House (2012), 430
+Movie :S.W.A.T. (2003), 425
+Movie :Die Hard (1988), 423
+Movie :Amazonia (2013), 422
+Movie :Platoon (1986), 416
+Movie :Monsters vs. Aliens (2009), 414
+Movie :Rango (2011), 410
+Movie :2 Guns (2013), 406
+Movie :Windtalkers (2002), 402
+Movie :The Life Aquatic with Steve Zissou (2004), 387
+Movie :Warrior Assassin (2013), 382
+Movie :The Next Three Days (2010), 380
+Movie :The Adventures of Elmo in Grouchland (1999), 375
+Movie :Please Kill Mr. Know It All (2013), 367
+Movie :The Blackout (2013), 365
+Movie :Stuart Little (1999), 362
+Movie :Contraband (2012), 358
+Movie :Getaway (2013), 357
+Movie :Beverly Hills Ninja (1997), 355
+Movie :Ice Age: Dawn of the Dinosaurs (2009), 353
+Movie :Thunderball (1965), 350
+Movie :The Girl With the Dragon Tattoo (2011), 349
+Movie :Cold in July (2014), 346
+Movie :Line in the Sand (2009), 344
+Movie :Doogal (2006), 338
+Movie :Now You See Me (2013), 336
+Movie :Fast and Furious (2009), 334
+Movie :Belly 2: Millionaire Boyz Club (2008), 332
+Movie :The Fifth Element (1997), 330
+Movie :Everyone&apos;s Hero (2006), 328
+Movie :Goldfinger (1964), 322
+Movie :The Witches (1990), 316
+Movie :The Blue Lagoon (1980), 315
+Movie :The Abyss (1989), 314
+Movie :Hang &apos;em High (1968), 309
+Movie :Alien 3 (1992), 304
+Movie :Home Alone 3 (1997), 300
+Movie :Diamonds Are Forever (1971), 294
+Movie :Vexille (2007), 292
+Movie :Gravity (2013), 291
+Movie :Nanny McPhee (2005), 286
+Movie :The Great Raid (2005), 285
+Movie :Fatal Instinct (2014), 282
+Movie :Land of the Dead (2005), 281
+Movie :The Chaperone (2011), 275
+Movie :The Colony (2013), 273
+Movie :Moonraker (1979), 272
+Movie :Ironclad (2011), 270
+Movie :Basic (2003), 263
+Movie :The Mask of Zorro (1998), 262
+Movie :Starship Troopers (1997), 257
+Movie :Small Soldiers (1998), 255
+Movie :Meatballs (1979), 254
+Movie :Rush Hour (1998), 250
+Movie :The Man (2005), 248
+Movie :Chronicle (2012), 247
+Movie :20 Ft Below: The Darkness Descending (2014), 246
+Movie :21 (2008), 243
+Movie :The Man with the Golden Gun (1974), 241
+Movie :The Way of the Gun (2000), 240
+Movie :Octopussy (1983), 236
+Movie :Underworld: Awakening (2012), 235
+Movie :Last Holiday (2006), 230
+Movie :One for the Money (2012), 225
+Movie :Ronin (1998), 224
+Movie :LEGO: The Adventures of Clutch Powers (2010), 222
+Movie :For Your Eyes Only (1981), 219
+Movie :Agent Cody Banks (2003), 217
+Movie :Merlin and the Book of Beasts (2009), 216
+Movie :Unstoppable (2010), 214
+Movie :Against All Odds (1984), 213
+Movie :The Thomas Crown Affair (1999), 210
+Movie :Contact (1997), 208
+Movie :Anacondas: Trail of Blood (2009), 205
+Movie :American Joyride (2011), 204
+Movie :Robin Hood: Men in Tights (1993), 203
+Movie :Catch Hell (2014), 197
+Movie :The Vanguard (2008), 196
+Movie :Bubble Boy (2001), 195
+Movie :Land Ho! (2014), 193
+Movie :Superman/Batman: Public Enemies (2009), 190
+Movie :Grandma&apos;s Boy (Unrated) (2006), 189
+Movie :The Spy Who Loved Me (1977), 188
+Movie :Hook (1991), 187
+Movie :In the Blood (2014), 186
+Movie :Escape Plan (2013), 185
+Movie :Tapped Out (2014), 184
+Movie :The Forbidden Kingdom (2008), 183
+Movie :Street Fighter: The New Challengers (2011), 182
+Movie :White Lion (2009), 181
+Movie :White Wall (2010), 180
+Movie :Evidence (2013), 179
+Movie :Species (1995), 178
+Movie :Care Bears: A Belly Badge for Wonderheart (2013), 177
+Movie :King of Thorn (2010), 176
+Movie :Some Like It Hot (1959), 175
+Movie :Jumpin&apos; Jack Flash (1986), 173
+Movie :Blood Shed (2014), 171
+Movie :Battle for Terra (2009), 170
+Movie :Hoodlum (1997), 167
+Movie :A Family Lost (2007), 166
+Movie :The Professional (1994), 164
+Movie :Highlander 2: The Quickening (1991), 162
+Movie :Nipples &amp; Palm Trees (2011), 161
+Movie :Herbie: Fully Loaded (2005), 159
+Movie :Rob the Mob (2014), 157
+Movie :A View to a Kill (1985), 151
+Movie :Baby Geniuses (1999), 147
+Movie :High Plains Drifter (1973), 146
+Movie :Behind Enemy Lines II: Axis of Evil (2006), 144
+Movie :Quigley Down Under (1990), 143
+Movie :Day Watch (2006), 142
+Movie :The Art of War II: Betrayal (2008), 139
+Movie :Rocky IV (1985), 138
+Movie :The Chronicles of Riddick: Dark Fury (2004), 137
+Movie :The Heat (2013), 136
+Movie :The Day (2011), 135
+Movie :Stan Lee Presents: Mosaic (2004), 134
+Movie :Fractured (2013), 132
+Movie :Licence to Kill (1989), 131
+Movie :Honey, I Shrunk the Kids (1989), 129
+Movie :Inspector Gadget (1999), 126
+Movie :Finding Joy (2013), 125
+Movie :Armed and Dangerous (1986), 124
+Movie :Assassins Run (2013), 122
+Movie :A Bridge Too Far (1977), 121
+Movie :Hart&apos;s War (2002), 120
+Movie :On Her Majesty&apos;s Secret Service (1969), 118
+Movie :Against the Dark (2009), 117
+Movie :Never Say Never Again (1983), 116
+Movie :Heatstroke (2014), 115
+Movie :The Quick and the Dead (1995), 114
+Movie :All About the Benjamins (2002), 113
+Movie :Rocky II (1979), 112
+Movie :Aeon Flux (2005), 109
+Movie :Hostage (2005), 108
+Movie :Breaking Point (2009), 107
+Movie :Austin Powers: International Man of Mystery (1997), 106
+Movie :Dragon Wars (2007), 105
+Movie :Fair Game (1995), 104
+Movie :3 Ninjas Kick Back (1994), 103
+Movie :Jackhammer (2014), 102
+Movie :Alice&apos;s Adventures in Wonderland (1972), 101
+Movie :Conspiracy Theory (1997), 99
+Movie :Dawn of the Dead (2004), 98
+Movie :Hard Rain (1998), 93
+Movie :Beyond the Law (1992), 92
+Movie :The Magnificent Seven (1960), 91
+Movie :Cyborg Soldier (2008), 90
+Movie :Bigfoot: The Lost Coast Tapes (2012), 89
+Movie :Silverado (1985), 88
+Movie :Closed Circuit (2013), 87
+Movie :Gun the Man Down (1957), 86
+Movie :Cristo Rey (2013), 85
+Movie :Jarhead (2005), 84
+Movie :Concrete Blondes (2012), 81
+Movie :Crossover (2006), 80
+Movie :The Big Year (2011), 79
+Movie :Gun (2010), 77
+Movie :The Count of Monte Cristo (1934), 76
+Movie :Monkeybone (2001), 75
+Movie :The Adventures of Sharkboy and Lavagirl (2005), 73
+Movie :Inspector Gadget&apos;s Biggest Caper Ever (2005), 72
+Movie :Duma (2005), 70
+Movie :Annie: A Royal Adventure (1995), 69
+Movie :Blood Rush (2012), 68
+Movie :Cahill: U.S. Marshal (1973), 67
+Movie :Wushu (2009), 66
+Movie :Return of the Seven (1966), 65
+Movie :Cocoon (1985), 64
+Movie :Before Sunset (2004), 63
+Movie :Ain&apos;t Them Bodies Saints (2013), 62
+Movie :The Cold Light of Day (2012), 61
+Movie :Adventures of a Teenage Dragonslayer (2010), 60
+Movie :Commando (1985), 59
+Movie :The Adventures of Buckaroo Banzai Across the 8th Dimension! (1984), 58
+Movie :Abner the Invisible Dog (2013), 57
+Movie :A Town Called Panic (2009), 56
+Movie :The Power of Few (2013), 55
+Movie :Best of the Best (1989), 54
+Movie :Bank Roll (2013), 53
+Movie :My Side of the Mountain (1969), 52
+Movie :Down and Dangerous (2013), 51
+Movie :Back to the Sea (2011), 50
+Movie :A Glimpse Inside the Mind of Charles Swan III (2013), 49
+Movie :Anacondas: The Hunt for the Blood Orchid (2004), 48
+Movie :The Gate (1987), 46
+Movie :47 Ronin (2013), 45
+Movie :Bad Boys II (2003), 44
+Movie :Apache Territory (1958), 43
+Movie :The Adventures of Rocky and Bullwinkle (2000), 42
+Movie :Fall Time (1995), 41
+Movie :2012 NBA Championship: Miami Heat (2012), 40
+Movie :The Doom Generation (1995), 39
+Movie :Big Miracle (2012), 38
+Movie :Black Mama, White Mama (1973), 37
+Movie :Far From Home: The Adventures of Yellow Dog (1994), 36
+Movie :The Fastest Gun Alive (1956), 35
+Movie :633 Squadron (1964), 34
+Movie :3 Ninjas Knuckle Up (1995), 33
+Movie :186 Dollars to Freedom (2012), 32
+Movie :16 Blocks (2006), 31
+Movie :Charlie&apos;s Angels: Full Throttle (2003), 30
+Movie :American Ninja 4: The Annihilation (1991), 29
+Movie :Bloody Ties (2006), 28
+Movie :Ass Backwards (2013), 27
+Movie :The Animated Adventures of Tom Sawyer (1996), 26
+Movie :Alien Opponent (2011), 25
+Movie :Kermit&apos;s Swamp Years (2002), 24
+Movie :Ben Hur (2002), 23
+Movie :Aladdin and His Magic Lamp (1967), 22
+Movie :Existenz (1998), 21
+Movie :D.E.B.S. (2004), 20
+Movie :Fox (2009), 19
+Movie :Bailey&apos;s Billions (2005), 18
+Movie :Al sur de la inocencia (2014), 17
+Movie :Arlington Road (1999), 16
+Movie :At the Edge of the World (2009), 15
+Movie :Bad Girls (1994), 14
+Movie :The Amorous Adventures of Moll Flanders (1965), 13
+Movie :Circle of Iron (1978), 12
+Movie :Africa Screams (1949), 11
+Movie :At the Sinatra Club (2010), 10
+Movie :7 cajas (2012), 9
+Movie :Airport &apos;79 Concorde (1979), 8
+Movie :Burning Man: Beyond Black Rock (2005), 7
+Movie :1888: The Extraordinary Voyage of the Santa Isabel (2005), 6
+Movie :Action Jackson (2014), 5
+Movie :All the Best (2009), 4
+Movie :7 Kilos (2007), 3
+Movie :The Adventures of Gerard (1970), 2
+Movie :666: Kreepy Kerry (2014), 1
+Movie :Solo , 1
+
+
+Genre : 5322847703885273127, 5371
+Movie :A Million Ways to Die in the West (Unrated) (2014), 5371
+Movie :The Good, the Bad and the Ugly (1966), 1109
+Movie :For a Few Dollars More (1965), 676
+Movie :Dances With Wolves (1990), 653
+Movie :A Fistful of Dollars (1964), 560
+Movie :Maverick (1994), 488
+Movie :Rango (2011), 410
+Movie :Hang &apos;em High (1968), 309
+Movie :Chino (1973), 244
+Movie :El Dorado (1967), 205
+Movie :The Mountie (2011), 198
+Movie :The Quick and the Dead (1987), 190
+Movie :High Plains Drifter (1973), 146
+Movie :Quigley Down Under (1990), 143
+Movie :Falcon Song (2014), 137
+Movie :Exit Humanity (2011), 116
+Movie :The Quick and the Dead (1995), 114
+Movie :McLintock! (1963), 112
+Movie :Goodnight for Justice (2011), 109
+Movie :Goin&apos; South (1978), 99
+Movie :The Magnificent Seven (1960), 91
+Movie :The Shootist (1976), 89
+Movie :Silverado (1985), 88
+Movie :Gun the Man Down (1957), 86
+Movie :Goodnight for Justice: The Measure of a Man (2012), 78
+Movie :Ballad of a Gunfighter (1998), 76
+Movie :The Desperate Trail (1994), 75
+Movie :Ulzana&apos;s Raid (1972), 74
+Movie :Purgatory (1999), 70
+Movie :Cahill: U.S. Marshal (1973), 67
+Movie :Return of the Seven (1966), 65
+Movie :Wagons East! (1994), 64
+Movie :Bury My Heart at Wounded Knee (2007), 63
+Movie :Ain&apos;t Them Bodies Saints (2013), 62
+Movie :Paint Your Wagon (1969), 61
+Movie :Man of the West (1958), 59
+Movie :Jericho (2001), 50
+Movie :The Big Gundown (1966), 45
+Movie :Apache Territory (1958), 43
+Movie :Wanda Nevada (1979), 42
+Movie :Frank &amp; Jesse (1994), 40
+Movie :The Magnificent Seven Ride! (1972), 39
+Movie :The Undefeated (1969), 37
+Movie :The Fastest Gun Alive (1956), 35
+Movie :Rooster Cogburn (1975), 34
+Movie :From Dusk till Dawn 3: The Hangman&apos;s Daughter (2000), 33
+Movie :Santee (1973), 32
+Movie :Hidalgo (2004), 31
+Movie :Buffalo Soldiers (1997), 29
+Movie :Red River (1948), 28
+Movie :The Quick Gun (1964), 27
+Movie :Alvarez Kelly (1966), 26
+Movie :Bandidas (2006), 25
+Movie :The Gunfight at Dodge City (1959), 23
+Movie :Dirty Little Billy (1972), 22
+Movie :The Outlaw (1943), 21
+Movie :The Proposition (1998), 20
+Movie :They Came to Cordura (1959), 19
+Movie :The Hard Man (1957), 18
+Movie :Oblivion (1994), 17
+Movie :40 Guns to Apache Pass (1967), 16
+Movie :Billy Two Hats (1974), 15
+Movie :Bad Girls (1994), 14
+Movie :The American Astronaut (2001), 13
+Movie :American Bandits: Frank and Jesse James (2010), 12
+Movie :Check Your Guns (1947), 9
+Movie :Land Raiders (1969), 8
+Movie :Riders of Destiny (1933), 7
+Movie :The Battles of Chief Pontiac (1952), 6
+Movie :Barbed Wire (1952), 5
+Movie :Deadwood &apos;76 (1964), 4
+Movie :Colorado Serenade (1946), 3
+Movie :Cannon for Cordoba (1970), 2
+Movie :The Big Sombrero (1949), 1
+
+Genre : 4752369474525123127, 3915
+Movie :Bring It On (2000), 3915
+Movie :Talladega Nights: The Ballad of Ricky Bobby (2006), 2047
+Movie :Glory Road (2006), 1742
+Movie :Draft Day (2014), 1301
+Movie :Million Dollar Arm (2014), 1248
+Movie :Blue Crush (2002), 1046
+Movie :Gridiron Gang (2006), 1031
+Movie :Grudge Match (2013), 778
+Movie :Rush (2013), 542
+Movie :Point Break (1991), 495
+Movie :The Greatest Game Ever Played (2005), 484
+Movie :ATL (2006), 472
+Movie :9 Ball (2012), 447
+Movie :Remember the Titans (2000), 436
+Movie :Two for the Money (2005), 401
+Movie :Love &amp; Basketball (2000), 244
+Movie :Ice Princess (2005), 220
+Movie :The Legend of Bagger Vance (2000), 195
+Movie :Rocky (1976), 176
+Movie :Herbie: Fully Loaded (2005), 159
+Movie :42 (2013), 150
+Movie :Rocky IV (1985), 138
+Movie :Rocky III (1982), 135
+Movie :The Fighter (2010), 128
+Movie :Hoosiers (1986), 126
+Movie :The Waterboy (1998), 116
+Movie :Rollerball (2002), 114
+Movie :Rocky II (1979), 112
+Movie :Nfinity Champions League Cheerleading Event Encore (2014), 107
+Movie :Youngblood (1986), 98
+Movie :Tyson (2008), 92
+Movie :Undisputed (2002), 89
+Movie :Slap Shot (1977), 88
+Movie :High Sierra: A Journey on the John Muir Trail (2011), 83
+Movie :Crossover (2006), 80
+Movie :The Crash Reel (2013), 78
+Movie :Bull Durham (1988), 77
+Movie :4192: The Crowning of the Hit King (2010), 72
+Movie :Over the Top (1987), 63
+Movie :Without Limits (1998), 56
+Movie :Ali (2001), 55
+Movie :Hoop Dreams (1994), 53
+Movie :Beer League (2006), 50
+Movie :No No: A Dockumentary (2014), 49
+Movie :Rocky V (1990), 45
+Movie :Facing Ali (2009), 44
+Movie :Raging Bull (1980), 41
+Movie :2012 NBA Championship: Miami Heat (2012), 40
+Movie :Ed (1996), 37
+Movie :Inside Story (2012), 36
+Movie :80 Waves (2010), 32
+Movie :The Spirit of the Marathon (2007), 30
+Movie :Moto 3: The Movie (2011), 29
+Movie :The Best of Times (1986), 28
+Movie :Boys of Bonneville: Racing on a Ribbon of Salt (2011), 27
+Movie :The Scout (1994), 25
+Movie :Buffalo Girls (2012), 23
+Movie :Miracle (2004), 22
+Movie :The Ringer (2005), 20
+Movie :Game Over (2006), 19
+Movie :Price of Glory (2000), 18
+Movie :A Deeper Shade of Blue (2011), 17
+Movie :The Good Son (2012), 16
+Movie :Bang the Drum Slowly (1973), 14
+Movie :McConkey (2013), 13
+Movie :Head Games (2012), 12
+Movie :The Art of Flight (2011), 11
+Movie :Cobb (1994), 10
+Movie :Salute (2008), 9
+Movie :Chess Kids (1996), 8
+Movie :Bet Raise Fold (2012), 7
+Movie :The Joe Louis Story (1953), 6
+Movie :Rudo y Cursi (2008), 5
+Movie :Push (2006), 4
+Movie :All the Right Moves (1983), 3
+Movie :Carpet Racers (2009), 2
+Movie :Budo: The Art of Killing (1979), 1
+
+
+Genre : 7495113599390237148, 3127
+Movie :Casino (1995), 3127
+Movie :We Bought a Zoo (2011), 2003
+Movie :Up in the Air (2009), 1984
+Movie :Secretary (2002), 1326
+Movie :Lost in Translation (2003), 997
+Movie :Rob Roy (1995), 745
+Movie :L.A. Confidential (1997), 695
+Movie :Master And Commander (2003), 568
+Movie :Charlie St. Cloud (2010), 495
+Movie :S.W.A.T. (2003), 425
+Movie :The Cutting Edge (1992), 297
+Movie :Wild Orchid (1990), 292
+Movie :Grey Gardens (2009), 232
+Movie :Mississippi Burning (1988), 230
+Movie :Baby Boy (2001), 221
+Movie :The Legend of Bagger Vance (2000), 195
+Movie :Sleeping with the Enemy (1991), 187
+Movie :Rocky (1976), 176
+Movie :Jumpin&apos; Jack Flash (1986), 173
+Movie :Hoodlum (1997), 167
+Movie :Rocky IV (1985), 138
+Movie :Rocky III (1982), 135
+Movie :Hoosiers (1986), 126
+Movie :Hart&apos;s War (2002), 120
+Movie :Rocky II (1979), 112
+Movie :Temple Grandin (2010), 100
+Movie :Moulin Rouge (2001), 95
+Movie :The Doors (1991), 90
+Movie :A Simple Wish (1997), 88
+Movie :October Sky (1999), 87
+Movie :The Tuskegee Airmen (1995), 86
+Movie :Thunderbolt and Lightfoot (1974), 75
+Movie :Midnight Cowboy (1969), 72
+Movie :The Border (1982), 71
+Movie :Too Big to Fail (2011), 68
+Movie :Out of Africa (1985), 65
+Movie :Black Widow (1987), 59
+Movie :The Devil&apos;s Own (1997), 56
+Movie :West Side Story (1961), 50
+Movie :White Oleander (2002), 48
+Movie :Rocky V (1990), 45
+Movie :Sleep Dealer (2008), 43
+Movie :All the Real Girls (2003), 42
+Movie :Raging Bull (1980), 41
+Movie :And the Band Played On (1993), 40
+Movie :Cocktail (1988), 39
+Movie :Crimes and Misdemeanors (1989), 35
+Movie :In the Heat of the Night (1967), 34
+Movie :The Express (2008), 32
+Movie :The People vs. Larry Flynt (1996), 29
+Movie :Mary and Martha (2013), 27
+Movie :Laurel Canyon (2002), 26
+Movie :Longford (2006), 24
+Movie :Changeling (2008), 23
+Movie :Lenny (1974), 22
+Movie :Article 99 (1992), 21
+Movie :Ride With the Devil (1999), 20
+Movie :Tsunami, The Aftermath (2006), 18
+Movie :Love Me Tender (1956), 16
+Movie :A Number (2008), 15
+Movie :Bad Girls (1994), 14
+Movie :The Mod Squad (1999), 13
+Movie :American Splendor (2003), 12
+Movie :City Hall (1996), 11
+Movie :At First Sight (1999), 10
+Movie :The Laramie Project (2002), 9
+Movie :The Girl (2012), 8
+Movie :North Shore (1987), 7
+Movie :Madame Sousatzka (1988), 5
+Movie :The Mean Season (1985), 4
+Movie :The Cat&apos;s Meow (2002), 3
+Movie :The Hitcher (1986), 2
+Movie :Mercury Rising (1998), 1
+
+Genre : 6858953729106292148, 3127
+Movie :Casino (1995), 3127
+Movie :Up in the Air (2009), 1984
+Movie :The Good, the Bad and the Ugly (1966), 1109
+Movie :Lost in Translation (2003), 997
+Movie :Rob Roy (1995), 745
+Movie :For a Few Dollars More (1965), 676
+Movie :Waiting to Exhale (1995), 619
+Movie :A Fistful of Dollars (1964), 560
+Movie :Charlie St. Cloud (2010), 495
+Movie :WarGames: The Dead Code (2008), 406
+Movie :Hang &apos;em High (1968), 309
+Movie :Basic (2003), 263
+Movie :Wild Things (1998), 257
+Movie :Small Soldiers (1998), 255
+Movie :Mississippi Burning (1988), 230
+Movie :Baby Boy (2001), 221
+Movie :Boomerang (1992), 205
+Movie :Fargo (1996), 187
+Movie :Hoodlum (1997), 167
+Movie :One Fine Day (1996), 160
+Movie :Primal Fear (1996), 152
+Movie :The First Wives Club (1996), 144
+Movie :Hello, Dolly! (1969), 143
+Movie :Hoosiers (1986), 126
+Movie :A Bridge Too Far (1977), 121
+Movie :Quiz Show (1994), 106
+Movie :Reality Bites (1994), 105
+Movie :Moulin Rouge (2001), 95
+Movie :The Magnificent Seven (1960), 91
+Movie :The Dogs of War (1980), 89
+Movie :October Sky (1999), 87
+Movie :Red Corner (1997), 80
+Movie :Thunderbolt and Lightfoot (1974), 75
+Movie :The Mother (2003), 74
+Movie :Midnight Cowboy (1969), 72
+Movie :The Border (1982), 71
+Movie :Out of Africa (1985), 65
+Movie :Cocoon (1985), 64
+Movie :Black Widow (1987), 59
+Movie :The Devil&apos;s Own (1997), 56
+Movie :West Side Story (1961), 50
+Movie :Les Miserables (1998), 48
+Movie :Rush (1991), 47
+Movie :Mulholland Dr. (2001), 43
+Movie :All the Real Girls (2003), 42
+Movie :Raging Bull (1980), 41
+Movie :Head in the Clouds (2004), 40
+Movie :Cocktail (1988), 39
+Movie :Big Miracle (2012), 38
+Movie :Charade (1963), 37
+Movie :In the Heat of the Night (1967), 34
+Movie :The Express (2008), 32
+Movie :The People vs. Larry Flynt (1996), 29
+Movie :The Best of Times (1986), 28
+Movie :Gothika (2003), 26
+Movie :Confidence (2003), 25
+Movie :Changeling (2008), 23
+Movie :Lenny (1974), 22
+Movie :Two Family House (2000), 21
+Movie :Ride With the Devil (1999), 20
+Movie :Beautiful Creatures (2000), 17
+Movie :Betrayed (1988), 16
+Movie :Fly Away Home (1996), 15
+Movie :Bad Girls (1994), 14
+Movie :Kull the Conqueror (1997), 13
+Movie :American Splendor (2003), 12
+Movie :City Hall (1996), 11
+Movie :At First Sight (1999), 10
+Movie :Flashpoint (1984), 9
+Movie :A Christmas Too Many (2005), 8
+Movie :North Shore (1987), 7
+Movie :Madame Sousatzka (1988), 5
+Movie :Songcatcher (2000), 4
+Movie :Collision Course (1990), 2
+Movie :September 30, 1955 (1978), 1
+
+Genre : 5658420508278756148, 2003
+Movie :We Bought a Zoo (2011), 2003
+Movie :City of Ember (2008), 476
+Movie :Monsters vs. Aliens (2009), 414
+Movie :Ice Age: Dawn of the Dinosaurs (2009), 353
+Movie :Honey, I Shrunk the Kids (1989), 129
+Movie :Dr. Dolittle 2 (2001), 86
+Movie :SuperBabies: Baby Geniuses 2 (2004), 63
+Movie :Babe: Pig in the City (1998), 51
+Movie :Final Fantasy: The Spirits Within (2001), 30
+Movie :Fly Away Home (1996), 15
+Genre : 5605335389239610148, 1984
+Movie :Up in the Air (2009), 1984
+Movie :Secretary (2002), 1326
+Movie :Lost in Translation (2003), 997
+Movie :Choke (2008), 197
+Movie :Fargo (1996), 187
+Movie :Reality Bites (1994), 105
+Movie :Rush (1991), 47
+Movie :Mulholland Dr. (2001), 43
+Movie :All the Real Girls (2003), 42
+Movie :The Painted Veil (2006), 39
+Movie :Cold Comfort Farm (1996), 30
+Movie :The People vs. Larry Flynt (1996), 29
+Movie :Laurel Canyon (2002), 26
+Movie :Confidence (2003), 25
+Movie :Smilla&apos;s Sense of Snow (1997), 23
+Movie :In Dreams (1999), 17
+Movie :Being Flynn (2012), 16
+Movie :Fast Food Nation (2006), 14
+Movie :Shattered Glass (2003), 13
+Movie :American Splendor (2003), 12
+Movie :Love Liza (2002), 10
+Movie :PCU (1994), 8
+Movie :Love for Rent (2005), 6
+Movie :Fellini&apos;s Casanova (1976), 4
+Movie :The Cat&apos;s Meow (2002), 3
+Movie :Sunshine State (2002), 2
+Genre : 7912023899329296148, 1844
+Movie :Seeking a Friend for the End of the World (2012), 1844
+Movie :Scooby-Doo (2002), 1586
+Movie :For Richer or Poorer (1997), 1510
+Movie :The Sitter (2011), 808
+Movie :She Hate Me (2004), 374
+Movie :Ice Age: Dawn of the Dinosaurs (2009), 353
+Movie :Don&apos;t Tell Mom the Babysitter&apos;s Dead (1991), 278
+Movie :Down Periscope (1996), 220
+Movie :Private Parts (1997), 219
+Movie :Boomerang (1992), 205
+Movie :Choke (2008), 197
+Movie :Tooth Fairy (2010), 190
+Movie :Some Like It Hot (1959), 175
+Movie :Jumpin&apos; Jack Flash (1986), 173
+Movie :Baby Boom (1987), 162
+Movie :The First Wives Club (1996), 144
+Movie :Hello, Dolly! (1969), 143
+Movie :Problem Child (1990), 128
+Movie :Married to the Mob (1988), 115
+Movie :Problem Child 2 (1991), 108
+Movie :Dude, Where&apos;s My Car? (2000), 103
+Movie :Bio-Dome (1995), 99
+Movie :A Very Harold &amp; Kumar Christmas (2011), 96
+Movie :Beethoven (1992), 93
+Movie :A Simple Wish (1997), 88
+Movie :Dr. Dolittle 2 (2001), 86
+Movie :Death Becomes Her (1992), 69
+Movie :Young Frankenstein (1974), 68
+Movie :Volunteers (1985), 67
+Movie :Johnny Dangerously (1984), 62
+Movie :Mr. Deeds (2002), 58
+Movie :Malibu&apos;s Most Wanted (2003), 56
+Movie :8 Heads in a Duffel Bag (1997), 55
+Movie :Big (1988), 54
+Movie :Beethoven&apos;s 2nd (1993), 53
+Movie :Babe: Pig in the City (1998), 51
+Movie :Kingdom Come (2001), 49
+Movie :Say It Isn&apos;t So (2001), 48
+Movie :Bean (1997), 45
+Movie :Bad Boys II (2003), 44
+Movie :Working Girl (1988), 43
+Movie :The Adventures of Rocky and Bullwinkle (2000), 42
+Movie :Leave It to Beaver (1997), 41
+Movie :Dear God (1996), 38
+Movie :Stuart Little 2 (2002), 36
+Movie :Cheech and Chong&apos;s The Corsican Brothers (1984), 32
+Movie :Cold Comfort Farm (1996), 30
+Movie :Outrageous Fortune (1987), 27
+Movie :Crackers (1984), 26
+Movie :Switch (1991), 25
+Movie :Kissing a Fool (1998), 22
+Movie :Pootie Tang (2001), 17
+Movie :Canadian Bacon (1995), 15
+Movie :Once Around (1991), 14
+Movie :The Beverly Hillbillies (1993), 13
+Movie :A Very Brady Sequel (1996), 12
+Movie :Airheads (1994), 11
+Movie :Career Opportunities (1991), 10
+Movie :Jingle All the Way (1996), 8
+Movie :Desk Set (1957), 7
+Movie :Radioland Murders (1994), 6
+Movie :The Hot Rock (1972), 4
+Movie :Dead Men Don&apos;t Wear Plaid (1982), 3
+Movie :Monty Python&apos;s The Meaning of Life (1982), 2
+Movie :Head Office (1985), 1
+
+Genre : 6021090962654928148, 1586
+Movie :Scooby-Doo (2002), 1586
+Movie :Resident Evil (2002), 655
+Movie :Legend (1985), 506
+Movie :Charlie St. Cloud (2010), 495
+Movie :City of Ember (2008), 476
+Movie :Monsters vs. Aliens (2009), 414
+Movie :Ice Age: Dawn of the Dinosaurs (2009), 353
+Movie :The Fifth Element (1997), 330
+Movie :The Abyss (1989), 314
+Movie :Land of the Dead (2005), 281
+Movie :Chronicle (2012), 247
+Movie :Tales from the Crypt Presents: Demon Knight (1995), 222
+Movie :Tooth Fairy (2010), 190
+Movie :Species (1995), 178
+Movie :Star Trek: First Contact (1996), 177
+Movie :One Fine Day (1996), 160
+Movie :Ricochet (1991), 159
+Movie :The Mothman Prophecies (2002), 134
+Movie :Honey, I Shrunk the Kids (1989), 129
+Movie :Species II (1998), 120
+Movie :Men of Honor (2000), 113
+Movie :Batteries Not Included (1987), 104
+Movie :Poltergeist II: The Other Side (1986), 100
+Movie :Moulin Rouge (2001), 95
+Movie :Dr. Dolittle 2 (2001), 86
+Movie :The Final Conflict (1981), 81
+Movie :Damien: Omen II (1978), 75
+Movie :Leviathan (1989), 73
+Movie :Death Becomes Her (1992), 69
+Movie :Cocoon (1985), 64
+Movie :The Phantom (1996), 62
+Movie :Big (1988), 54
+Movie :Invasion of the Body Snatchers (1978), 53
+Movie :The Andromeda Strain (1971), 43
+Movie :Stuart Little 2 (2002), 36
+Movie :Final Fantasy: The Spirits Within (2001), 30
+Movie :Gothika (2003), 26
+Movie :Madhouse (1990), 24
+Movie :Hellraiser III: Hell on Earth (1992), 23
+Movie :The Car (1977), 15
+Movie :Poltergeist III (1988), 14
+Movie :A Christmas Too Many (2005), 8
+Movie :Radioland Murders (1994), 6
+Movie :The Hitcher (1986), 2
+Genre : 6067165569140648148, 1510
+Movie :For Richer or Poorer (1997), 1510
+Movie :Secretary (2002), 1326
+Movie :Lost in Translation (2003), 997
+Movie :Waiting to Exhale (1995), 619
+Movie :Charlie St. Cloud (2010), 495
+Movie :A Knight&apos;s Tale (2001), 451
+Movie :The Cutting Edge (1992), 297
+Movie :Wild Orchid (1990), 292
+Movie :Boomerang (1992), 205
+Movie :The Legend of Bagger Vance (2000), 195
+Movie :One Fine Day (1996), 160
+Movie :Hello, Dolly! (1969), 143
+Movie :Reality Bites (1994), 105
+Movie :Moulin Rouge (2001), 95
+Movie :Out of Africa (1985), 65
+Movie :Mr. Deeds (2002), 58
+Movie :West Side Story (1961), 50
+Movie :Say It Isn&apos;t So (2001), 48
+Movie :Working Girl (1988), 43
+Movie :All the Real Girls (2003), 42
+Movie :Cocktail (1988), 39
+Movie :Charade (1963), 37
+Movie :Desperately Seeking Susan (1985), 35
+Movie :The Sweetest Thing (2002), 32
+Movie :Kissing a Fool (1998), 22
+Movie :Manhattan (1979), 21
+Movie :The Brothers (2001), 18
+Movie :Nine Months (1995), 11
+Movie :At First Sight (1999), 10
+Movie :Desk Set (1957), 7
+Movie :Love for Rent (2005), 6
+Movie :Opportunity Knocks (1990), 2
+Genre : 6953892263365555148, 1424
+Movie :Center Stage (2000), 1424
+Movie :28 Days (2000), 634
+Movie :The Constant Gardener (2005), 579
+Movie :The Blue Lagoon (1980), 315
+Movie :The Messenger: The Story of Joan of Arc (1999), 282
+Movie :Baby Boy (2001), 221
+Movie :Broken Flowers (2005), 116
+Movie :Girl, Interrupted (1999), 109
+Movie :Eyes Wide Shut (1999), 106
+Movie :Philadelphia (1993), 85
+Movie :Jarhead (2005), 84
+Movie :Higher Learning (1995), 59
+Movie :Random Hearts (1999), 58
+Movie :Before the Rains (2007), 56
+Movie :8MM (1999), 47
+Movie :Lean on Me (1989), 46
+Movie :Devil in a Blue Dress (1995), 43
+Movie :High Art (1998), 40
+Movie :The Painted Veil (2006), 39
+Movie :Possession (2002), 22
+Movie :Beautiful Creatures (2000), 17
+Movie :The Cure (1995), 16
+Movie :My Summer of Love (2004), 15
+Movie :Radio Flyer (1992), 11
+Movie :Photographing Fairies (1997), 10
+Movie :Imagining Argentina (2003), 9
+Movie :Light Sleeper (1992), 8
+Movie :Far from Heaven (2002), 7
+Movie :Hilary and Jackie (1998), 6
+Movie :American Heart (1992), 5
+Movie :Pavilion of Women (2001), 4
+Movie :Fearless (1993), 2
+Movie :Gable and Lombard (1976), 1
+
+Genre : 6921901079131712127, 1424
+Movie :Center Stage (2000), 1424
+Movie :Dreamgirls (2006), 1154
+Movie :Battle of the Year (2013), 539
+Movie :9 to 5 (1980), 472
+Movie :The Blackout (2013), 365
+Movie :Richard Pryor Live on the Sunset Strip (1982), 290
+Movie :Beyonc&#233;: Life Is But a Dream (2013), 256
+Movie :Ray (2004), 231
+Movie :Baby Boy (2001), 221
+Movie :High Fidelity (2000), 217
+Movie :Cheerleaders&apos; Beach Party (1978), 206
+Movie :Tupac Shakur: Before I Wake (2001), 200
+Movie :The Living Daylights (1987), 193
+Movie :Singles (1992), 192
+Movie :Some Like It Hot (1959), 175
+Movie :Coyote Ugly (2000), 174
+Movie :Cirque du Soleil: Delirium (2008), 168
+Movie :Dasepo Naughty Girls (2006), 145
+Movie :Hello, Dolly! (1969), 143
+Movie :Time Is Illmatic (2014), 139
+Movie :Falcon Song (2014), 137
+Movie :8 Mile (2002), 131
+Movie :Victor/Victoria (1982), 114
+Movie :The Five Heartbeats (1991), 113
+Movie :Behind the Candelabra (2013), 111
+Movie :Britney Spears: Princess of Pop (2011), 102
+Movie :School Daze (1988), 100
+Movie :George Harrison: The Quiet One (2003), 99
+Movie :The Prime of Miss Jean Brodie (1969), 91
+Movie :The Doors (1991), 90
+Movie :As The Palaces Burn (2014), 88
+Movie :The Rocky Horror Picture Show (1975), 85
+Movie :Always Whitney Houston (2012), 84
+Movie :Blue Seduction (2009), 78
+Movie :Panama Hattie (1942), 76
+Movie :Beats, Rhymes &amp; Life: The Travels of A Tribe Called Quest (2011), 72
+Movie :Annie: A Royal Adventure (1995), 69
+Movie :Crossfire Hurricane (2012), 62
+Movie :Honey (2003), 61
+Movie :The Red Violin (1998), 53
+Movie :Make Your Move (2013), 52
+Movie :Sharpay&apos;s Fabulous Adventure (2011), 50
+Movie :A Star Is Born (1976), 44
+Movie :The Cotton Club (1984), 43
+Movie :Little Shop of Horrors (1986), 42
+Movie :Words and Music (1948), 41
+Movie :Greetings From Tim Buckley (2012), 38
+Movie :The Man Who Would Be Polka King (2009), 36
+Movie :Karz (1982), 35
+Movie :Sgt. Pepper&apos;s Lonely Hearts Club Band (1978), 34
+Movie :42nd Street (1933), 32
+Movie :David Bowie: Five Years (2013), 31
+Movie :CBGB (2013), 30
+Movie :Chris Brown: Triple Threat (2013), 29
+Movie :200 Motels (1971), 26
+Movie :Masked and Anonymous (2003), 25
+Movie :Kermit&apos;s Swamp Years (2002), 24
+Movie :Koyaanisqatsi (1982), 23
+Movie :Anything Goes (1956), 22
+Movie :Beware of Mr. Baker (2012), 21
+Movie :Duets (2000), 20
+Movie :Joseph and the Amazing Technicolor Dreamcoat (1999), 19
+Movie :Death to Prom (2013), 18
+Movie :Buddy Rich: The Channel One Suite (2004), 17
+Movie :Love Me Tender (1956), 16
+Movie :Another Day, Another Time: Celebrating the Music of &apos;Inside Llewyn Davis&apos; (2013), 15
+Movie :Bruce Springsteen&apos;s High Hopes (2014), 14
+Movie :One Direction: The Only Way Is Up (2012), 13
+Movie :Soul Power (2009), 12
+Movie :Airheads (1994), 11
+Movie :Billy Joel: A Matter of Trust - The Bridge to Russia (2014), 10
+Movie :The Nutcracker , 10
+Movie :Blue Collar Comedy Tour (2003), 9
+Movie :Beatles Stories (2011), 8
+Movie :April Showers (1948), 7
+Movie :Groove (2000), 6
+Movie :A Buddy Story (2012), 5
+Movie :Abbott and Costello: The Christmas Show (1952), 4
+Movie :Eurythmics: Sweet Dreams , 4
+Movie :The Story of Rod Stewart , 4
+Movie :Black White + Gray: A Portrait of Sam Wagstaff and Robert Mapplethorpe (2007), 3
+Movie :A Night with Lou Reed (1983), 2
+Movie :Tha Alkaholiks: Live From Rehab , 2
+Movie :The Big Sombrero (1949), 1
+
+Genre : 5881729267152325148, 1424
+Movie :Center Stage (2000), 1424
+Movie :Pride &amp; Prejudice (2005), 661
+Movie :28 Days (2000), 634
+Movie :Eternal Sunshine of the Spotless Mind (2004), 386
+Movie :The Blue Lagoon (1980), 315
+Movie :Only You (1992), 279
+Movie :Against All Odds (1984), 213
+Movie :Broken Flowers (2005), 116
+Movie :Reality Bites (1994), 105
+Movie :Random Hearts (1999), 58
+Movie :Before the Rains (2007), 56
+Movie :Earth Girls Are Easy (1988), 37
+Movie :My Mom&apos;s New Boyfriend (2008), 29
+Movie :Possession (2002), 22
+Movie :Loser (2000), 18
+Movie :Mad Dog and Glory (1993), 16
+Movie :My Summer of Love (2004), 15
+Movie :Once Around (1991), 14
+Movie :Imagining Argentina (2003), 9
+Movie :Far from Heaven (2002), 7
+Movie :The Prince of Tides (1991), 5
+Movie :Pavilion of Women (2001), 4
+Movie :The Girl from Petrovka (1974), 1
+Genre : 5546244798305117148, 1315
+Movie :The Patriot (2000), 1315
+Movie :Jarhead (2005), 84
+
+Genre : 9050562073841202148, 1315
+Movie :The Patriot (2000), 1315
+Movie :In the Line of Fire (1993), 790
+Movie :Demolition Man (1993), 674
+Movie :A Knight&apos;s Tale (2001), 451
+Movie :Belly 2: Millionaire Boyz Club (2008), 332
+Movie :Hook (1991), 187
+Movie :Jumanji (1995), 139
+Movie :The Chronicles of Riddick: Dark Fury (2004), 137
+Movie :Dragon Wars (2007), 105
+Movie :The Big Hit (1998), 57
+Movie :Natural Born Killers (1994), 40
+Movie :The Karate Kid Part II (1986), 32
+Movie :Hard Target (1993), 28
+Movie :Iron Eagle IV (1995), 25
+Movie :Last Action Hero (1993), 20
+Movie :Desperado (1995), 13
+Movie :The Karate Kid Part III (1989), 10
+Movie :Cutaway (2000), 4
+Movie :One Man&apos;s Justice (1995), 3
+Movie :Plunkett &amp; Macleane (1999), 1
+Genre : 8299954925001487127, 1252
+Movie :Kobe Bryant&apos;s Muse (2015), 1252
+Movie :Bears (2014), 806
+Movie :A Film Unfinished (2010), 527
+Movie :Ancient Alien Question (2012), 452
+Movie :Captivated: The Trials of Pamela Smart (2014), 441
+Movie :Nicki Minaj: Pink World (2013), 440
+Movie :Thin (2006), 434
+Movie :Amazonia (2013), 422
+Movie :Alien Paranormal: Bigfoot, UFOs and the Men in Black (2013), 394
+Movie :Religulous (2008), 327
+Movie :Surviving the Serengeti (2015), 282
+Movie :Questioning Darwin (2014), 269
+Movie :Beyonc&#233;: Life Is But a Dream (2013), 256
+Movie :That Gal...Who Was in That Thing: That Guy 2 (2015), 241
+Movie :Banksy Does New York (2014), 239
+Movie :Jedi Junkies (2010), 238
+Movie :Alien From Area 51: Alien Autopsy Footage Revealed (2012), 236
+Movie :Tales From the Organ Trade (2013), 233
+Movie :American Meth (2007), 232
+Movie :Dr. Bronner&apos;s Magic Soapbox (2007), 213
+Movie :Aileen: Life and Death of a Serial Killer (2003), 204
+Movie :There&apos;s Something Wrong With Aunt Diane (2011), 202
+Movie :Tupac Shakur: Before I Wake (2001), 200
+Movie :The Sacred Science (2011), 189
+Movie :Grinders (2011), 183
+Movie :Strip Club King: The Story of Joe Redner (2009), 182
+Movie :The Cheshire Murders (2013), 181
+Movie :Americans in Bed (2013), 174
+Movie :The Lottery of Birth (2012), 169
+Movie :Cirque du Soleil: Delirium (2008), 168
+Movie :The Fourth World (2011), 163
+Movie :North Sea Texas (2011), 150
+Movie :112 Weddings (2014), 148
+Movie :Finding Vivian Maier (2013), 143
+Movie :Time Is Illmatic (2014), 139
+Movie :Life According to Sam (2013), 138
+Movie :The Out List (2013), 137
+Movie :Off Label (2012), 136
+Movie :Iranium (2010), 132
+Movie :New World Order: The Conspiracy to Rule Your Mind (2013), 128
+Movie :Jodorowsky&apos;s Dune (2013), 126
+Movie :Terror at the Mall (2014), 124
+Movie :The Life and Mind of Mark Defriest (2014), 117
+Movie :How to Clone a Woolly Mammoth (2014), 116
+Movie :Roman Polanski: Wanted and Desired (2008), 114
+Movie :Paradise Lost 2: Revelations (2000), 113
+Movie :Nfinity Champions League Cheerleading Event Encore (2014), 107
+Movie :Manhunt (2013), 106
+Movie :Amy Winehouse: A Final Goodbye (2011), 104
+Movie :Britney Spears: Princess of Pop (2011), 102
+Movie :Bowling for Columbine (2002), 99
+Movie :2012: Earth&apos;s Fate Unknown (2011), 98
+Movie :X-Rated: The Greatest Adult Movies of All Time (2014), 95
+Movie :Lance Armstrong: Stop at Nothing (2014), 92
+Movie :Bobby Fischer Against the World (2011), 90
+Movie :As The Palaces Burn (2014), 88
+Movie :Cracked Not Broken (2007), 87
+Movie :Always Whitney Houston (2012), 84
+Movie :Getting to the Nutcracker (2014), 83
+Movie :Crips and Bloods: Made in America (2008), 79
+Movie :The Crash Reel (2013), 78
+Movie :Discovering Mavericks (2013), 77
+Movie :Project Nim (2011), 76
+Movie :Ocean Men: Extreme Dive (2001), 74
+Movie :Hendrix On Hendrix (2013), 73
+Movie :4192: The Crowning of the Hit King (2010), 72
+Movie :Crisis Hotline: Veterans Press 1 (2013), 71
+Movie :American Grindhouse (2010), 69
+Movie :The Newburgh Sting (2014), 68
+Movie :Tim&apos;s Vermeer (2013), 66
+Movie :Blitzkrieg: The Rise &amp; Fall of the Third Reich (2009), 65
+Movie :1 Mountain (2013), 64
+Movie :The 50 Year Argument (2014), 63
+Movie :Crossfire Hurricane (2012), 62
+Movie :Coma (2007), 61
+Movie :3 Magic Words (2010), 60
+Movie :Witch Hunt (2008), 59
+Movie :Gideon&apos;s Army (2013), 58
+Movie :A River Changes Course (2012), 57
+Movie :The Case Against 8 (2014), 56
+Movie :The Big Uneasy (2010), 54
+Movie :Addicted to Fame (2011), 53
+Movie :Tales of the Rat Fink (2006), 52
+Movie :Blessed Is the Match: The Life and Death of Hannah Senesh (2008), 51
+Movie :Happiness Is (2008), 50
+Movie :No No: A Dockumentary (2014), 49
+Movie :Love Child (2014), 48
+Movie :Gun Fight (2011), 47
+Movie :Certifiably Jonathan (2007), 46
+Movie :Champion (2005), 45
+Movie :50 Children: The Rescue Mission of Mr. and Mrs. Kraus (2013), 44
+Movie :4 Little Girls (1997), 43
+Movie :Imelda (2003), 42
+Movie :2012 NBA Championship: Miami Heat (2012), 40
+Movie :It&apos;s Better to Jump (2013), 39
+Movie :A Man&apos;s Story (2010), 38
+Movie :Prison Terminal: The Last Days of Private Jack Hall (2013), 37
+Movie :DMT: The Spirit Molecule (2010), 36
+Movie :Leave the World Behind (2014), 35
+Movie :Long Distance Revolutionary: A Journey With Mumia Abu-Jamal (2013), 34
+Movie :80 Waves (2010), 32
+Movie :David Bowie: Five Years (2013), 31
+Movie :Lost Songs: The Basement Tapes Continued (2014), 30
+Movie :9th Company (2005), 29
+Movie :American Teacher (2011), 28
+Movie :Bomb It! (2008), 27
+Movie :A Rape in a Small Town: The Florence Holway Story (2004), 26
+Movie :American Drug War: The Last White Hope (2007), 25
+Movie :Heir to an Execution: A Granddaughter&apos;s Story (2004), 24
+Movie :12th &amp; Delaware (2010), 23
+Movie :The Cartel (2009), 22
+Movie :3 Points (2009), 21
+Movie :Buying Sex (2013), 20
+Movie :A River of Waste: The Hazardous Truth About Factory Farms (2008), 19
+Movie :!Women Art Revolution: A Secret History (2010), 18
+Movie :A Deeper Shade of Blue (2011), 17
+Movie :The After Party (2011), 16
+Movie :Another Day, Another Time: Celebrating the Music of &apos;Inside Llewyn Davis&apos; (2013), 15
+Movie :A Wink and a Smile (2008), 14
+Movie :Mysterious Origins of Man , 14
+Movie :21 Hours at Munich (1976), 13
+Movie :Birders: The Central Park Effect (2012), 12
+Movie :Top Models Made in Paris , 12
+Movie :65_RedRoses (2009), 11
+Movie :Adrenaline Rush: The Science of Risk (2002), 10
+Movie :An African Election (2010), 9
+Movie :Ballets Russes (2005), 8
+Movie :Adventures in Plymptoons! (2011), 7
+Movie :Anton Corbijn: Inside Out (2012), 6
+Movie :11 Studies in Beauty (2011), 5
+Movie :West Point Paintball , 5
+Movie :A Walk Into the Sea: Danny Williams and the Warhol Factory (2007), 4
+Movie :The Story of Rod Stewart , 4
+Movie :A Dream Comes True (1992), 3
+Movie :13 Families (2011), 2
+Movie :Bushman&apos;s Secret , 2
+Movie :1 Revolution (2011), 1
+Movie :The Lights Have Gone Out Again , 1
+Movie :This Way of Life , 1
+
+
+
+
+
+Genre : 5697686409208662148, 1218
+Movie :Resident Evil: Apocalypse (2004), 1218
+Movie :Resident Evil (2002), 655
+Movie :The Fifth Element (1997), 330
+Movie :The Abyss (1989), 314
+Movie :Child&apos;s Play (1988), 281
+Movie :Tales from the Crypt Presents: Demon Knight (1995), 222
+Movie :Frequently Asked Questions About Time Travel (2009), 202
+Movie :Species (1995), 178
+Movie :Species II (1998), 120
+Movie :Poltergeist II: The Other Side (1986), 100
+Movie :Damien: Omen II (1978), 75
+Movie :Leviathan (1989), 73
+Movie :The Chronicles of Riddick (2004), 63
+Movie :Shocker (1989), 54
+Movie :Anacondas: The Hunt for the Blood Orchid (2004), 48
+Movie :Sleep Dealer (2008), 43
+Movie :Gothika (2003), 26
+Movie :Hellraiser III: Hell on Earth (1992), 23
+Movie :Poltergeist III (1988), 14
+Movie :A Christmas Too Many (2005), 8
+Genre : 7409752994217976148, 1218
+Movie :Resident Evil: Apocalypse (2004), 1218
+Movie :Swordfish (2001), 1003
+Movie :Resident Evil (2002), 655
+Movie :Master And Commander (2003), 568
+Movie :A Knight&apos;s Tale (2001), 451
+Movie :Safe House (2012), 430
+Movie :S.W.A.T. (2003), 425
+Movie :The Fifth Element (1997), 330
+Movie :Small Soldiers (1998), 255
+Movie :To Live and Die in L.A. (1985), 217
+Movie :Unstoppable (2010), 214
+Movie :Rocky (1976), 176
+Movie :Rapid Fire (1992), 173
+Movie :Ninja Assassin (2009), 144
+Movie :Rocky IV (1985), 138
+Movie :Rocky III (1982), 135
+Movie :Hart&apos;s War (2002), 120
+Movie :Rocky II (1979), 112
+Movie :Highlander (1986), 104
+Movie :Bio-Dome (1995), 99
+Movie :The Magnificent Seven (1960), 91
+Movie :Red Corner (1997), 80
+Movie :The Chronicles of Riddick (2004), 63
+Movie :The Phantom (1996), 62
+Movie :Commando (1985), 59
+Movie :Anacondas: The Hunt for the Blood Orchid (2004), 48
+Movie :Running Scared (1986), 46
+Movie :Rocky V (1990), 45
+Movie :Bad Boys II (2003), 44
+Movie :Code of Silence (1985), 38
+Movie :Double Team (1997), 30
+Movie :Behind Enemy Lines (2001), 29
+Movie :Speed 2: Cruise Control (1997), 28
+Movie :Rollerball (2002), 26
+Movie :The Medallion (2003), 20
+Movie :The Last of the Finest (1990), 15
+Movie :Kull the Conqueror (1997), 13
+Movie :F/X (1986), 11
+Movie :A Christmas Too Many (2005), 8
+Movie :Renegades (1989), 3
+Movie :Kuffs (1991), 1
+Genre : 8224187101695531148, 1003
+Movie :Swordfish (2001), 1003
+Movie :L.A. Confidential (1997), 695
+Movie :Safe House (2012), 430
+Movie :WarGames: The Dead Code (2008), 406
+Movie :The Abyss (1989), 314
+Movie :Basic (2003), 263
+Movie :Wild Things (1998), 257
+Movie :Ronin (1998), 224
+Movie :To Live and Die in L.A. (1985), 217
+Movie :Unstoppable (2010), 214
+Movie :Sleeping with the Enemy (1991), 187
+Movie :Ricochet (1991), 159
+Movie :Primal Fear (1996), 152
+Movie :The Mothman Prophecies (2002), 134
+Movie :Mulholland Falls (1996), 126
+Movie :Poltergeist II: The Other Side (1986), 100
+Movie :Breakdown (1997), 89
+Movie :Red Corner (1997), 80
+Movie :Damien: Omen II (1978), 75
+Movie :Grosse Pointe Blank (1997), 73
+Movie :Black Widow (1987), 59
+Movie :The Devil&apos;s Own (1997), 56
+Movie :Rush (1991), 47
+Movie :The Chamber (1996), 42
+Movie :Charade (1963), 37
+Movie :In the Heat of the Night (1967), 34
+Movie :The Russia House (1990), 28
+Movie :The Seven-Per-Cent Solution (1976), 26
+Movie :Nick of Time (1995), 25
+Movie :Eye for an Eye (1996), 23
+Movie :In Dreams (1999), 17
+Movie :Betrayed (1988), 16
+Movie :The Car (1977), 15
+Movie :Dirty War (2004), 12
+Movie :F/X (1986), 11
+Movie :Flashpoint (1984), 9
+Movie :The Mean Season (1985), 4
+Movie :The Cat&apos;s Meow (2002), 3
+Movie :The Hitcher (1986), 2
+Movie :Mercury Rising (1998), 1
+Genre : 5051971989709720148, 1003
+Movie :Swordfish (2001), 1003
+Movie :Resident Evil (2002), 655
+Movie :Point Break (1991), 495
+Movie :A Knight&apos;s Tale (2001), 451
+Movie :S.W.A.T. (2003), 425
+Movie :Monsters vs. Aliens (2009), 414
+Movie :Contraband (2012), 358
+Movie :The Fifth Element (1997), 330
+Movie :The Abyss (1989), 314
+Movie :Land of the Dead (2005), 281
+Movie :Ronin (1998), 224
+Movie :To Live and Die in L.A. (1985), 217
+Movie :Sleeping with the Enemy (1991), 187
+Movie :Species (1995), 178
+Movie :Star Trek: First Contact (1996), 177
+Movie :Rapid Fire (1992), 173
+Movie :Ricochet (1991), 159
+Movie :Ninja Assassin (2009), 144
+Movie :Honey, I Shrunk the Kids (1989), 129
+Movie :Species II (1998), 120
+Movie :Highlander (1986), 104
+Movie :The Magnificent Seven (1960), 91
+Movie :The French Connection (1971), 89
+Movie :Half Past Dead (2002), 63
+Movie :The Phantom (1996), 62
+Movie :Commando (1985), 59
+Movie :Eagle Eye (2008), 48
+Movie :Running Scared (1986), 46
+Movie :Bad Boys II (2003), 44
+Movie :Code of Silence (1985), 38
+Movie :The Express (2008), 32
+Movie :Double Team (1997), 30
+Movie :Behind Enemy Lines (2001), 29
+Movie :The Russia House (1990), 28
+Movie :The Last Hard Men (1976), 26
+Movie :Short Time (1990), 17
+Movie :The Last of the Finest (1990), 15
+Movie :Kull the Conqueror (1997), 13
+Movie :It&apos;s a Mad, Mad, Mad, Mad World (1963), 10
+Movie :Flashpoint (1984), 9
+Movie :A Christmas Too Many (2005), 8
+Movie :Renegades (1989), 3
+Movie :Kuffs (1991), 1
+
+Genre : 5561429912110616148, 977
+Movie :Man on a Ledge (2012), 977
+Movie :Die Another Day (2002), 824
+Movie :Valkyrie (2008), 585
+Movie :The Way of the Gun (2000), 240
+Movie :To Live and Die in L.A. (1985), 217
+Movie :The Blair Witch Project (1999), 173
+Movie :Blue Seduction (2009), 78
+Movie :Transsiberian (2008), 70
+Movie :Grace (2009), 42
+Movie :Control (2004), 39
+Movie :Born Killers (2005), 38
+Movie :The Final Cut (2004), 36
+Movie :From Dusk till Dawn 3: The Hangman&apos;s Daughter (2000), 33
+Movie :From Dusk till Dawn 2: Texas Blood Money (1998), 29
+Movie :The Hollow (2004), 26
+Movie :Girls Against Boys (2012), 24
+Movie :Two Family House (2000), 21
+Movie :Internal Affairs (1990), 20
+Movie :Creep (2004), 19
+Movie :The Darkroom (2006), 2
+Genre : 4861727568365454148, 958
+Movie :The Darjeeling Limited (2007), 958
+Movie :Religulous (2008), 327
+Movie :Bowling for Columbine (2002), 99
+Movie :Standing in the Shadows of Motown (2002), 84
+Movie :That Guy...Who Was in That Thing (2012), 46
+Movie :Beware of Mr. Baker (2012), 21
+Movie :Harlan County, U.S.A. (1976), 20
+Movie :Harvard Beats Yale 29-29 (2008), 17
+Movie :Wish Me Away (2011), 16
+Movie :Another Day, Another Time: Celebrating the Music of &apos;Inside Llewyn Davis&apos; (2013), 15
+Movie :Behind the Burly Q (2010), 13
+Movie :Step Into Liquid (2003), 12
+Movie :Cutthroat Island (1995), 11
+Movie :Chasing Ghosts: Beyond the Arcade (2007), 10
+Movie :Still Bill (2009), 5
+Movie :Passing Strange (2008), 4
+Movie :The Rolling Stones Sweet Summer Sun Return to Hyde Park (2013), 2
+Genre : 5402957884317645148, 958
+Movie :The Darjeeling Limited (2007), 958
+Movie :Religulous (2008), 327
+Movie :Ghost World (2001), 290
+Movie :The Blair Witch Project (1999), 173
+Movie :Bowling for Columbine (2002), 99
+Movie :Good Dick (2007), 87
+Movie :Standing in the Shadows of Motown (2002), 84
+Movie :Zerophilia (2006), 82
+Movie :Concrete Blondes (2012), 81
+Movie :A Good Day to Be Black &amp; Sexy (2008), 67
+Movie :Leaves of Grass (2009), 47
+Movie :That Guy...Who Was in That Thing (2012), 46
+Movie :Born Killers (2005), 38
+Movie :Play the Game (2008), 37
+Movie :Beware of Mr. Baker (2012), 21
+Movie :Harlan County, U.S.A. (1976), 20
+Movie :Harvard Beats Yale 29-29 (2008), 17
+Movie :Wish Me Away (2011), 16
+Movie :Behind the Burly Q (2010), 13
+Movie :Step Into Liquid (2003), 12
+Movie :Love and a .45 (1994), 11
+Movie :Chasing Ghosts: Beyond the Arcade (2007), 10
+Movie :Love Come Down (2000), 9
+Movie :Grand Theft Parsons (2004), 8
+Movie :King of California (2007), 5
+Movie :Passing Strange (2008), 4
+Movie :Dark Horse (2011), 3
+Movie :The Rolling Stones Sweet Summer Sun Return to Hyde Park (2013), 2
+Movie :Breaking Upwards (2009), 1
+Genre : 5032137915281866148, 958
+Movie :The Darjeeling Limited (2007), 958
+Movie :Religulous (2008), 327
+Movie :Bowling for Columbine (2002), 99
+Movie :Standing in the Shadows of Motown (2002), 84
+Movie :That Guy...Who Was in That Thing (2012), 46
+Movie :Beware of Mr. Baker (2012), 21
+Movie :Harlan County, U.S.A. (1976), 20
+Movie :Harvard Beats Yale 29-29 (2008), 17
+Movie :Wish Me Away (2011), 16
+Movie :Another Day, Another Time: Celebrating the Music of &apos;Inside Llewyn Davis&apos; (2013), 15
+Movie :Behind the Burly Q (2010), 13
+Movie :Step Into Liquid (2003), 12
+Movie :Made in America (2013), 11
+Movie :Chasing Ghosts: Beyond the Arcade (2007), 10
+Movie :Still Bill (2009), 5
+Movie :Passing Strange (2008), 4
+Movie :The Rolling Stones Sweet Summer Sun Return to Hyde Park (2013), 2
+Genre : 7907652314398958148, 830
+Movie :Sexy Wives Sinsations (2011), 830
+Genre : 6546371187333017148, 830
+Movie :Sexy Wives Sinsations (2011), 830
+Movie :Sex Door Neighbors (2013), 477
+Genre : 8421976795048489148, 824
+Movie :Die Another Day (2002), 824
+Movie :The Rock (1996), 300
+Movie :The Way of the Gun (2000), 240
+Movie :Agent Cody Banks (2003), 217
+Movie :Belly (1998), 194
+Movie :Save the Last Dance (2001), 192
+Movie :The Blair Witch Project (1999), 173
+Movie :Stepmom (1998), 156
+Movie :School Ties (1992), 121
+Movie :Tron (1982), 118
+Movie :Beaches (1988), 112
+Movie :Quiz Show (1994), 106
+Movie :Bio-Dome (1995), 99
+Movie :The Associate (1996), 88
+Movie :October Sky (1999), 87
+Movie :Standing in the Shadows of Motown (2002), 84
+Movie :Stand by Me (1986), 73
+Movie :Ginger Snaps (2000), 62
+Movie :A Room With a View (1985), 55
+Movie :Ghost Dog: The Way of the Samurai (1999), 54
+Movie :The Young Americans (1993), 53
+Movie :Scary Movie (2000), 51
+Movie :Critical Condition (1987), 43
+Movie :Permanent Midnight (1998), 41
+Movie :No Holds Barred (1989), 39
+Movie :The Naked Prey (1966), 36
+Movie :From Dusk till Dawn 3: The Hangman&apos;s Daughter (2000), 33
+Movie :From Dusk till Dawn 2: Texas Blood Money (1998), 29
+Movie :Racing With the Moon (1984), 23
+Movie :Sabrina (1995), 22
+Movie :Existenz (1998), 21
+Movie :Harlan County, U.S.A. (1976), 20
+Movie :Once Around (1991), 14
+Movie :Desperado (1995), 13
+Movie :Jack (1996), 12
+Movie :Cutthroat Island (1995), 11
+Movie :Cop and a Half (1993), 9
+Movie :The Story of Us (1999), 8
+Movie :In His Father&apos;s Shoes (1997), 6
+Movie :Monty Python&apos;s The Meaning of Life (1982), 2
+Movie :Dr. T and the Women (2000), 1
+Genre : 7058973453514091148, 824
+Movie :Die Another Day (2002), 824
+Movie :Push (2009), 461
+Movie :The Rock (1996), 300
+Movie :The Chaperone (2011), 275
+Movie :The Way of the Gun (2000), 240
+Movie :Agent Cody Banks (2003), 217
+Movie :The Reunion (2011), 137
+Movie :Tron (1982), 118
+Movie :Concrete Blondes (2012), 81
+Movie :Deadfall (2012), 64
+Movie :Money Train (1995), 62
+Movie :Ghost Dog: The Way of the Samurai (1999), 54
+Movie :No Holds Barred (1989), 39
+Movie :The Naked Prey (1966), 36
+Movie :Rollerball (2002), 26
+Movie :Internal Affairs (1990), 20
+Movie :Desperado (1995), 13
+Movie :Cutthroat Island (1995), 11
+Movie :Cop and a Half (1993), 9
+Movie :The Crocodile Hunter: Collision Course (2002), 3
+Genre : 5404657457715523148, 790
+Movie :In the Line of Fire (1993), 790
+Movie :The Constant Gardener (2005), 579
+Movie :Cruel Intentions (1999), 319
+Movie :Copycat (1995), 262
+Movie :Against All Odds (1984), 213
+Movie :The Mothman Prophecies (2002), 134
+Movie :The New Daughter (2009), 125
+Movie :Eyes Wide Shut (1999), 106
+Movie :Conspiracy Theory (1997), 99
+Movie :8MM (1999), 47
+Movie :Devil in a Blue Dress (1995), 43
+Movie :The Chamber (1996), 42
+Movie :Natural Born Killers (1994), 40
+Movie :Criminal (2004), 39
+Movie :Deep Cover (1992), 27
+Movie :La Femme Nikita (1990), 20
+Movie :Arlington Road (1999), 16
+Movie :The Juror (1996), 15
+Movie :Coldblooded (1995), 7
+Movie :The Hostage (1966), 3
+Genre : 7268575971011327148, 674
+Movie :Demolition Man (1993), 674
+Movie :The Chronicles of Riddick: Dark Fury (2004), 137
+Movie :The Mothman Prophecies (2002), 134
+Movie :Dragon Wars (2007), 105
+Movie :Final Fantasy: The Spirits Within (2001), 30
+Movie :Metalstorm: The Destruction of Jared-Syn (1983), 28
+Genre : 5900361855348556148, 661
+Movie :Pride &amp; Prejudice (2005), 661
+Movie :The Inspector General (1949), 8
+Genre : 5144938945949238148, 619
+Movie :Waiting to Exhale (1995), 619
+Movie :First Kid (1996), 228
+Movie :Female Perversions (1996), 206
+Movie :Robin Hood: Men in Tights (1993), 203
+Movie :Hello, Dolly! (1969), 143
+Movie :Big Trouble in Little China (1986), 121
+Movie :All About the Benjamins (2002), 113
+Movie :Problem Child 2 (1991), 108
+Movie :Conspiracy Theory (1997), 99
+Movie :Zerophilia (2006), 82
+Movie :The Guru (2002), 73
+Movie :Big (1988), 54
+Movie :Miami Blues (1990), 51
+Movie :Out on a Limb (1992), 45
+Movie :Working Girl (1988), 43
+Movie :Johnny Be Good (1988), 32
+Movie :The Woman in Green (1945), 23
+Movie :Lenny (1974), 22
+Movie :The Jackie Robinson Story (1950), 17
+Movie :Passionada (2002), 15
+Movie :Real Men (1987), 14
+Movie :Nine Months (1995), 11
+Movie :Terror by Night (1946), 10
+Movie :The Hotel New Hampshire (1984), 8
+Movie :Bigger Than the Sky (2005), 7
+Movie :Fish Don&apos;t Blink (2002), 6
+Movie :The Mean Season (1985), 4
+
+Genre : 5053825414442561148, 585
+Movie :Valkyrie (2008), 585
+Movie :Push (2009), 461
+Movie :La mujer de mi hermano (2005), 432
+Movie :Eternal Sunshine of the Spotless Mind (2004), 386
+Movie :Ghost World (2001), 290
+Movie :Belly (1998), 194
+Movie :Save the Last Dance (2001), 192
+Movie :Stepmom (1998), 156
+Movie :School Ties (1992), 121
+Movie :Tron (1982), 118
+Movie :Beaches (1988), 112
+Movie :Quiz Show (1994), 106
+Movie :The Lightkeepers (2010), 89
+Movie :Good Dick (2007), 87
+Movie :Stand by Me (1986), 73
+Movie :Transsiberian (2008), 70
+Movie :A Good Day to Be Black &amp; Sexy (2008), 67
+Movie :Deadfall (2012), 64
+Movie :A Room With a View (1985), 55
+Movie :Ghost Dog: The Way of the Samurai (1999), 54
+Movie :The Young Americans (1993), 53
+Movie :Leaves of Grass (2009), 47
+Movie :The Velveteen Rabbit (2009), 45
+Movie :Permanent Midnight (1998), 41
+Movie :No Holds Barred (1989), 39
+Movie :Born Killers (2005), 38
+Movie :The People vs. Larry Flynt (1996), 29
+Movie :Girls Against Boys (2012), 24
+Movie :Racing With the Moon (1984), 23
+Movie :Powder Blue (2009), 22
+Movie :Two Family House (2000), 21
+Movie :Internal Affairs (1990), 20
+Movie :Once Around (1991), 14
+Movie :Jack (1996), 12
+Movie :Cop and a Half (1993), 9
+Movie :Grand Theft Parsons (2004), 8
+Movie :In His Father&apos;s Shoes (1997), 6
+Movie :Dark Horse (2011), 3
+Movie :Some Kind of Hero (1982), 2
+Movie :Breaking Upwards (2009), 1
+Genre : 7165319366994517148, 461
+Movie :Push (2009), 461
+Movie :Eternal Sunshine of the Spotless Mind (2004), 386
+Movie :The Blair Witch Project (1999), 173
+Movie :Tron (1982), 118
+Movie :Zerophilia (2006), 82
+Movie :Ginger Snaps (2000), 62
+Movie :Scary Movie 2 (2001), 54
+Movie :Scary Movie (2000), 51
+Movie :The Ward (2010), 50
+Movie :Grace (2009), 42
+Movie :The Final Cut (2004), 36
+Movie :From Dusk till Dawn 3: The Hangman&apos;s Daughter (2000), 33
+Movie :From Dusk till Dawn 2: Texas Blood Money (1998), 29
+Movie :The Howling Reborn (2010), 27
+Movie :The Hollow (2004), 26
+Movie :Existenz (1998), 21
+Movie :Creep (2004), 19
+Movie :The Darkroom (2006), 2
+Genre : 6890592056535993148, 451
+Movie :A Knight&apos;s Tale (2001), 451
+Movie :The Cutting Edge (1992), 297
+Movie :Don&apos;t Tell Mom the Babysitter&apos;s Dead (1991), 278
+Movie :The Jerk (1979), 274
+Movie :Boomerang (1992), 205
+Movie :Robin Hood: Men in Tights (1993), 203
+Movie :Frequently Asked Questions About Time Travel (2009), 202
+Movie :Choke (2008), 197
+Movie :Hello, Dolly! (1969), 143
+Movie :Reality Bites (1994), 105
+Movie :Dude, Where&apos;s My Car? (2000), 103
+Movie :Bio-Dome (1995), 99
+Movie :The Associate (1996), 88
+Movie :Dr. Dolittle 2 (2001), 86
+Movie :Grosse Pointe Blank (1997), 73
+Movie :Death Becomes Her (1992), 69
+Movie :SuperBabies: Baby Geniuses 2 (2004), 63
+Movie :Big (1988), 54
+Movie :Babe: Pig in the City (1998), 51
+Movie :Kingdom Come (2001), 49
+Movie :Say It Isn&apos;t So (2001), 48
+Movie :Working Girl (1988), 43
+Movie :Stuck on You (2003), 35
+Movie :Sgt. Pepper&apos;s Lonely Hearts Club Band (1978), 34
+Movie :Greedy (1994), 30
+Movie :Outrageous Fortune (1987), 27
+Movie :Switch (1991), 25
+Movie :Madhouse (1990), 24
+Movie :Article 99 (1992), 21
+Movie :The Brothers (2001), 18
+Movie :Short Time (1990), 17
+Movie :The Nude Bomb (1980), 16
+Movie :Canadian Bacon (1995), 15
+Movie :The Beverly Hillbillies (1993), 13
+Movie :A Very Brady Sequel (1996), 12
+Movie :Airheads (1994), 11
+Movie :PCU (1994), 8
+Movie :Mom and Dad Save the World (1992), 7
+Movie :Love for Rent (2005), 6
+Movie :Trail of the Pink Panther (1982), 3
+Genre : 5650055465675717148, 432
+Movie :La mujer de mi hermano (2005), 432
+Movie :Eternal Sunshine of the Spotless Mind (2004), 386
+Movie :Save the Last Dance (2001), 192
+Movie :Dirty Love (2005), 149
+Movie :The Lightkeepers (2010), 89
+Movie :Good Dick (2007), 87
+Movie :A Good Day to Be Black &amp; Sexy (2008), 67
+Movie :Money Train (1995), 62
+Movie :A Room With a View (1985), 55
+Movie :Play the Game (2008), 37
+Movie :Sabrina (1995), 22
+Movie :Love N&apos; Dancing (2009), 18
+Movie :Cutthroat Island (1995), 11
+Movie :Love Come Down (2000), 9
+Movie :The Story of Us (1999), 8
+Movie :Breaking Upwards (2009), 1
+Genre : 7011372531979657127, 397
+Movie :Open Season (2006), 397
+Movie :Jumanji (1995), 139
+Movie :Stuart Little 3: Call of the Wild (2005), 112
+Movie :Almost Heaven (2006), 62
+Movie :A River Changes Course (2012), 57
+Movie :Mystery of the Nile (2005), 45
+Movie :Grey Owl (1999), 42
+Movie :The Naked Prey (1966), 36
+Movie :Hunted By Night (2010), 29
+Movie :Metalstorm: The Destruction of Jared-Syn (1983), 28
+Movie :High Ground (2012), 25
+Movie :Tentacles (1977), 17
+Movie :Deliverance (1972), 13
+Movie :Cop and a Half (1993), 9
+Movie :Mustang Country (1976), 5
+Movie :Warren Miller&apos;s Children of Winter (2009), 2
+Genre : 7365077998051293148, 386
+Movie :Eternal Sunshine of the Spotless Mind (2004), 386
+Movie :Religulous (2008), 327
+Movie :Ghost World (2001), 290
+Movie :Motherhood (2009), 158
+Movie :Bio-Dome (1995), 99
+Movie :The Lightkeepers (2010), 89
+Movie :The Associate (1996), 88
+Movie :Zerophilia (2006), 82
+Movie :Scary Movie 2 (2001), 54
+Movie :Scary Movie (2000), 51
+Movie :Beer League (2006), 50
+Movie :Critical Condition (1987), 43
+Movie :Play the Game (2008), 37
+Movie :The Best of Times (1986), 28
+Movie :Sabrina (1995), 22
+Movie :The Little Minister (1934), 20
+Movie :Love N&apos; Dancing (2009), 18
+Movie :Once Around (1991), 14
+Movie :Behind the Burly Q (2010), 13
+Movie :Jack (1996), 12
+Movie :Cutthroat Island (1995), 11
+Movie :Grand Theft Parsons (2004), 8
+Movie :Igor (2008), 7
+Movie :King of California (2007), 5
+Movie :Passing Strange (2008), 4
+Movie :The Crocodile Hunter: Collision Course (2002), 3
+Movie :Monty Python&apos;s The Meaning of Life (1982), 2
+Movie :Dr. T and the Women (2000), 1
+Genre : 7600614456959206148, 375
+Movie :The Adventures of Elmo in Grouchland (1999), 375
+Movie :Hook (1991), 187
+Movie :Annie (1982), 186
+Movie :Jumanji (1995), 139
+Movie :3 Ninjas Kick Back (1994), 103
+Movie :Beethoven (1992), 93
+Movie :Beethoven&apos;s 2nd (1993), 53
+Movie :Babe: Pig in the City (1998), 51
+Movie :Ed (1996), 37
+Movie :3 Ninjas Knuckle Up (1995), 33
+Movie :Look Who&apos;s Talking Now (1993), 25
+Movie :Madeline (1998), 23
+Movie :Muppets From Space (1999), 17
+Movie :The Other Side of the Mountain (1975), 14
+Movie :Look Who&apos;s Talking Too (1990), 11
+Movie :The Other Side of the Mountain---Part 2 (1978), 9
+Genre : 8706682065528919118, 350
+Movie :Darkest Night (2013), 350
+Movie :Funny Farm (1988), 172
+Movie :Falling in Love (1984), 135
+Movie :A Very Harold &amp; Kumar Christmas (2011), 96
+Movie :The Best Man Holiday (2013), 89
+Movie :Getting to the Nutcracker (2014), 83
+Movie :The Swan Princess Christmas (2012), 76
+Movie :Holiday Engagement (2011), 75
+Movie :Black Nativity (2013), 53
+Movie :Christmas in the City (2013), 49
+Movie :All Is Bright (2013), 46
+Movie :The Velveteen Rabbit (2009), 45
+Movie :Christmas Oranges (2012), 42
+Movie :A Very Brady Christmas (1988), 37
+Movie :Look Who&apos;s Talking Now (1993), 25
+Movie :The Dead (1987), 22
+Movie :The Family Stone (2005), 19
+Movie :A Christmas Wish (2011), 15
+Movie :A Town Without Christmas (2001), 12
+Movie :The Nutcracker , 10
+Movie :12 Dogs of Christmas: Great Puppy Rescue (2012), 9
+Movie :A Christmas Too Many (2005), 8
+Movie :A Magic Cartoon Christmas (2004), 7
+Movie :Beyond Tomorrow (1940), 6
+Movie :A Very Barry Christmas (2004), 5
+Movie :Abbott and Costello: The Christmas Show (1952), 4
+Movie :Santa and Pete (1999), 3
+Movie :The Man Who Saved Christmas (2002), 2
+Movie :Ms. Scrooge (1997), 1
+Genre : 7397083707109334148, 282
+Movie :The Messenger: The Story of Joan of Arc (1999), 282
+Movie :Lean on Me (1989), 46
+Movie :Gable and Lombard (1976), 1
+Genre : 5309285429913920148, 275
+Movie :The Chaperone (2011), 275
+Movie :Agent Cody Banks (2003), 217
+Movie :Stepmom (1998), 156
+Movie :October Sky (1999), 87
+Movie :The Velveteen Rabbit (2009), 45
+Movie :The Legend of Tillamook&apos;s Gold (2006), 27
+Movie :Jack (1996), 12
+Movie :Cop and a Half (1993), 9
+Movie :Igor (2008), 7
+Movie :In His Father&apos;s Shoes (1997), 6
+Movie :The Crocodile Hunter: Collision Course (2002), 3
+Genre : 6501981974974570148, 256
+Movie :Beyonc&#233;: Life Is But a Dream (2013), 256
+Movie :There&apos;s Something Wrong With Aunt Diane (2011), 202
+Movie :Roman Polanski: Wanted and Desired (2008), 114
+Movie :Mea Maxima Culpa: Silence in the House of God (2013), 104
+Movie :Project Nim (2011), 76
+Movie :In Vogue: The Editor&apos;s Eye (2012), 72
+Movie :Which Way Is the Front Line From Here? The Life and Time of Tim Hetherington (2013), 65
+Movie :Crossfire Hurricane (2012), 62
+Movie :Love Crimes of Kabul (2011), 60
+Movie :Gun Fight (2011), 47
+Movie :50 Children: The Rescue Mission of Mr. and Mrs. Kraus (2013), 44
+Movie :4 Little Girls (1997), 43
+Movie :The Strange History of Don&apos;t Ask, Don&apos;t Tell (2011), 42
+Movie :George Harrison: Living in the Material World (2011), 29
+Movie :Gloria: In Her Own Words (2011), 25
+Movie :12th &amp; Delaware (2010), 23
+Movie :George Harrison: Living in the Material World (2011), 22
+Movie :Fall to Grace (2012), 15
+Movie :Koran by Heart (2011), 14
+Movie :In a Dream (2008), 13
+Movie :Little Rock Central: 50 Years Later (2007), 10
+Genre : 6464034335077525148, 228
+Movie :First Kid (1996), 228
+Movie :Alice&apos;s Adventures in Wonderland (1972), 101
+Movie :Care Bears: Big Wish Movie (2005), 67
+Movie :The Velveteen Rabbit (2009), 45
+Movie :Far From Home: The Adventures of Yellow Dog (1994), 36
+Movie :My Brother the Pig (1999), 8
+Genre : 6354439668077797148, 228
+Movie :First Kid (1996), 228
+Movie :Problem Child (1990), 128
+Movie :Big Trouble in Little China (1986), 121
+Movie :All About the Benjamins (2002), 113
+Movie :McLintock! (1963), 112
+Movie :Fair Game (1995), 104
+Movie :Bio-Dome (1995), 99
+Movie :Kiss of Death (1995), 63
+Movie :The Adventures of Buckaroo Banzai Across the 8th Dimension! (1984), 58
+Movie :Miami Blues (1990), 51
+Movie :Working Girl (1988), 43
+Movie :Natural Born Killers (1994), 40
+Movie :Greedy (1994), 30
+Movie :Kull the Conqueror (1997), 13
+Movie :F/X (1986), 11
+Movie :The Hotel New Hampshire (1984), 8
+Movie :The Dirty Dozen: The Fatal Mission (1988), 5
+Movie :The Couch Trip (1988), 1
+Genre : 8139303488064008148, 186
+Movie :Annie (1982), 186
+Movie :Class Act (1992), 16
+Movie :The Pirates of Penzance (1983), 10
+Genre : 7662351884547935148, 125
+Movie :The New Daughter (2009), 125
+Movie :Candyman (1992), 68
+Movie :Hidden (2009), 34
+Movie :The Car (1977), 15
+Movie :In the Mouth of Madness (1994), 14
+Movie :Night of the Living Dead (1990), 10
+Movie :Frontier(s) (2008), 7
+Genre : 8974412654646205148, 104
+Movie :Highlander (1986), 104
+Movie :A Clockwork Orange (1971), 64
+Movie :The Adventures of Buckaroo Banzai Across the 8th Dimension! (1984), 58
+Movie :Miami Blues (1990), 51
+Movie :Soldier Boyz (1996), 43
+Movie :Grace (2009), 42
+Movie :The Quest (1996), 38
+Movie :Existenz (1998), 21
+Movie :Night of the Living Dead (1968), 19
+Movie :The Serpent and the Rainbow (1988), 15
+Movie :Real Men (1987), 14
+Genre : 5958757689152533148, 103
+Movie :3 Ninjas Kick Back (1994), 103
+Movie :3 Ninjas Knuckle Up (1995), 33
+Movie :The Karate Kid Part II (1986), 32
+Movie :Last Action Hero (1993), 20
+Movie :The Karate Kid Part III (1989), 10
+Genre : 8658711280501936148, 37
+Movie :Ed (1996), 37
+Movie :The Best of Times (1986), 28
+Genre : 5058500922603831148, 30
+Movie :Final Fantasy: The Spirits Within (2001), 30
+Genre : 6411615113809957148, 27
+Movie :Klitschko (2011), 27
+Genre : 8518462637630335148, 20
+Movie :The Proposition (1998), 20
+Genre : 6308723256782489148, 14
+Movie :Sex Tapes (2012), 14
+Genre : 5720911853336754148, 12
+Movie :American Splendor (2003), 12
+Genre : 4613263322587560148, 6
+Movie :Love for Rent (2005), 6
+
+== No Genre ==
+Movie :The Second Best Exotic Marigold Hotel (2015), 1123
+Movie :H.O.T.S. (1979), 87
+Movie :Emmanuelle Through Time: Emmanuelle&apos;s Skin City , 86
+Movie :Mike Tyson: Undisputed Truth (2013), 82
+Movie :Chloe , 75
+Movie :Orange Love , 66
+Movie :Rushmore , 53
+Movie :Age of Heroes (2011), 42
+Movie :Spanklish (2011), 35
+Movie :Einstein And Eddington , 22
+Movie :How Weed Won the West (2010), 17
+Movie :Naughty Boy (1962), 16
+Movie :Sleeping Beauty , 15
+Movie :The Perfect Picture (2009), 13
+Movie :Pendejo (2012), 12
+Movie :Ponchao (2013), 11
+Movie :The Little Rascals (1955), 10
+Movie :Sue&#241;os de pasi&#243;n: Una suegra muy ardiente (2014), 8
+Movie :The Art of Seduction (2000), 7
+Movie :La Demora , 5
+Movie :The Secret of Nikola Tesla (1979), 4
+Movie :Howling , 4
+Movie :Ed Hardy: Tattoo The World (2001), 3
+Movie :24 Hours on Craigslist (2006), 2
+Movie :A Shriek in the Night , 2
+Movie :La &#218;ltima Noche , 2
+Movie :Celine (2012), 1
